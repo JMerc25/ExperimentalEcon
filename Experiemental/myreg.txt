@@ -1,0 +1,29 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	Player 1 Give	Player 1 Give	Punisher Punish	Punisher Punish
+				
+age		0.0450**		-0.00619
+		(0.0176)		(0.00888)
+1.p2bot		-0.0888		-1.791***
+		(0.724)		(0.531)
+0b.p2bot#co.age		0		0
+		(0)		(0)
+1.p2bot#c.age		-0.0381*		0.0246*
+		(0.0200)		(0.0134)
+o.age				-
+				
+1.p1bot				-0.858*
+				(0.489)
+0b.p1bot#co.age				0
+				(0)
+1.p1bot#c.age				0.0179
+				(0.0123)
+p2bot	-1.454***		-0.881***	
+	(0.183)		(0.156)	
+p1bot			-0.181	
+			(0.149)	
+Constant	1.801***	0.177	-0.201*	0.0289
+	(0.150)	(0.626)	(0.105)	(0.348)
+				
+Observations	739	736	1,133	1,111
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

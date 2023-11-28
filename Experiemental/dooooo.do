@@ -17,25 +17,45 @@ binary variable:
 
 --------------------------------------------------------
 */
-
+*Make Variables
 gen p2bot = 1 if scenario == "p2bot"
 replace p2bot = 0 if p2bot ==.
 
 gen p3bot = 1 if scenario =="p3bot"
 replace p3bot = 0 if p3bot ==.
 
-reg p1s1 p2bot
-reg p1s1 c.age##p2bot##p3bot 
-logit p1s1 c.age##p2bot##p3bot
-
 gen p1bot = 1 if scenario == "p1bot"
 replace p1bot = 0 if p1bot ==.
 
-reg p3s1 p1bot
+
+*non-logistic regressions
+reg p1s1 p2bot
+reg p1s1 c.age##p2bot 
+
+reg p3s1 p1bot p2bot
 reg p3s1 c.age##p2bot c.age##p1bot 
-logit p3s1 c.age##p2bot c.age##p1bot 
 
 
+*logistic Regressions
+
+logit p1s1 p2bot , robust
+outreg2 using myreg.doc, replace ctitle(Player 1 Give)
+logit p1s1 c.age##p2bot, robust
+outreg2 using myreg.doc, append ctitle(Player 1 Give)
+
+logit p3s1 p1bot p2bot, robust
+outreg2 using myreg.doc, append ctitle(Punisher Punish)
+logit p3s1 c.age##p2bot c.age##p1bot, robust 
+outreg2 using myreg.doc, append ctitle(Punisher Punish)
+
+*Graphs
+binscatter p1s1 age, by(p2bot) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph(Figure1.png) replace
+
+binscatter p3s1 age, by(p1bot) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph(Figure2.png) replace
+
+binscatter p3s1 age, by(p2bot) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph(Figure3.png) replace
+
+binscatter p3s1 age, by(p2bot) absorb(income) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph(Figure3.png) replace
 /* 
 
 P4H_trust_gain
