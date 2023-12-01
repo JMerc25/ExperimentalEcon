@@ -1,10 +1,10 @@
 {\rtf1\fs24
-\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2304\clbrdrt\brdrs\cellx4320\clbrdrt\brdrs\cellx6336\clbrdrt\brdrs\cellx8640\clbrdrt\brdrs\cellx10944
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2304\clbrdrt\brdrs\cellx4032\clbrdrt\brdrs\cellx5760\clbrdrt\brdrs\cellx8064\clbrdrt\brdrs\cellx10368
 \ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
-\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx4320\cellx6336\cellx8640\cellx10944
-\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx6336\clbrdrb\brdrs\cellx8640\clbrdrb\brdrs\cellx10944
-\ql VARIABLES\cell\qc Player 1 Give\cell\qc Player 1 Give\cell\qc Punisher Punish\cell\qc Punisher Punish\cell\row
-\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx4320\cellx6336\cellx8640\cellx10944
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx4032\cellx5760\cellx8064\cellx10368
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx4032\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx8064\clbrdrb\brdrs\cellx10368
+\ql VARIABLES\cell\qc Helper Give\cell\qc Helper Give\cell\qc Punisher Punish\cell\qc Punisher Punish\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx4032\cellx5760\cellx8064\cellx10368
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
 \ql age\cell\qc \cell\qc 0.0450**\cell\qc \cell\qc -0.00619\cell\row
 \ql \cell\qc \cell\qc (0.0176)\cell\qc \cell\qc (0.00888)\cell\row
@@ -29,7 +29,7 @@
 \ql Constant\cell\qc 1.801***\cell\qc 0.177\cell\qc -0.201*\cell\qc 0.0289\cell\row
 \ql \cell\qc (0.150)\cell\qc (0.626)\cell\qc (0.105)\cell\qc (0.348)\cell\row
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
-\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx6336\clbrdrb\brdrs\cellx8640\clbrdrb\brdrs\cellx10944
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx4032\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx8064\clbrdrb\brdrs\cellx10368
 \ql Observations\cell\qc 739\cell\qc 736\cell\qc 1,133\cell\qc 1,111\cell\row
 \pard\qc
 Robust standard errors in parentheses\par

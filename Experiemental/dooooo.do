@@ -1,5 +1,7 @@
 import delimited "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\Experiemental\experiment.csv", numericcols(6 13 14 15 16 17 18 19 20 21 22 37 38 61) clear
 
+log using GroupReplication.dta, replace
+
 * import delimited "C:\Users\joshu\OneDrive\Documents\Experiemental\experiment.csv", numericcols(6 13 14 15 16 17 18 19 20 21 22 37 38 61) clear 
 
 /*--------------------------------------------------------
@@ -39,9 +41,9 @@ reg p3s1 c.age##p2bot c.age##p1bot
 *logistic Regressions
 
 logit p1s1 p2bot , robust
-outreg2 using myreg.doc, replace ctitle(Player 1 Give)
+outreg2 using myreg.doc, replace ctitle(Helper Give)
 logit p1s1 c.age##p2bot, robust
-outreg2 using myreg.doc, append ctitle(Player 1 Give)
+outreg2 using myreg.doc, append ctitle(Helper Give)
 
 logit p3s1 p1bot p2bot, robust
 outreg2 using myreg.doc, append ctitle(Punisher Punish)
@@ -74,3 +76,5 @@ reg p4h_trust_gain c.age##p1bot##p2bot##p3bot
 
 logit p4p_trust_gain c.age##p1bot##p2bot##p3bot
 logit p4h_trust_gain c.age##p1bot##p2bot##p3bot
+
+log close

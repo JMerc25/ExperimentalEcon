@@ -1,5 +1,5 @@
 	(1)	(2)	(3)	(4)
-VARIABLES	Player 1 Give	Player 1 Give	Punisher Punish	Punisher Punish
+VARIABLES	Helper Give	Helper Give	Punisher Punish	Punisher Punish
 				
 age		0.0450**		-0.00619
 		(0.0176)		(0.00888)
