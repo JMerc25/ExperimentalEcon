@@ -1,6 +1,6 @@
 import delimited "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\Experiemental\experiment.csv", numericcols(6 13 14 15 16 17 18 19 20 21 22 37 38 61) clear
 
-log using GroupReplication.dta, replace
+log using GroupReplication.log, replace
 
 * import delimited "C:\Users\joshu\OneDrive\Documents\Experiemental\experiment.csv", numericcols(6 13 14 15 16 17 18 19 20 21 22 37 38 61) clear 
 

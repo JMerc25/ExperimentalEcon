@@ -1,0 +1,585 @@
+-----------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\Experiemental\GroupRepli
+> cation.log
+  log type:  text
+ opened on:   1 Dec 2023, 10:38:57
+
+. 
+. * import delimited "C:\Users\joshu\OneDrive\Documents\Experiemental\experiment.csv", numericc
+> ols(6 13 14 15 16 17 18 19 20 21 22 37 38 61) clear 
+. 
+. /*--------------------------------------------------------
+> P1S1
+> 
+> binary variable:
+>         Whether or not Player 1 wants to share resources with 
+>         Player 2, takes values
+> --------------------------------------------------------
+> P3S1
+> 
+> binary variable:
+>         Whether or not Player 3 decides to punish Player 1 for 
+>         not sharing
+> 
+> --------------------------------------------------------
+> */
+. *Make Variables
+. gen p2bot = 1 if scenario == "p2bot"
+(7,407 missing values generated)
+
+. replace p2bot = 0 if p2bot ==.
+(7,407 real changes made)
+
+. 
+. gen p3bot = 1 if scenario =="p3bot"
+(9,824 missing values generated)
+
+. replace p3bot = 0 if p3bot ==.
+(9,824 real changes made)
+
+. 
+. gen p1bot = 1 if scenario == "p1bot"
+(7,856 missing values generated)
+
+. replace p1bot = 0 if p1bot ==.
+(7,856 real changes made)
+
+. 
+. 
+. *non-logistic regressions
+. reg p1s1 p2bot
+
+      Source |       SS           df       MS      Number of obs   =       739
+-------------+----------------------------------   F(1, 737)       =     74.84
+       Model |  13.6969903         1  13.6969903   Prob > F        =    0.0000
+    Residual |  134.879464       737  .183011485   R-squared       =    0.0922
+-------------+----------------------------------   Adj R-squared   =    0.0910
+       Total |  148.576455       738  .201323109   Root MSE        =     .4278
+
+------------------------------------------------------------------------------
+        p1s1 | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       p2bot |  -.2722891   .0314744    -8.65   0.000    -.3340792    -.210499
+       _cons |   .8583106   .0223309    38.44   0.000     .8144709    .9021504
+------------------------------------------------------------------------------
+
+. reg p1s1 c.age##p2bot 
+
+      Source |       SS           df       MS      Number of obs   =       736
+-------------+----------------------------------   F(3, 732)       =     27.79
+       Model |  15.1233391         3  5.04111302   Prob > F        =    0.0000
+    Residual |  132.777476       732  .181389995   R-squared       =    0.1023
+-------------+----------------------------------   Adj R-squared   =    0.0986
+       Total |  147.900815       735  .201225599   Root MSE        =     .4259
+
+------------------------------------------------------------------------------
+        p1s1 | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         age |   .0043184   .0018033     2.39   0.017     .0007782    .0078587
+     1.p2bot |  -.1696478   .1052219    -1.61   0.107    -.3762206     .036925
+             |
+ p2bot#c.age |
+          1  |  -.0026592    .002654    -1.00   0.317    -.0078695    .0025511
+             |
+       _cons |   .6930494    .073301     9.45   0.000     .5491441    .8369547
+------------------------------------------------------------------------------
+
+. 
+. reg p3s1 p1bot p2bot
+
+      Source |       SS           df       MS      Number of obs   =     1,133
+-------------+----------------------------------   F(2, 1130)      =     18.29
+       Model |  8.24693821         2   4.1234691   Prob > F        =    0.0000
+    Residual |  254.745118     1,130  .225438158   R-squared       =    0.0314
+-------------+----------------------------------   Adj R-squared   =    0.0296
+       Total |  262.992056     1,132  .232325138   Root MSE        =     .4748
+
+------------------------------------------------------------------------------
+        p3s1 | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       p1bot |   -.044385   .0350511    -1.27   0.206    -.1131577    .0243876
+       p2bot |  -.1967317   .0342921    -5.74   0.000    -.2640151   -.1294482
+       _cons |   .4498645   .0247173    18.20   0.000     .4013676    .4983614
+------------------------------------------------------------------------------
+
+. reg p3s1 c.age##p2bot c.age##p1bot 
+note: age omitted because of collinearity.
+
+      Source |       SS           df       MS      Number of obs   =     1,111
+-------------+----------------------------------   F(5, 1105)      =      7.92
+       Model |  8.94688737         5  1.78937747   Prob > F        =    0.0000
+    Residual |  249.747982     1,105  .226016273   R-squared       =    0.0346
+-------------+----------------------------------   Adj R-squared   =    0.0302
+       Total |  258.694869     1,110  .233058441   Root MSE        =    .47541
+
+------------------------------------------------------------------------------
+        p3s1 | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         age |  -.0015238   .0021069    -0.72   0.470    -.0056578    .0026102
+     1.p2bot |  -.3848453   .1170155    -3.29   0.001     -.614443   -.1552477
+             |
+ p2bot#c.age |
+          1  |   .0051279    .002993     1.71   0.087    -.0007448    .0110005
+             |
+         age |          0  (omitted)
+     1.p1bot |  -.2091551   .1145701    -1.83   0.068    -.4339546    .0156445
+             |
+ p1bot#c.age |
+          1  |   .0043748   .0028968     1.51   0.131     -.001309    .0100587
+             |
+       _cons |    .506624   .0826692     6.13   0.000     .3444176    .6688303
+------------------------------------------------------------------------------
+
+. 
+. 
+. *logistic Regressions
+. 
+. logit p1s1 p2bot , robust
+
+Iteration 0:   log pseudolikelihood = -437.32075  
+Iteration 1:   log pseudolikelihood = -402.94228  
+Iteration 2:   log pseudolikelihood = -402.06263  
+Iteration 3:   log pseudolikelihood = -402.06063  
+Iteration 4:   log pseudolikelihood = -402.06063  
+
+Logistic regression                                     Number of obs =    739
+                                                        Wald chi2(1)  =  63.03
+                                                        Prob > chi2   = 0.0000
+Log pseudolikelihood = -402.06063                       Pseudo R2     = 0.0806
+
+------------------------------------------------------------------------------
+             |               Robust
+        p1s1 | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       p2bot |  -1.453786   .1831158    -7.94   0.000    -1.812687   -1.094886
+       _cons |   1.801329   .1497856    12.03   0.000     1.507754    2.094903
+------------------------------------------------------------------------------
+
+. outreg2 using myreg.doc, replace ctitle(Helper Give)
+myreg.doc
+dir : seeout
+
+. logit p1s1 c.age##p2bot, robust
+
+Iteration 0:   log pseudolikelihood = -435.38969  
+Iteration 1:   log pseudolikelihood = -396.56264  
+Iteration 2:   log pseudolikelihood =  -394.2072  
+Iteration 3:   log pseudolikelihood = -394.17394  
+Iteration 4:   log pseudolikelihood = -394.17391  
+
+Logistic regression                                     Number of obs =    736
+                                                        Wald chi2(3)  =  62.78
+                                                        Prob > chi2   = 0.0000
+Log pseudolikelihood = -394.17391                       Pseudo R2     = 0.0947
+
+------------------------------------------------------------------------------
+             |               Robust
+        p1s1 | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         age |   .0449571   .0176017     2.55   0.011     .0104583    .0794559
+     1.p2bot |   -.088775   .7240558    -0.12   0.902    -1.507898    1.330348
+             |
+ p2bot#c.age |
+          1  |  -.0380734    .019962    -1.91   0.056    -.0771981    .0010514
+             |
+       _cons |   .1771065   .6264562     0.28   0.777    -1.050725    1.404938
+------------------------------------------------------------------------------
+
+. outreg2 using myreg.doc, append ctitle(Helper Give)
+myreg.doc
+dir : seeout
+
+. 
+. logit p3s1 p1bot p2bot, robust
+
+Iteration 0:   log pseudolikelihood = -744.32255  
+Iteration 1:   log pseudolikelihood = -726.17499  
+Iteration 2:   log pseudolikelihood = -726.08515  
+Iteration 3:   log pseudolikelihood = -726.08514  
+
+Logistic regression                                     Number of obs =  1,133
+                                                        Wald chi2(2)  =  34.73
+                                                        Prob > chi2   = 0.0000
+Log pseudolikelihood = -726.08514                       Pseudo R2     = 0.0245
+
+------------------------------------------------------------------------------
+             |               Robust
+        p3s1 | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       p1bot |  -.1814669   .1494489    -1.21   0.225    -.4743813    .1114475
+       p2bot |  -.8807547   .1556544    -5.66   0.000    -1.185832   -.5756778
+       _cons |  -.2012182   .1046894    -1.92   0.055    -.4064057    .0039693
+------------------------------------------------------------------------------
+
+. outreg2 using myreg.doc, append ctitle(Punisher Punish)
+myreg.doc
+dir : seeout
+
+. logit p3s1 c.age##p2bot c.age##p1bot, robust 
+
+note: age omitted because of collinearity.
+Iteration 0:   log pseudolikelihood = -731.52808  
+Iteration 1:   log pseudolikelihood = -711.80072  
+Iteration 2:   log pseudolikelihood = -711.64818  
+Iteration 3:   log pseudolikelihood = -711.64812  
+
+Logistic regression                                     Number of obs =  1,111
+                                                        Wald chi2(5)  =  37.18
+                                                        Prob > chi2   = 0.0000
+Log pseudolikelihood = -711.64812                       Pseudo R2     = 0.0272
+
+------------------------------------------------------------------------------
+             |               Robust
+        p3s1 | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         age |  -.0061857   .0088785    -0.70   0.486    -.0235872    .0112159
+     1.p2bot |  -1.790603   .5308999    -3.37   0.001    -2.831148   -.7500585
+             |
+ p2bot#c.age |
+          1  |   .0245579   .0133615     1.84   0.066    -.0016301    .0507459
+             |
+         age |          0  (omitted)
+     1.p1bot |   -.858334   .4887392    -1.76   0.079    -1.816245    .0995771
+             |
+ p1bot#c.age |
+          1  |   .0179301   .0123172     1.46   0.145    -.0062111    .0420714
+             |
+       _cons |   .0288994   .3481824     0.08   0.934    -.6535256    .7113243
+------------------------------------------------------------------------------
+
+. outreg2 using myreg.doc, append ctitle(Punisher Punish)
+myreg.doc
+dir : seeout
+
+. 
+. *Graphs
+. binscatter p1s1 age, by(p2bot) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph
+> (Figure1.png) replace
+file Figure1.png saved as PNG format
+
+. 
+. binscatter p3s1 age, by(p1bot) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph
+> (Figure2.png) replace
+file Figure2.png saved as PNG format
+
+. 
+. binscatter p3s1 age, by(p2bot) xtitle(Age) ytitle(Probability of Giving) line(qfit) savegraph
+> (Figure3.png) replace
+file Figure3.png saved as PNG format
+
+. 
+. binscatter p3s1 age, by(p2bot) absorb(income) xtitle(Age) ytitle(Probability of Giving) line(
+> qfit) savegraph(Figure3.png) replace
+file Figure3.png saved as PNG format
+
+. /* 
+> 
+> P4H_trust_gain
+> 
+> The amount the Helper would gain if they had shared with
+> the Beneficiary. This is calculated using P4HS1_Yes
+> and P4HS1_No
+> 
+>    */
+. 
+. * Not sure what to do with this section- seems like they asked the same people about two hypo
+> theticals in the end, I can't find the results of the trust game
+. 
+. 
+. reg p4p_trust_gain c.age##p1bot##p2bot##p3bot
+note: 1.p1bot#1.p2bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#c.age identifies no observations in the sample.
+note: 1.p1bot#1.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p3bot#c.age identifies no observations in the sample.
+note: 1.p2bot#1.p3bot identifies no observations in the sample.
+note: 1.p2bot#1.p3bot#c.age identifies no observations in the sample.
+note: 0b.p1bot#1.p2bot#1.p3bot identifies no observations in the sample.
+note: 1.p1bot#0b.p2bot#1.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#0b.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#1.p3bot identifies no observations in the sample.
+note: 0b.p1bot#1.p2bot#1.p3bot#c.age identifies no observations in the sample.
+note: 1.p1bot#0b.p2bot#1.p3bot#c.age identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#0b.p3bot#c.age identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#1.p3bot#c.age identifies no observations in the sample.
+
+      Source |       SS           df       MS      Number of obs   =     2,694
+-------------+----------------------------------   F(7, 2686)      =     13.11
+       Model |  152514.579         7  21787.7969   Prob > F        =    0.0000
+    Residual |   4462750.9     2,686  1661.48582   R-squared       =    0.0330
+-------------+----------------------------------   Adj R-squared   =    0.0305
+       Total |  4615265.48     2,693  1713.80077   Root MSE        =    40.761
+
+-----------------------------------------------------------------------------------------
+         p4p_trust_gain | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+                    age |  -.5771289   .1256082    -4.59   0.000    -.8234273   -.3308304
+                1.p1bot |  -15.04202   7.113067    -2.11   0.035    -28.98966   -1.094375
+                        |
+            p1bot#c.age |
+                     1  |   .4333465   .1807552     2.40   0.017      .078913    .7877799
+                        |
+                1.p2bot |  -30.05902   7.085867    -4.24   0.000    -43.95333   -16.16472
+                        |
+            p2bot#c.age |
+                     1  |   .4389596   .1796252     2.44   0.015      .086742    .7911771
+                        |
+            p1bot#p2bot |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p2bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+                1.p3bot |  -8.151049   7.065876    -1.15   0.249    -22.00615    5.704056
+                        |
+            p3bot#c.age |
+                     1  |   .2179987   .1785566     1.22   0.222    -.1321235    .5681209
+                        |
+            p1bot#p3bot |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p3bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+            p2bot#p3bot |
+                   1 1  |          0  (empty)
+                        |
+      p2bot#p3bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p2bot#p3bot |
+                 0 1 1  |          0  (empty)
+                 1 0 1  |          0  (empty)
+                 1 1 0  |          0  (empty)
+                 1 1 1  |          0  (empty)
+                        |
+p1bot#p2bot#p3bot#c.age |
+                 0 1 1  |          0  (empty)
+                 1 0 1  |          0  (empty)
+                 1 1 0  |          0  (empty)
+                 1 1 1  |          0  (empty)
+                        |
+                  _cons |   34.31536   4.968201     6.91   0.000     24.57347    44.05724
+-----------------------------------------------------------------------------------------
+
+. reg p4h_trust_gain c.age##p1bot##p2bot##p3bot
+note: 1.p1bot#1.p2bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#c.age identifies no observations in the sample.
+note: 0.p3bot omitted because of collinearity.
+note: 0.p3bot#c.age omitted because of collinearity.
+note: 1.p1bot#0.p3bot omitted because of collinearity.
+note: 1.p1bot#0.p3bot#c.age omitted because of collinearity.
+note: 1.p2bot#0.p3bot omitted because of collinearity.
+note: 1.p2bot#0.p3bot#c.age omitted because of collinearity.
+note: 1.p1bot#1.p2bot#0.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#0.p3bot#c.age identifies no observations in the sample.
+
+      Source |       SS           df       MS      Number of obs   =     4,285
+-------------+----------------------------------   F(5, 4279)      =     32.75
+       Model |  264326.097         5  52865.2193   Prob > F        =    0.0000
+    Residual |  6906543.07     4,279   1614.0554   R-squared       =    0.0369
+-------------+----------------------------------   Adj R-squared   =    0.0357
+       Total |  7170869.17     4,284  1673.87236   Root MSE        =    40.175
+
+-----------------------------------------------------------------------------------------
+         p4h_trust_gain | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+                    age |   .3302569   .0843663     3.91   0.000     .1648553    .4956585
+                1.p1bot |  -1.719962   4.934762    -0.35   0.727    -11.39465     7.95473
+                        |
+            p1bot#c.age |
+                     1  |  -.1150291   .1201938    -0.96   0.339    -.3506713    .1206131
+                        |
+                1.p2bot |  -11.85371   4.935092    -2.40   0.016    -21.52905   -2.178373
+                        |
+            p2bot#c.age |
+                     1  |  -.1462454    .119319    -1.23   0.220    -.3801725    .0876817
+                        |
+            p1bot#p2bot |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p2bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+                0.p3bot |          0  (omitted)
+                        |
+            p3bot#c.age |
+                     0  |          0  (omitted)
+                        |
+            p1bot#p3bot |
+                   1 0  |          0  (omitted)
+                        |
+      p1bot#p3bot#c.age |
+                   1 0  |          0  (omitted)
+                        |
+            p2bot#p3bot |
+                   1 0  |          0  (omitted)
+                        |
+      p2bot#p3bot#c.age |
+                   1 0  |          0  (omitted)
+                        |
+      p1bot#p2bot#p3bot |
+                 1 1 0  |          0  (empty)
+                        |
+p1bot#p2bot#p3bot#c.age |
+                 1 1 0  |          0  (empty)
+                        |
+                  _cons |    37.4393   3.457304    10.83   0.000     30.66119    44.21741
+-----------------------------------------------------------------------------------------
+
+. 
+. logit p4p_trust_gain c.age##p1bot##p2bot##p3bot
+
+note: 1.p1bot#1.p2bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#c.age identifies no observations in the sample.
+note: 1.p1bot#1.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p3bot#c.age identifies no observations in the sample.
+note: 1.p2bot#1.p3bot identifies no observations in the sample.
+note: 1.p2bot#1.p3bot#c.age identifies no observations in the sample.
+note: 0.p1bot#1.p2bot#1.p3bot identifies no observations in the sample.
+note: 1.p1bot#0.p2bot#1.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#0.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#1.p3bot identifies no observations in the sample.
+note: 0.p1bot#1.p2bot#1.p3bot#c.age identifies no observations in the sample.
+note: 1.p1bot#0.p2bot#1.p3bot#c.age identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#0.p3bot#c.age identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#1.p3bot#c.age identifies no observations in the sample.
+Iteration 0:   log likelihood =  -1818.388  
+Iteration 1:   log likelihood = -1812.0672  
+Iteration 2:   log likelihood = -1812.0655  
+Iteration 3:   log likelihood = -1812.0655  
+
+Logistic regression                                     Number of obs =  2,694
+                                                        LR chi2(7)    =  12.64
+                                                        Prob > chi2   = 0.0812
+Log likelihood = -1812.0655                             Pseudo R2     = 0.0035
+
+-----------------------------------------------------------------------------------------
+         p4p_trust_gain | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+                    age |  -.0024457   .0063807    -0.38   0.701    -.0149518    .0100603
+                1.p1bot |    .130102   .3598756     0.36   0.718    -.5752412    .8354452
+                        |
+            p1bot#c.age |
+                     1  |   -.007303   .0090998    -0.80   0.422    -.0251383    .0105324
+                        |
+                1.p2bot |  -.5433639   .3555405    -1.53   0.126    -1.240211    .1534827
+                        |
+            p2bot#c.age |
+                     1  |   .0056926   .0090067     0.63   0.527    -.0119601    .0233454
+                        |
+            p1bot#p2bot |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p2bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+                1.p3bot |  -.1019064   .3559233    -0.29   0.775    -.7995032    .5956905
+                        |
+            p3bot#c.age |
+                     1  |  -.0029494    .008966    -0.33   0.742    -.0205225    .0146237
+                        |
+            p1bot#p3bot |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p3bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+            p2bot#p3bot |
+                   1 1  |          0  (empty)
+                        |
+      p2bot#p3bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p2bot#p3bot |
+                 0 1 1  |          0  (empty)
+                 1 0 1  |          0  (empty)
+                 1 1 0  |          0  (empty)
+                 1 1 1  |          0  (empty)
+                        |
+p1bot#p2bot#p3bot#c.age |
+                 0 1 1  |          0  (empty)
+                 1 0 1  |          0  (empty)
+                 1 1 0  |          0  (empty)
+                 1 1 1  |          0  (empty)
+                        |
+                  _cons |   .6497618   .2530908     2.57   0.010     .1537129    1.145811
+-----------------------------------------------------------------------------------------
+
+. logit p4h_trust_gain c.age##p1bot##p2bot##p3bot
+
+note: 1.p1bot#1.p2bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#c.age identifies no observations in the sample.
+note: 0.p3bot omitted because of collinearity.
+note: 0.p3bot#c.age omitted because of collinearity.
+note: 1.p1bot#0.p3bot omitted because of collinearity.
+note: 1.p1bot#0.p3bot#c.age omitted because of collinearity.
+note: 1.p2bot#0.p3bot omitted because of collinearity.
+note: 1.p2bot#0.p3bot#c.age omitted because of collinearity.
+note: 1.p1bot#1.p2bot#0.p3bot identifies no observations in the sample.
+note: 1.p1bot#1.p2bot#0.p3bot#c.age identifies no observations in the sample.
+Iteration 0:   log likelihood = -2517.9976  
+Iteration 1:   log likelihood = -2480.6182  
+Iteration 2:   log likelihood = -2480.1841  
+Iteration 3:   log likelihood = -2480.1838  
+Iteration 4:   log likelihood = -2480.1838  
+
+Logistic regression                                     Number of obs =  4,285
+                                                        LR chi2(5)    =  75.63
+                                                        Prob > chi2   = 0.0000
+Log likelihood = -2480.1838                             Pseudo R2     = 0.0150
+
+-----------------------------------------------------------------------------------------
+         p4h_trust_gain | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+                    age |   .0155065    .005442     2.85   0.004     .0048404    .0261726
+                1.p1bot |   .0407692    .291674     0.14   0.889    -.5309013    .6124397
+                        |
+            p1bot#c.age |
+                     1  |  -.0101114   .0072871    -1.39   0.165    -.0243938    .0041711
+                        |
+                1.p2bot |  -.3075508   .2833101    -1.09   0.278    -.8628284    .2477268
+                        |
+            p2bot#c.age |
+                     1  |  -.0098916   .0070362    -1.41   0.160    -.0236822    .0038991
+                        |
+            p1bot#p2bot |
+                   1 1  |          0  (empty)
+                        |
+      p1bot#p2bot#c.age |
+                   1 1  |          0  (empty)
+                        |
+                0.p3bot |          0  (omitted)
+                        |
+            p3bot#c.age |
+                     0  |          0  (omitted)
+                        |
+            p1bot#p3bot |
+                   1 0  |          0  (omitted)
+                        |
+      p1bot#p3bot#c.age |
+                   1 0  |          0  (omitted)
+                        |
+            p2bot#p3bot |
+                   1 0  |          0  (omitted)
+                        |
+      p2bot#p3bot#c.age |
+                   1 0  |          0  (omitted)
+                        |
+      p1bot#p2bot#p3bot |
+                 1 1 0  |          0  (empty)
+                        |
+p1bot#p2bot#p3bot#c.age |
+                 1 1 0  |          0  (empty)
+                        |
+                  _cons |   .7326555   .2147536     3.41   0.001     .3117462    1.153565
+-----------------------------------------------------------------------------------------
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\Experiemental\GroupRepli
+> cation.log
+  log type:  text
+ closed on:   1 Dec 2023, 10:39:00
+-----------------------------------------------------------------------------------------------
