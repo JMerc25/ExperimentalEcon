@@ -1,6 +1,6 @@
 
 
-drop xJoy
+
 
 gen typea=1 if Type==1
 replace typea=0 if Type==2
