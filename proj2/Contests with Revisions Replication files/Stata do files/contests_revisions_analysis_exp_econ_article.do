@@ -49,7 +49,7 @@ by contest alpha: sum x1hat x2hat x12hat x12eq_expost changehat if Type==1
 by contest alpha: sum x12guess if Type==2
 by contest alpha: sum x
 
-*Rate of overbidding - Median compared to 1.72 (Sheremeta, 2013)
+/*Rate of overbidding - Median compared to 1.72 (Sheremeta, 2013)
 sort alpha
 sum ratio_to_eq if Type==1 & lottery==1 & alpha==0.25, detail
 sum ratio_to_eq if Type==2 & lottery==1 & alpha==0.25, detail
@@ -57,7 +57,7 @@ sum ratio_to_eq_12 if Type==1 & lottery==1 & alpha==0.25, detail
 
 sum ratio_to_eq if Type==1 & lottery==1 & alpha==0.75, detail
 sum ratio_to_eq if Type==2 & lottery==1 & alpha==0.75, detail
-sum ratio_to_eq_12 if Type==1 & lottery==1 & alpha==0.75, detail
+sum ratio_to_eq_12 if Type==1 & lottery==1 & alpha==0.75, detail*/
 
 ****************
 *Section 5.1.2**
@@ -105,7 +105,10 @@ by alpha: signrank invest01=eq_lthan5_1 if lottery==0
 by alpha: signrank invest02=eq_lthan5_2 if lottery==0
 
 ****Frequency of zero expenditure by subjectid
+clear 
+use "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Contests with Revisions Replication files\Stata dataset to use for analysis\revisionscontestdata.dta"
 
+do "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Contests with Revisions Replication files\Stata do files\var_definitions.do"
 keep if contestperiod==1
 
 gen r1_exp=0
@@ -150,7 +153,6 @@ sort alpha
 hist r1_exp, width(0.1) fraction by(alpha, note(""))
 
 ******With lagged expenditure***********
-clear
 
 *Period >10 & Period >30
 keep if contestperiod==1
