@@ -11,8 +11,10 @@
 *******************************
 **********Footnote 12**********
 *******************************
+clear
+use "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Contests with Revisions Replication files\Stata dataset to use for analysis\revisionscontestdata.dta"
 
-do C:\purdue\var_definitions.do
+do "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Contests with Revisions Replication files\Stata do files\var_definitions.do"
 sort contest
 gen ug=1-graduate
 gen econmatheng=0
@@ -35,8 +37,7 @@ ttest xjow if part==4  & Period==40, by(contest)
 ************************************************
 **NON-PARAMETRIC TESTS**************************
 ************************************************
-clear
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 *drop if part==3 & Period<=10
@@ -69,8 +70,7 @@ sum ratio_to_eq_12 if Type==1 & lottery==1 & alpha==0.75, detail
 ****************
 *INVESTING ZERO*
 ****************
-clear
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 *drop if part==3 & Period<=10
@@ -105,7 +105,7 @@ by alpha: signrank invest01=eq_lthan5_1 if lottery==0
 by alpha: signrank invest02=eq_lthan5_2 if lottery==0
 
 ****Frequency of zero expenditure by subjectid
-do C:\purdue\var_definitions.do
+
 keep if contestperiod==1
 
 gen r1_exp=0
@@ -151,7 +151,7 @@ hist r1_exp, width(0.1) fraction by(alpha, note(""))
 
 ******With lagged expenditure***********
 clear
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 *drop if part==3 & Period<=10
@@ -176,7 +176,7 @@ xtregar x xl1 alpha typeb i.sessionid if lottery==0
 ****************
 
 clear
-do C:\purdue\var_definitions.do
+
 drop if Type==2
 *Period >10 & Period >30
 keep if contestperiod==1
@@ -212,7 +212,7 @@ by contest alpha: tab response if x2hat>=95
 ******************RESULT 1*********************************
 ***********************************************************
 
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 drop if Type==2
@@ -249,7 +249,7 @@ by alpha: signrank changehat=0 if lottery==1
 ******TABLE 3******
 *******************
 
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 drop if Type==2
@@ -288,7 +288,7 @@ by alpha: signrank dissipation=eq_dissipation if lottery==1
 ******TABLE 4******
 *******************
 
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 *drop if part==3 & Period<=10
@@ -320,7 +320,7 @@ by alpha: signrank x2hat=x12hat if lottery==1
 ****WITHIN SESSION TREATMENT (25 VS. 75) COMPARISONS****
 ********************************************************
 
-do C:\purdue\var_definitions.do
+
 *Period >10 & Period >30
 keep if contestperiod==1
 drop if part==3 & Period<=10
