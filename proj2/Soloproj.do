@@ -89,3 +89,4 @@ label var irr_nochange "No change even though was rational"
 
 ** Gender differences in risk preferences
 
+gen felit= female * lottery
