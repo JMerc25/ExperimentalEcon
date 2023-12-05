@@ -1,0 +1,1102 @@
+Period	chat	PlayerName	GroupPlay	TimeInfoPayoffStructureChatMessage	Dimension1_C	Dimension2_C	Dimension3_C	Dimension4_C	Dimension5_C	Dimension6_C	Dimension7_C	Dimension8_C	Dimension9_C	Dimension10_C	Dimension1_H	Dimension2_H	Dimension3_H	Dimension4_H	Dimension5_H	Dimension6_H	Dimension7_H	Dimension8_H	Dimension9_H	Dimension10_H	lie_c	lie_h	lie
+1	Irgendwlche Vorschl‰ge?	Weiﬂ  2	1	53	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	Ich w‰re f¸r Situation X  Alternative A	Weiﬂ  1	1	51	10	1	1	3	3	2	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0
+1	Ich auch	Weiﬂ  2	1	45	10	1	1	3	3	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	okay	Weiﬂ  1	1	32	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	Easy	Weiﬂ  2	1	28	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	Weiﬂ 3?	Weiﬂ  2	1	22	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0
+1	B	Weiﬂ  3	1	22	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+1	Hallo!	Weiﬂ  1	2	100	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	hello!	Weiﬂ  3	2	97	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	was habt ihr f¸r situationen?	Weiﬂ  1	2	86	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+1	bei mir ist es x!	Weiﬂ  1	2	80	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	x	Weiﬂ  2	2	80	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	y	Weiﬂ  3	2	80	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	ok :D	Weiﬂ  1	2	69	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	das heiﬂt das es wahrscheinlich auch wirklich x ist oder	Weiﬂ  1	2	34	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	dann w‰re a am sinnvollsten	Weiﬂ  2	2	27	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+1	vermutlich	Weiﬂ  3	2	24	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	jubb A w‰re am besten	Weiﬂ  1	2	10	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+1	aber vielleicht auch zu 30% y?	Weiﬂ  3	2	6	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+1	auch wenn es dann y wird	Weiﬂ  2	2	6	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	hi, mein computer sagt es liegt situation X vor	Weiﬂ  2	3	90	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	Meiner auch	Weiﬂ  3	3	85	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	ja meiner auch	Weiﬂ  1	3	84	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	dann sollten wir alle f¸r A stimmen	Weiﬂ  2	3	67	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+1	dann lsst uns a w‰hlen damit alle verdienen	Weiﬂ  1	3	62	10	1	1	3	3	2	3	0	4	0	4	1	1	3	3	1	2	0	4	0	0	0	0
+1	genau !	Weiﬂ  1	3	55	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+1	Das denke ich auch	Weiﬂ  3	3	53	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+1	genau	Weiﬂ  2	3	51	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+1	wie hoch ist die wahrscheinlichkeit dass us der comp alle 3 anl¸gt? ^^	Weiﬂ  2	3	18	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+1	*uns	Weiﬂ  2	3	10	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	Verschwindend gering	Weiﬂ  3	3	2	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+1	wenn das jetzt geschieht w‰r das blˆd	Weiﬂ  1	3	1	9	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+1	Eure Infos? Meine lautet Y...	Weiﬂ  1	4	101	1	4	1	3	9	4	3	0	4	0	1	4	2	3	9	4	3	0	4	0	0	0	0
+1	ich habe die Inofrmation, dass die Situation x ist	Weiﬂ  3	4	96	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+1	Mr White 2?	Weiﬂ  1	4	73	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0
+1	Die Situation x ,Alternative  A	Weiﬂ  2	4	59	1	1	1	3	3	2	3	0	4	0	1	1	1	3	3	1	3	0	4	0	0	0	0
+1	Macht Sinn!	Weiﬂ  1	4	45	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+1	ja ist f¸r uns am sichersten 	Weiﬂ  3	4	40	10	1	1	3	3	2	3	0	4	0	4	4	2	3	9	4	3	0	4	0	0	0	0
+1	nat¸rlich	Weiﬂ  2	4	30	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	Eure Infos? Meine = Y	Weiﬂ  1	1	113	1	4	1	3	9	4	3	0	4	0	1	4	2	3	9	4	3	0	4	0	0	0	0
+2	hello! auch y bei mir!	Weiﬂ  3	1	103	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	Bbei mir x	Weiﬂ  2	1	100	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	Also dann Variante B?	Weiﬂ  1	1	88	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+2	ok dann wahrscheinlich y oder?	Weiﬂ  3	1	88	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	jop, denk ich auch	Weiﬂ  1	1	82	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	ja wenn bei mir eher b	Weiﬂ  2	1	81	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+2	jubb	Weiﬂ  3	1	80	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	B!!	Weiﬂ  3	1	72	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+2	Muy bien	Weiﬂ  1	1	67	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	ja oay	Weiﬂ  2	1	65	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	okay	Weiﬂ  2	1	63	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	si	Weiﬂ  3	1	63	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	Und sonst so? Brexit 'n' stuff...	Weiﬂ  1	1	41				3				1										1		0	0	0	0
+2	"puh harter tobak ;)"	Weiﬂ  3	1	27				3				1										1		0	0	0	0
+2	auf jedenfalll 	Weiﬂ  2	1	16				3				1										1		0	0	0	0
+2	Ja, schlimme Sache das	Weiﬂ  1	1	14				3				1										1		0	0	0	0
+2	nich gut	Weiﬂ  2	1	10				3				1										1		0	0	0	0
+2	Mein Computer hat Y angezeigt	Weiﬂ  1	2	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	hi, mein computer sagt es liegt situation Y vor	Weiﬂ  3	2	109	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	X	Weiﬂ  2	2	95	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+2	Dann ist Y wahrscheinlicher	Weiﬂ  1	2	73	7	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0
+2	bin f¸r a	Weiﬂ  2	2	69	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+2	theoretisch ja!	Weiﬂ  3	2	65	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	"denk dran, 30% l¸gt der computer ;)"	Weiﬂ  3	2	46	8	4	1	3	9	4	3	0	4	0	8	4	4	3	9	4	3	0	4	0	0	0	0
+2	Ich f¸r B	Weiﬂ  1	2	45	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+2	jupp	Weiﬂ  2	2	40	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	Wenn wir alle f¸r A stimmen und blau komplett f¸r C, wird nach Los entschieden und einer geht leer aus	Weiﬂ  1	2	16	10	4	1	3	2	1	1	0	3	0	8	4	1	3	9	4	1	0	2	0	0	0	0
+2	wir sollten A w‰hlen	Weiﬂ  3	2	2	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+2	alle a?	Weiﬂ  2	2	2	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+2	y	Weiﬂ  2	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	y	Weiﬂ  1	3	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	bein mir auch	Weiﬂ  3	3	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	top	Weiﬂ  2	3	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	ja dann sollten wir b ausw‰hlen damit jeder was davon hat	Weiﬂ  3	3	99	3	2	1	3	4	1	2	0	3	0	3	2	1	3	4	1	2	0	4	0	0	0	0
+2	B	Weiﬂ  1	3	96	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+2	genau =)	Weiﬂ  2	3	91	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	super	Weiﬂ  1	3	84	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	genau ^^	Weiﬂ  3	3	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	jetzt wo wir uns entschieden haben vergeht die zeit aber ziemlich langsam da oben ^^	Weiﬂ  3	3	27	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+2	jaaa!	Weiﬂ  2	3	21	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	y	Weiﬂ  2	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	hi	Weiﬂ  1	4	117	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	bei mir y	Weiﬂ  1	4	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	bei mir x	Weiﬂ  3	4	108	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+2	dann w‰re a eine solide sache oder?	Weiﬂ  2	4	98	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+2	dann wieder a?!	Weiﬂ  1	4	94	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+2	falls es doch x w‰re	Weiﬂ  2	4	90	10	1	1	3	3	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	japp!	Weiﬂ  2	4	86	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	jajajaja	Weiﬂ  1	4	85	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	klingt gut!	Weiﬂ  3	4	81	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+2	prima :)	Weiﬂ  2	4	77	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+2	Das ging schnell	Weiﬂ  3	4	69	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+2	supi! :)	Weiﬂ  1	4	51	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	bei mir y	Weiﬂ  1	1	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	bei mir auch y	Weiﬂ  2	1	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	y	Weiﬂ  3	1	107	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+3	B?	Weiﬂ  2	1	103	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	b!	Weiﬂ  3	1	99	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	wenn blau mitzieht, haben wir alle was davon :D	Weiﬂ  2	1	88	10	4	1	3	9	4	2	0	1	0	3	4	1	3	9	4	2	0	1	0	0	0	0
+3	klar dann pokern wir :)	Weiﬂ  1	1	79	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+3	blau geht dann auch nicht leer aus!	Weiﬂ  3	1	74	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	1	0	3	0	0	0	0
+3	eben :)	Weiﬂ  1	1	57	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	skaten? wer hat lust? ^^	Weiﬂ  3	1	53	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	perfekt!	Weiﬂ  2	1	51	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	y	Weiﬂ  3	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	bei mir sagt er y	Weiﬂ  2	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	Bei mir x	Weiﬂ  1	2	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	ohhh	Weiﬂ  2	2	111	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	x B? 	Weiﬂ  1	2	97	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	wAS meint ihr was wir machen sollten ?	Weiﬂ  2	2	88	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+3	ja	Weiﬂ  3	2	87	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	x B	Weiﬂ  3	2	75	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	w¸rd ich auch so nehmen	Weiﬂ  1	2	72	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	b ausw‰hlen ? na guut	Weiﬂ  2	2	53	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	mh oder doch a?	Weiﬂ  1	2	39	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+3	b	Weiﬂ  3	2	27	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	ok	Weiﬂ  1	2	24	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	jaa stimmt lieber b	Weiﬂ  2	2	15	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	y	Weiﬂ  3	3	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	hi, mein computer sagt es liegt situation Y vor	Weiﬂ  1	3	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	meiner auch	Weiﬂ  2	3	107	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	y!	Weiﬂ  2	3	105	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	yeah	Weiﬂ  3	3	101	9	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	alle 3 y?	Weiﬂ  1	3	100	9	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+3	jubb	Weiﬂ  2	3	97	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	also B	Weiﬂ  1	3	96	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	ja!	Weiﬂ  3	3	92	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	B!!!	Weiﬂ  2	3	91	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+3	nice	Weiﬂ  1	3	86	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	wieso hat man 2 minuten zeit daf¸r?	Weiﬂ  2	3	68	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	viel zu lang!	Weiﬂ  3	3	61	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	weil manchmal nicht alle 3 dasselbe sagen	Weiﬂ  1	3	55	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	trotzdem. 	Weiﬂ  3	3	48	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	dann kann man diskutieren	Weiﬂ  1	3	47	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	den blauen muss es gerade ganzschˆn langweilig sein :P	Weiﬂ  2	3	36	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+3	auf jeden fall :D	Weiﬂ  3	3	30	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+3	war in der 2. runde bei mir schon etwas knapp	Weiﬂ  1	3	27	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	haha	Weiﬂ  1	3	22	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	‰hm okay	Weiﬂ  3	3	12	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	hallo blau :)	Weiﬂ  1	3	5	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+3	vllt sollten wir auch mehr diskutieren??	Weiﬂ  2	3	4	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	:D	Weiﬂ  2	3	1	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	Mir wurde Y angezeigt	Weiﬂ  2	4	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	Ahoi! Meine Info = X	Weiﬂ  1	4	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+3	Situation X und A	Weiﬂ  3	4	110	1	1	1	3	3	2	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0
+3	Jap, dann A	Weiﬂ  1	4	101	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+3	ok	Weiﬂ  3	4	91	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	Also wahrscheinlich eher X -> A	Weiﬂ  2	4	90	10	1	1	3	3	2	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0
+3	Perfecto!	Weiﬂ  1	4	78	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+3	"Hui sind wir gut;D"	Weiﬂ  3	4	72	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	tRƒUMCHEN	Weiﬂ  2	4	66	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+3	8)	Weiﬂ  1	4	60	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+4	hi, mein computer sagt es liegt situation Y vor	Weiﬂ  2	1	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	hi! bei mir wieder y	Weiﬂ  3	1	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	X	Weiﬂ  1	1	107	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	dann wieder B?	Weiﬂ  3	1	89	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+4	also wenny dann B	Weiﬂ  1	1	87	10	2	1	3	4	2	3	0	4	0	10	2	1	3	8	2	3	0	4	0	0	0	0
+4	hm, wahrscheinlicher ist also y, aber nicht zu 100%	Weiﬂ  2	1	81	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+4	ich w‰r auch f¸r b	Weiﬂ  2	1	69	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+4	risiko ist nicht besonders groﬂ	Weiﬂ  2	1	41	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+4	schon klar.aber die 70% klingen soo gut	Weiﬂ  1	1	41	7	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0
+4	wie meinst du? :)	Weiﬂ  2	1	23	10	4	1	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0
+4	B!	Weiﬂ  2	1	1	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+4	Mir wurde Y angezeigt	Weiﬂ  3	2	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	Bei mir Y	Weiﬂ  1	2	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	bei mir ist es y	Weiﬂ  2	2	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	Also B. Davon haben alle was	Weiﬂ  3	2	98	3	2	1	3	4	1	2	0	3	0	3	2	1	3	4	1	2	0	4	0	0	0	0
+4	wieder b	Weiﬂ  1	2	96	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+4	genau	Weiﬂ  1	2	94	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+4	Jup!	Weiﬂ  2	2	93	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+4	bei mir sagt er y	Weiﬂ  3	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	bei mir x	Weiﬂ  2	3	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	Aloha! Meine Info = Y	Weiﬂ  1	3	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	also wat machen wir dann... b oder a ?	Weiﬂ  3	3	96	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+4	W¸rd sagen B, no risk, no fun	Weiﬂ  1	3	74	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+4	ja ich stimme zu 	Weiﬂ  2	3	65	10	4	1	3	9	4	3	0	4	0	10	4	4	1	9	4	3	0	4	0	0	0	0
+4	jaa hast recht, w‰re auch mein gedanke	Weiﬂ  3	3	60	10	4	1	3	9	4	3	0	4	0	10	4	4	1	9	4	3	0	4	0	0	0	0
+4	also dann alle b	Weiﬂ  3	3	55	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+4	Astrein!	Weiﬂ  1	3	53	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+4	genau!	Weiﬂ  2	3	41	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+4	x	Weiﬂ  2	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	x	Weiﬂ  3	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	y	Weiﬂ  1	4	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+4	A?	Weiﬂ  3	4	104	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+4	--> a?	Weiﬂ  1	4	104	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+4	)))	Weiﬂ  3	4	98	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+4	w¸rde ich auch sagen 	Weiﬂ  2	4	95	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+4	ja w‰re am besten	Weiﬂ  1	4	89	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+4	ist nur die frage was die blauen machen :D	Weiﬂ  2	4	87	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	3	0	0	0	0
+4	auch A!!	Weiﬂ  1	4	79	10	1	1	3	3	1	3	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+4	please	Weiﬂ  1	4	76	10	1	1	3	3	1	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	y	Weiﬂ  3	1	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	y	Weiﬂ  2	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	Y	Weiﬂ  1	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	dann B	Weiﬂ  2	1	106											10	2	1	3	4	1	3	0	4	0	0	0	0
+5	yeah also B?	Weiﬂ  3	1	103											10	2	1	3	4	1	3	0	4	0	0	0	0
+5	ja	Weiﬂ  1	1	100	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	jup	Weiﬂ  2	1	96	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	kˆnnen ja abwechseld.eine runde alle dieselbe entscheidung und in der darauf folgenden runde jeder selbst	Weiﬂ  1	1	70	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	h‰?	Weiﬂ  3	1	56	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	also diese alle gemeinsam und die drauf jeder auf seine weise.	Weiﬂ  1	1	44	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	versteh ich auch grad nicht xd	Weiﬂ  2	1	43	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	die gruppen wechseln doch nach jeder runde :D 	Weiﬂ  3	1	39	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+5	ach mist da war ja was	Weiﬂ  1	1	22	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	auﬂerdem ist das doch f¸r die weiﬂen zumindest alle die beste entscheidung :D 	Weiﬂ  3	1	18	10	4	1	3	9	4	3	0	4	0	4	4	1	3	9	4	3	0	4	0	0	0	0
+5	stimmt :D	Weiﬂ  2	1	16	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+5	";D"	Weiﬂ  1	1	15	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	x	Weiﬂ  2	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	bei mir y	Weiﬂ  3	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	bei mir sagt er y	Weiﬂ  1	2	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	b?	Weiﬂ  3	2	105	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+5	b	Weiﬂ  2	2	102	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+5	na dann sollten wir eher b nehmen oder <?	Weiﬂ  1	2	100	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+5	ich denke die sache ist entschieden :)	Weiﬂ  3	2	80	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	super, dann w‰hlen wir b aus, hoffen wir das der computer uns nicht verarscht :)	Weiﬂ  1	2	59	9	2	1	3	4	1	3	0	4	0	9	2	1	3	4	1	3	0	4	0	0	0	0
+5	aha-ha	Weiﬂ  2	2	49	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	wird schon schief gehen :D	Weiﬂ  3	2	38	9	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	jaa ^^	Weiﬂ  1	2	15	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	Mir sagt er X	Weiﬂ  2	3	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	Bei mir Y	Weiﬂ  1	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	bei mir auch y	Weiﬂ  3	3	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	DAnn ist  wahrscheinlicher	Weiﬂ  2	3	104	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	Also B	Weiﬂ  2	3	101	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+5	Y	Weiﬂ  2	3	95	9	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	yes indeed	Weiﬂ  3	3	91	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	bin auch f¸r B	Weiﬂ  3	3	82	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+5	ist gut :)	Weiﬂ  1	3	75	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	DAnn freuen sich auch die blauen Mitleser ein wenig	Weiﬂ  2	3	71	10	4	1	3	9	4	3	0	3	0	10	4	3	3	9	4	3	0	1	0	0	0	0
+5	"die sind bestimmt schon eingeschlafen ;)"	Weiﬂ  3	3	42	10	4	1	3	9	4	3	0	3	0	10	4	3	3	9	4	3	0	2	0	0	0	0
+5	Dann w¸rden sie aber die Abstimmungen verpassen^^	Weiﬂ  2	3	25	10	4	1	3	9	4	3	0	4	0	19	4	3	3	9	4	3	0	3	0	0	0	0
+5	hi, mein computer sagt es liegt situation Y vor	Weiﬂ  1	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	bei mir ist wieder y	Weiﬂ  3	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	Ahoi! Meine Info = Y	Weiﬂ  2	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+5	das gef‰llt mir nicht 	Weiﬂ  3	4	103	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	haha na dann er¸brigt sich die diskussion :)	Weiﬂ  1	4	100	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	Dann ist der Sachverhalt ja eindeutig!	Weiﬂ  2	4	99	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	warum weiﬂ 3? :)	Weiﬂ  1	4	90	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0
+5	Muy excelente	Weiﬂ  2	4	89	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	bei situation y ist blau im vorteil	Weiﬂ  3	4	81	7	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	3	0	0	0	0
+5	Die Schweine!	Weiﬂ  2	4	64	10	4	1	2	9	4	3	0	3	0	10	4	1	2	9	4	3	0	3	0	0	0	0
+5	nicht wirklich, wenn sie sich sozial verhalten w‰hlen sie B...	Weiﬂ  1	4	57	3	2	1	3	4	1	2	0	1	0	10	2	1	2	4	4	3	0	1	0	0	0	0
+5	Das w‰r auch das stochastisch fairste, right?	Weiﬂ  2	4	35	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	klar! f‰nde ich auch gut. gemeinsam gegen das experiment!^^	Weiﬂ  3	4	33	10	4	1	3	9	4	3	0	3	0	3	4	1	3	9	4	3	0	4	0	0	0	0
+5	haha, beschimpf nicht unsere blauen mitspieler, sonst w‰hlen sie C ^^	Weiﬂ  1	4	28	10	4	1	3	9	4	3	0	3	0	10	4	4	3	9	4	3	0	2	0	0	0	0
+5	Blau ist meine Lieblingsfarbe!	Weiﬂ  2	4	16	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	meiner auch!	Weiﬂ  3	4	9	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	meine ist rot XD	Weiﬂ  1	4	5	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+5	also b	Weiﬂ  3	4	2	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+5	:O	Weiﬂ  2	4	0	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	Bei mir zeigt er y	Weiﬂ  2	1	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	bei mir sagt er wieder Y!	Weiﬂ  3	1	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	situatuion y	Weiﬂ  1	1	107	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	B?	Weiﬂ  2	1	105	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	das spiel is gezinkt X-S	Weiﬂ  3	1	101	7	4	1	3	9	4	3	0	4	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+6	BBBBBB! 	Weiﬂ  1	1	93	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	ja bei Y immer B	Weiﬂ  3	1	90	10	2	1	3	4	2	3	0	4	0	10	2	1	3	8	2	3	0	4	0	0	0	0
+6	Vor allem, wenn es so eindeutig ist	Weiﬂ  2	1	69	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	blau bitte auch B w‰hlen.. pretty please? :)	Weiﬂ  3	1	46	3	2	1	3	4	1	2	0	3	0	10	2	3	1	4	1	3	0	3	0	0	0	0
+6	ich glaub es kommt viel mehr y als x	Weiﬂ  3	1	21	8	4	1	3	9	4	3	0	4	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+6	Dann gewinnen wir alle zusammen :)	Weiﬂ  2	1	20	3	4	1	3	9	4	2	0	3	0	3	4	1	3	9	4	3	0	4	0	0	0	0
+6	weill bei x die entscheidung zu eindeutig	Weiﬂ  3	1	12	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	ja genau	Weiﬂ  3	1	7	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+6	y	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	y	Weiﬂ  1	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	Salut! Computer sagt: X	Weiﬂ  2	2	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	hm mist	Weiﬂ  3	2	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	b	Weiﬂ  1	2	101	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	Dann B?	Weiﬂ  2	2	98	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	ja oder halt a	Weiﬂ  3	2	94	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+6	a w‰re sicherer	Weiﬂ  3	2	87	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+6	b	Weiﬂ  1	2	75	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	Ich steh auf den richtigen Kick, B	Weiﬂ  2	2	71	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	schˆn f¸r euch 	Weiﬂ  3	2	64	10	4	1	3	9	4	3	0	4	0	10	4	2	2	9	4	3	0	4	0	0	0	0
+6	bei mir sagt er y	Weiﬂ  1	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	ich habe y	Weiﬂ  3	3	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	Y bei mir auch	Weiﬂ  2	3	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	top, dann b oder?	Weiﬂ  3	3	104	10	2	1	3	4	2	3	0	4	0	10	2	1	1	4	1	3	0	4	0	0	0	0
+6	ja dann ist ja klar	Weiﬂ  1	3	101	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	jep, b	Weiﬂ  2	3	97	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6		Weiﬂ  2	3	96				3				1										1		0	0	0	0
+6	ja genau B	Weiﬂ  1	3	95	10	2	1	3	4	1	3	0	4	0	10	2	1	1	4	1	3	0	4	0	0	0	0
+6	l‰uft! :)	Weiﬂ  3	3	77	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	Mir wird Y angezeigt	Weiﬂ  2	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	hello	Weiﬂ  1	4	113	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	mir auch!	Weiﬂ  1	4	110	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+6	auch	Weiﬂ  3	4	100	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+6	Also B	Weiﬂ  2	4	96	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+6	ja eindeutig	Weiﬂ  1	4	82	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	alles klar	Weiﬂ  3	4	53	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+6	Top	Weiﬂ  2	4	47	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	ich habe x	Weiﬂ  1	1	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Aloha --> X!	Weiﬂ  2	1	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	y sagt er	Weiﬂ  3	1	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Dann A? Goldener Schuss	Weiﬂ  2	1	96	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	mh dann a?	Weiﬂ  3	1	95	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	ja seh ich auch so	Weiﬂ  3	1	90	10	1	1	3	3	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	jupp dann a 	Weiﬂ  1	1	75	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	y	Weiﬂ  2	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Y	Weiﬂ  3	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Mir wird Y angezeigt	Weiﬂ  1	2	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Also B	Weiﬂ  1	2	113	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+7	ja	Weiﬂ  2	2	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	"Wehe es ist doch X...;D"	Weiﬂ  3	2	97	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	Ich bin dagegen^^	Weiﬂ  1	2	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	b	Weiﬂ  2	2	74	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+7	oh man.ok B	Weiﬂ  3	2	51	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+7	Check	Weiﬂ  1	2	40	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	hi, mein computer sagt es liegt situation X vor	Weiﬂ  2	3	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Bei mir zeigt er X	Weiﬂ  1	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	bei mir y	Weiﬂ  3	3	109	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	Meint ihr blau stimmt f¸r A....?	Weiﬂ  1	3	90	10	1	1	3	3	1	3	0	3	0	10	4	2	3	9	4	3	0	3	0	0	0	0
+7	also bestenfalls A?	Weiﬂ  3	3	84	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	jubb	Weiﬂ  3	3	82	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	in den letzten runden war bei mir immer y, wir sollten A w‰hlen	Weiﬂ  2	3	80	10	1	1	3	3	1	3	0	4	0	7	1	1	3	3	1	3	0	4	0	0	0	0
+7	Bei mir war auch immer Y	Weiﬂ  1	3	70	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+7	hehe	Weiﬂ  3	3	66	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	also ich denke es kˆnnte tats‰chlich x sein ^^	Weiﬂ  2	3	61	9	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	ich finde man sollte die blauen viel mehr verwirren	Weiﬂ  3	3	51	10	4	1	3	9	4	3	0	4	1	10	4	1	2	9	4	3	0	3	0	0	0	0
+7	haha	Weiﬂ  2	3	42	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	Hahahaha	Weiﬂ  1	3	38	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	die frage ist nur wie?	Weiﬂ  3	3	37	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	w‰r aber schlecht, dann w¸rden sie alle c w‰hlen!	Weiﬂ  2	3	20	10	4	1	3	9	4	3	0	2	0	10	4	1	3	9	4	3	0	2	0	0	0	0
+7	weil das w‰r f¸r blau ein sicherer payout	Weiﬂ  2	3	8	10	4	1	3	9	4	3	0	3	0	7	4	1	3	9	4	3	0	3	0	0	0	0
+7	ja kˆnnte nach hinten losgehen ^^	Weiﬂ  3	3	7	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	ich bin daf¸r wir sagen die wahrheit ^^	Weiﬂ  2	3	0	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	x	Weiﬂ  3	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	bei mir sagt er x	Weiﬂ  2	4	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	bei X liegt der schatz vergraben	Weiﬂ  1	4	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+7	super dann w‰hlen wir wohl A aus oder ?	Weiﬂ  2	4	96	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	yeah. dann nehmen ja wohl alle a 	Weiﬂ  3	4	95	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	ja super A ist Trumpf!	Weiﬂ  1	4	89	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+7	20 punkte, das schmeckt ^^	Weiﬂ  2	4	70	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	2	0	4	0	0	0	0
+7	mjamjam	Weiﬂ  3	4	62	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	uff jeden	Weiﬂ  1	4	39	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	blau ist cool! <3	Weiﬂ  1	4	29	10	4	1	3	9	4	3	0	1	0	10	4	1	3	9	4	3	0	1	0	0	0	0
+7	:D aha	Weiﬂ  3	4	10	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+7	ja ich mag blau auch	Weiﬂ  2	4	6	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	1	0	0	0	0
+7	<3	Weiﬂ  1	4	0	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+8	hi, mein computer sagt es liegt situation X vor	Weiﬂ  2	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	Computer sagt X	Weiﬂ  3	1	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	Y	Weiﬂ  1	1	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	Dann A?	Weiﬂ  3	1	105	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+8	ja	Weiﬂ  1	1	96	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+8	wieder son fall ^^ ja, ich w‰r wieder f¸r A	Weiﬂ  2	1	92	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+8	Get rich or die tryin'	Weiﬂ  3	1	85				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+8	XD	Weiﬂ  2	1	77				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+8	ohja haha	Weiﬂ  1	1	73				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+8	so wir ham noch ne minute	Weiﬂ  2	1	51				3				1										1		0	0	0	0
+8	ich spam mal den chat zu	Weiﬂ  2	1	46				3				1										1		0	0	0	0
+8	40sek	Weiﬂ  1	1	38				3				1										1		0	0	0	0
+8	haha	Weiﬂ  1	1	36				3				1										1		0	0	0	0
+8	Haha, gib alles	Weiﬂ  3	1	28				3				1										1		0	0	0	0
+8	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$	Weiﬂ  2	1	28				3				1										1		0	0	0	0
+8	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$	Weiﬂ  2	1	21				3				1										1		0	0	0	0
+8	eigentlich ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ	Weiﬂ  2	1	12				3				1										1		0	0	0	0
+8	aber gut	Weiﬂ  2	1	10				3				1										1		0	0	0	0
+8	eh wehe der scheiss st¸rzt gleich ab	Weiﬂ  1	1	8				3				1										1		0	0	0	0
+8	XD	Weiﬂ  2	1	4				3				1										1		0	0	0	0
+8	Haha	Weiﬂ  3	1	2				3				1										1		0	0	0	0
+8	y	Weiﬂ  2	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	Y	Weiﬂ  3	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	y	Weiﬂ  1	2	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	ok, dann B wie Blau! <3!!!	Weiﬂ  2	2	97	10	2	1	3	4	2	3	0	1	0	10	2	3	3	4	1	3	0	4	0	0	0	0
+8	B l‰uft	Weiﬂ  3	2	92	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+8		Weiﬂ  3	2	91				3				1										1		0	0	0	0
+8	komm schon Blau!	Weiﬂ  1	2	82	10	4	1	3	9	4	3	0	3	0	10	4	3	3	9	4	3	0	3	0	0	0	0
+8	nehmt B(lau)!	Weiﬂ  1	2	65	10	4	1	3	9	4	3	0	3	0	10	2	3	3	4	1	3	0	4	0	0	0	0
+8	puh ganzschˆn langweilig ^^	Weiﬂ  1	2	35				3				1										1		0	0	0	0
+8	y	Weiﬂ  3	3	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	bei mir ist es x	Weiﬂ  1	3	110	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	x bei mir	Weiﬂ  2	3	109	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	okay dann lieber a	Weiﬂ  3	3	100	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+8	dann w¸rde ich sagen, das wir a nehmen	Weiﬂ  2	3	96	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+8	okay dann w¸rde ich auf a spekulieren 	Weiﬂ  1	3	95	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+8	super dann sind wir uns ja einig :)	Weiﬂ  1	3	80	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+8	";)"	Weiﬂ  2	3	70	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+8	am anfang dachte ich 2 minuten w‰re viel, aber wir sind ja immer schon nach 20 sek fertig	Weiﬂ  1	3	41	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+8	*nicht viel	Weiﬂ  1	3	31	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+8	ja mega nervig	Weiﬂ  3	3	28	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+8	ja man	Weiﬂ  2	3	28	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+8	ich penn st‰ndig ein beim warten :)	Weiﬂ  2	3	4	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+8	Y	Weiﬂ  3	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	Y...	Weiﬂ  1	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	y	Weiﬂ  2	4	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+8	B?	Weiﬂ  1	4	113	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+8	Also B	Weiﬂ  3	4	112	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+8	ok	Weiﬂ  2	4	101	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+8	Bitte liebe Blaue, w‰hlt B! :)	Weiﬂ  1	4	93	3	2	1	3	4	1	2	0	3	0	10	2	3	1	4	1	3	0	4	0	0	0	0
+8	ok	Weiﬂ  2	4	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	y	Weiﬂ  1	1	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	y	Weiﬂ  2	1	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	meiner sagt es liegt situation X vor	Weiﬂ  3	1	99	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	mist :D	Weiﬂ  1	1	91	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	mmm 	Weiﬂ  2	1	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	a oder b?	Weiﬂ  1	1	77	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	hm, bisher war's so dass man sich auf die 2 von 3 verlassen konnte	Weiﬂ  3	1	66	7	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0
+9	bei mir nicht 	Weiﬂ  1	1	56	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	ausser beim letzten mal, da hat der pc alle ausgetrickst -_-	Weiﬂ  3	1	47	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	wenn wir alle a sagen dann verliert blau. aber blau war fair also sage ich b	Weiﬂ  2	1	24	3	2	1	3	4	1	2	0	3	0	10	2	1	1	4	1	3	0	1	0	0	0	0
+9	weiss sollte A w‰hlen	Weiﬂ  3	1	9	10	1	1	3	3	1	3	0	4	0	10	1	2	3	3	1	3	0	4	0	0	0	0
+9	y	Weiﬂ  1	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	Y	Weiﬂ  2	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	Y	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	B	Weiﬂ  2	2	115	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+9	ok	Weiﬂ  1	2	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	what about a	Weiﬂ  3	2	84	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+9	B	Weiﬂ  2	2	60	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+9	ich schlaf nochmal dr¸ber	Weiﬂ  3	2	38	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+9	Aber nciht schnarchen	Weiﬂ  2	2	29	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+9	oder a?	Weiﬂ  1	2	24	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+9	B	Weiﬂ  2	2	13	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+9	ok	Weiﬂ  1	2	10	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	Y	Weiﬂ  1	3	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9		Weiﬂ  1	3	117				3				1										1		0	0	0	0
+9	bei mir sagt er y	Weiﬂ  3	3	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	soo jetzt ist es y	Weiﬂ  2	3	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	dann wohl B	Weiﬂ  1	3	101	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+9	schˆn dann lasst uns doch wieder b nehmen	Weiﬂ  2	3	99	10	2	1	3	4	2	3	0	4	0	10	2	1	1	4	1	3	0	4	0	0	0	0
+9	ok super, dann w‰hlen wir also B aus	Weiﬂ  3	3	97	10	2	1	3	4	2	3	0	4	0	10	2	1	1	4	1	3	0	4	0	0	0	0
+9	ganz genau :)	Weiﬂ  2	3	87	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	ja wenns bei allen Y is	Weiﬂ  1	3	85	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	Info = Y	Weiﬂ  1	4	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	Bei mir X	Weiﬂ  2	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	bei mir x	Weiﬂ  3	4	106	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+9	Dann A?	Weiﬂ  1	4	99	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+9	also A!?	Weiﬂ  3	4	97	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+9	Meint ihr Blau geht mit auf A?	Weiﬂ  2	4	92	10	1	1	3	3	2	3	0	3	0	10	1	2	3	3	1	3	0	3	0	0	0	0
+9	W‰re optimal...	Weiﬂ  2	4	84	10	4	1	3	9	4	3	0	1	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	W‰r ja nur sinnvoll	Weiﬂ  1	4	82	10	4	1	3	9	4	3	0	1	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	"w‰re schon cool ;)"	Weiﬂ  3	4	82	10	4	1	3	9	4	3	0	1	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	Geilo	Weiﬂ  1	4	74	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	mit O	Weiﬂ  1	4	66	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	welche runde sind wir denn jetzt?	Weiﬂ  3	4	53	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+9	9	Weiﬂ  2	4	50	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	9	Weiﬂ  1	4	48	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+9	ah da oben stehts :D	Weiﬂ  3	4	44	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+9	Hahaha	Weiﬂ  2	4	40	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	X	Weiﬂ  2	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	y	Weiﬂ  3	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	x	Weiﬂ  1	1	107	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	Also A	Weiﬂ  2	1	100	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	a	Weiﬂ  1	1	95	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	im prinzip ist das mitlerweile schon selbst erkl‰rend	Weiﬂ  3	1	75	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	auﬂer wir wollen mal was total verr¸cktes tun	Weiﬂ  3	1	66	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	Sicher ist sicher^^	Weiﬂ  2	1	56	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	Y	Weiﬂ  1	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	hi, mein computer sagt es liegt situation Y vor	Weiﬂ  2	2	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	x	Weiﬂ  3	2	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	mist ^^	Weiﬂ  2	2	105	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	B	Weiﬂ  1	2	100	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+10	okay dann alle A	Weiﬂ  3	2	98	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	ich w‰r auch f¸r B	Weiﬂ  2	2	89	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+10	blau wird c w‰hlen	Weiﬂ  3	2	77	10	4	1	3	9	4	3	0	2	0	10	4	1	3	9	4	3	0	2	0	0	0	0
+10	dann hat blau auch was davon	Weiﬂ  2	2	75	3	4	1	3	9	4	1	0	3	0	3	4	1	3	9	4	3	0	3	0	0	0	0
+10	nicht unbedingt!	Weiﬂ  2	2	70	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	blau wird geschlossen c w‰hlen weil geil	Weiﬂ  3	2	57	10	4	1	3	9	4	3	0	2	0	10	4	1	3	9	4	3	0	2	0	0	0	0
+10	lasst mal geschlossen a w‰hlen weil supergeil	Weiﬂ  3	2	42	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	der computer entscheidet	Weiﬂ  3	2	34	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+10	ok alle A?	Weiﬂ  1	2	32	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	A	Weiﬂ  3	2	29	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	haha 3 gegen 3 gibt uns weissen dann aber weniger als 50% wahrscheinlichkeit!	Weiﬂ  2	2	19	7	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+10	100% A	Weiﬂ  1	2	8	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	spi	Weiﬂ  3	2	3	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	Y	Weiﬂ  1	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	auch y	Weiﬂ  3	3	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	hello, computer sagt x	Weiﬂ  2	3	109	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	hmm was machen wir jetzt	Weiﬂ  3	3	99	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0
+10	Mh dann A?	Weiﬂ  1	3	91	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	gute frage	Weiﬂ  2	3	87	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+10	A oder B	Weiﬂ  2	3	72	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	ja damit wenigstens 10 punkte drin sind, wenn wir falsch liegen w¸rde ich auch eher zu a tendieren	Weiﬂ  3	3	60	10	1	1	3	3	1	1	0	4	0	4	1	1	3	3	1	1	0	4	0	0	0	0
+10	denk ich auch, besser als 0	Weiﬂ  1	3	39	10	4	1	3	9	4	1	0	4	0	4	4	1	3	9	4	3	0	4	0	0	0	0
+10	jaaa	Weiﬂ  3	3	32	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	dann also a ?	Weiﬂ  3	3	28	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	also? A?	Weiﬂ  2	3	26	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+10	jep	Weiﬂ  1	3	25	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10		Weiﬂ  1	3	25				3				1										1		0	0	0	0
+10		Weiﬂ  1	3	24				3				1										1		0	0	0	0
+10	oke	Weiﬂ  2	3	20	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	Y?	Weiﬂ  3	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	y	Weiﬂ  1	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	bei mir y	Weiﬂ  2	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+10	yeah	Weiﬂ  1	4	112	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	also b	Weiﬂ  1	4	110	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+10	Hmm, jo B	Weiﬂ  3	4	107	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+10	b ist gut!	Weiﬂ  2	4	104	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+10	"Hoffen wirs ;)"	Weiﬂ  3	4	72	10	4	1	3	9	4	3	0	4	0	9	4	1	3	9	4	3	0	4	0	0	0	0
+10	ja risiko ^^	Weiﬂ  1	4	64	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+10	Wird schon werden...	Weiﬂ  2	4	60	10	4	1	3	9	4	3	0	4	0	9	4	1	3	9	4	3	0	4	0	0	0	0
+11	x	Weiﬂ  3	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	so ich hab x	Weiﬂ  1	1	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	meiner sagt auch x	Weiﬂ  2	1	103	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+11	ok dann einheitlich	Weiﬂ  3	1	97	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	wi w‰hlen a	Weiﬂ  3	1	94	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+11	prima, ich habe eine idee was wir nehmen	Weiﬂ  1	1	91	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	genau a! :D	Weiﬂ  1	1	81	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+11	ja sieht gut aus ^^	Weiﬂ  2	1	73	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	y	Weiﬂ  1	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	Info = Y	Weiﬂ  2	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	Y	Weiﬂ  3	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	Dann B?	Weiﬂ  2	2	112	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	Demnach B	Weiﬂ  3	2	111	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	b	Weiﬂ  1	2	106	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	Fett	Weiﬂ  2	2	103	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	lalala	Weiﬂ  3	2	30	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	)))	Weiﬂ  1	2	26	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	"Ja, dacht ich auch gerade. Da reicht auch ne Minute Chat ;)"	Weiﬂ  2	2	13	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+11	sowas von	Weiﬂ  3	2	6	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+11	y	Weiﬂ  2	3	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	Computer behauptet Y	Weiﬂ  1	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	Y	Weiﬂ  3	3	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	B?	Weiﬂ  1	3	112	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	B	Weiﬂ  2	3	107	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	tendier auch zu B	Weiﬂ  3	3	105	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	Blau = B : sichere 10 Punkte! :)	Weiﬂ  2	3	54	10	2	1	3	4	1	3	0	4	0	10	2	3	3	4	1	3	0	3	0	0	0	0
+11	Dann lasst uns B w‰hlen :)	Weiﬂ  1	3	51	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	Also dann B!	Weiﬂ  2	3	29	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+11	genau	Weiﬂ  3	3	21	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	Jaaaaa!	Weiﬂ  1	3	19	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	Jipiieehh	Weiﬂ  2	3	1	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	x	Weiﬂ  1	4	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	Y	Weiﬂ  3	4	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	x!	Weiﬂ  2	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+11	hmmm	Weiﬂ  1	4	112	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	A	Weiﬂ  3	4	112	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+11	dann A!	Weiﬂ  2	4	109	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+11	also a	Weiﬂ  1	4	108	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+11	ja da hat jeder was davon!	Weiﬂ  2	4	100	3	1	1	3	3	1	2	0	3	0	3	4	1	3	9	4	2	0	4	0	0	0	0
+11	";)"	Weiﬂ  2	4	99	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+11	naja auﬂer die gruppe blau wenn es y ist 	Weiﬂ  1	4	3	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	3	0	0	0	0
+12	X	Weiﬂ  3	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	y	Weiﬂ  2	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	Bei mir ist X	Weiﬂ  1	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	A	Weiﬂ  3	1	111	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+12	dann a	Weiﬂ  2	1	104	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+12	Meint ihr Blau macht da mit?	Weiﬂ  1	1	101	10	4	1	3	9	4	3	0	3	0	10	4	2	3	9	4	3	0	3	0	0	0	0
+12	ICh bin daf¸r	Weiﬂ  3	1	92	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	Das w‰re n‰mlich super :D	Weiﬂ  1	1	88	10	4	1	3	9	4	3	0	1	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	blau macht seit ein paar runden voll die faxen bei mir	Weiﬂ  2	1	66	10	4	1	3	9	4	3	0	2	0	10	4	1	2	9	4	3	0	2	0	0	0	0
+12	Die d¸rfen sich dann auch ¸ber 20 Punkte freuen	Weiﬂ  3	1	64	10	4	1	3	9	4	1	0	3	0	10	4	1	3	9	4	2	0	1	0	0	0	0
+12	jaa die wahrscheinlichkeit ist ja hoch das beide 20 punkte bekommen	Weiﬂ  2	1	36	10	4	1	3	9	4	1	0	3	0	7	4	1	3	9	4	3	0	4	0	0	0	0
+12	Immer auf C, oder wie?	Weiﬂ  1	1	35	10	4	1	3	9	4	3	0	3	0	10	4	4	3	9	4	3	0	3	0	0	0	0
+12	ja man.	Weiﬂ  2	1	27	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	2	0	0	0	0
+12	Also die Faxen	Weiﬂ  1	1	27	10	4	1	3	9	4	3	0	2	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	Das ist blˆd!	Weiﬂ  1	1	12	10	4	1	3	9	4	3	0	2	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+12	ja, immer c und dann wird es ausgelost zuf‰llig	Weiﬂ  2	1	7	3	1	1	3	3	1	2	0	3	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+12	Blau: w‰hlt A :)	Weiﬂ  1	1	7	10	4	1	3	9	4	3	0	2	0	10	1	3	3	3	4	3	0	3	0	0	0	0
+12	Vor allem, wenn X kommt	Weiﬂ  3	1	6	10	4	1	3	9	4	3	0	2	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	y	Weiﬂ  1	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	Info = X	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	Y	Weiﬂ  2	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	Also B?	Weiﬂ  3	2	111	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12	b?	Weiﬂ  1	2	109	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12	ja	Weiﬂ  2	2	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	Feini	Weiﬂ  3	2	102	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	gibts hier kafee	Weiﬂ  2	2	76				3				1										1		0	0	0	0
+12	Das w‰r ¸bergeil	Weiﬂ  3	2	70				3				1										1		0	0	0	0
+12	"kaffee mein ich;SD"	Weiﬂ  2	2	66				3				1										1		0	0	0	0
+12	Aber nein, stattdessen nur einen viel zu langen Chat	Weiﬂ  3	2	59				3				1										1		0	0	0	0
+12	ja echt	Weiﬂ  2	2	53				3				1										1		0	0	0	0
+12	jupp	Weiﬂ  2	2	51				3				1										1		0	0	0	0
+12	b, b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b	Weiﬂ  2	2	32	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12	Bananas in Pyjamas	Weiﬂ  3	2	13	10	2	1	3	4	1	3	0	4	0								1		0	0	0	0
+12	biber, blaubeeren, beethoven	Weiﬂ  2	2	2	10	2	1	3	4	1	3	0	4	0								1		0	0	0	0
+12	Computer behauptet wieder Y	Weiﬂ  1	3	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	computer sagt Y	Weiﬂ  2	3	102	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	bei mir auch	Weiﬂ  3	3	98	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	dann nochmal B?	Weiﬂ  1	3	84	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12		Weiﬂ  1	3	84				3				1										1		0	0	0	0
+12	dann w‰hlen wir B nehm ich an...	Weiﬂ  2	3	77	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12	japp, dann w‰hlt blau wieder c und es wird eine 50:50 entscheidung	Weiﬂ  3	3	60	10	4	1	3	9	4	3	0	2	0	8	4	1	3	9	4	3	0	2	0	0	0	0
+12	ja w‰re ich auch daf¸r B auszuw‰hlen	Weiﬂ  1	3	49	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12		Weiﬂ  1	3	49				3				1										1		0	0	0	0
+12	blau, ihr auch B? ich hab bisher immer die wahrheit gesagt, ausser 1 mal =P	Weiﬂ  2	3	25	10	2	3	3	4	1	3	0	3	0	10	2	3	3	4	1	3	0	3	0	0	0	0
+12	y	Weiﬂ  3	4	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	bei mir Y	Weiﬂ  2	4	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	y	Weiﬂ  1	4	110	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+12	also b?	Weiﬂ  3	4	105	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12	jepp	Weiﬂ  1	4	95	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+12	B ! <3	Weiﬂ  2	4	90	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+12	:D	Weiﬂ  1	4	86				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+12	:D	Weiﬂ  3	4	85				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+12	was kann man jetzt noch die restlichen 65 sekuden machen?	Weiﬂ  1	4	64				3				1										1		0	0	0	0
+12	jaa mega langweilig1	Weiﬂ  3	4	49				3				1										1		0	0	0	0
+12	also ob man jetzt ¸belst diskutiert :D 	Weiﬂ  3	4	39				3				1										1		0	0	0	0
+12	kann man spiele spielen?	Weiﬂ  1	4	31				3				1										1		0	0	0	0
+12	im chat? :D	Weiﬂ  1	4	27				3				1										1		0	0	0	0
+12	ich sehe was was du nicht siehst? :D 	Weiﬂ  3	4	18				3				1										1		0	0	0	0
+12	sekunden z‰hlen? ^^	Weiﬂ  2	4	16				3				1										1		0	0	0	0
+12	5	Weiﬂ  1	4	5				3				1										1		0	0	0	0
+12		Weiﬂ  2	4	3				3				1										1		0	0	0	0
+12	3	Weiﬂ  2	4	2				3				1										1		0	0	0	0
+12	2	Weiﬂ  1	4	2				3				1										1		0	0	0	0
+12	1	Weiﬂ  3	4	0				3				1										1		0	0	0	0
+13	y	Weiﬂ  3	1	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	Y	Weiﬂ  2	1	109	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	me to	Weiﬂ  1	1	107	10	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	y	Weiﬂ  1	1	105	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	juhuu	Weiﬂ  3	1	102	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	b?	Weiﬂ  3	1	100	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	B!	Weiﬂ  2	1	98	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	yes!!	Weiﬂ  1	1	96	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	ok jetzt aber endlich:	Weiﬂ  1	1	90	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	Hoffentlich macht blau mit!	Weiﬂ  2	1	87	9	4	1	3	9	4	3	0	1	0	9	4	1	3	9	4	3	0	1	0	0	0	0
+13	ich sehe was was du nicht siehst	Weiﬂ  1	1	84				3				1										1		0	0	0	0
+13	:D :D 	Weiﬂ  3	1	79				3				1										1		0	0	0	0
+13	und es ist rot!	Weiﬂ  1	1	78				3				1										1		0	0	0	0
+13	die ablaufende Zeit	Weiﬂ  2	1	68				3				1										1		0	0	0	0
+13	‰hm die Sekundenzahl?	Weiﬂ  3	1	66				3				1										1		0	0	0	0
+13	hahaha nein!	Weiﬂ  1	1	62				3				1										1		0	0	0	0
+13	das Unizeichen an dem komischen Schild?	Weiﬂ  3	1	56				3				1										1		0	0	0	0
+13	jaaa	Weiﬂ  1	1	53				3				1										1		0	0	0	0
+13	jackpot	Weiﬂ  1	1	50				3				1										1		0	0	0	0
+13	ding ding ding	Weiﬂ  1	1	46				3				1										1		0	0	0	0
+13	";)"	Weiﬂ  1	1	43				3				1										1		0	0	0	0
+13	yeahhhh <3	Weiﬂ  3	1	41				3				1										1		0	0	0	0
+13	ok du bist dran	Weiﬂ  1	1	33				3				1										1		0	0	0	0
+13	:D	Weiﬂ  1	1	31				3				1										1		0	0	0	0
+13	‰hhhm das hat hier alles die gleiche farbe :D 	Weiﬂ  3	1	16				3				1										1		0	0	0	0
+13	blau	Weiﬂ  3	1	9				3				1										1		0	0	0	0
+13	farbe: eintˆnig	Weiﬂ  1	1	7				3				1										1		0	0	0	0
+13	:D	Weiﬂ  1	1	3				3				1										1		0	0	0	0
+13	:DDD	Weiﬂ  3	1	2				3				1										1		0	0	0	0
+13	y	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	x	Weiﬂ  1	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	y	Weiﬂ  2	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	b	Weiﬂ  2	2	114	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	Jupp lass B w‰hlen	Weiﬂ  1	2	89	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	ok	Weiﬂ  3	2	77	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	B#	Weiﬂ  3	2	73	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	ist auch f¸r Blau sichere 10 Punkte	Weiﬂ  1	2	58	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	1	0	3	0	0	0	0
+13	ich hoffe blau macht mit.	Weiﬂ  3	2	55	3	2	1	3	4	1	2	0	3	0	9	4	1	3	9	4	3	0	1	0	0	0	0
+13	klar! :)	Weiﬂ  1	2	36	3	2	1	3	4	1	2	0	1	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	die w‰hlen immer c bei mir seit ein paar runden	Weiﬂ  3	2	35	3	2	1	3	4	1	2	0	2	0	10	4	1	3	9	4	3	0	2	0	0	0	0
+13	bitte liebes blau :)	Weiﬂ  2	2	31	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	1	0	0	0	0
+13	oh bei mir nicht...	Weiﬂ  2	2	19	3	2	1	3	4	1	2	0	2	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	Alle B wie Blau! ^^	Weiﬂ  1	2	3	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	Y	Weiﬂ  1	3	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	Y!	Weiﬂ  3	3	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	y	Weiﬂ  2	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	B	Weiﬂ  1	3	114	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	B?	Weiﬂ  3	3	112	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	si	Weiﬂ  2	3	109	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	Sweet	Weiﬂ  3	3	106	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	UNd blau auch b	Weiﬂ  1	3	99	3	2	1	3	4	1	2	0	3	0	10	2	3	3	4	1	3	0	3	0	0	0	0
+13	Genau 13 Sekunden haben gereicht, um das zu kl‰ren	Weiﬂ  3	3	91	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	y	Weiﬂ  1	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	Y	Weiﬂ  3	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13		Weiﬂ  3	4	119				3				1										1		0	0	0	0
+13	Y	Weiﬂ  3	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	computer sagt Y	Weiﬂ  2	4	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+13	b	Weiﬂ  3	4	102	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	ja	Weiﬂ  1	4	85	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+13	knorke	Weiﬂ  3	4	75	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	also B. blau, w‰r cool wenn ihr auch B w‰hlen w¸rdet- immerhin kriegt ihr von uns die info :)	Weiﬂ  2	4	48	3	2	1	3	4	1	2	0	3	0	10	2	3	3	4	1	3	0	3	0	0	0	0
+13	weiﬂ 2?	Weiﬂ  3	4	47	10	4	1	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0
+13	yo	Weiﬂ  2	4	37	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	was geht?	Weiﬂ  2	4	34	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	jupp cool	Weiﬂ  3	4	25	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	ja echt mal	Weiﬂ  3	4	22	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	(y)	Weiﬂ  2	4	12	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+13	BBBBBBBBBBBBBBBBBBBBBBBBBB 	Weiﬂ  3	4	11	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+13	B-)	Weiﬂ  2	4	2	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+14	Y!	Weiﬂ  1	1	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	x	Weiﬂ  3	1	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	oh ich hab mal x	Weiﬂ  2	1	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	jubb	Weiﬂ  3	1	107	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	Geil, dann A?	Weiﬂ  1	1	107	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	was sonst?	Weiﬂ  2	1	93	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	ja klaro	Weiﬂ  3	1	92	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	Sahnemahne	Weiﬂ  1	1	87	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+14	"da profitieren alle von ;)"	Weiﬂ  3	1	80	3	4	1	3	9	4	2	0	3	0	3	4	1	3	9	4	2	0	4	0	0	0	0
+14	sogar blau	Weiﬂ  3	1	74	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	3	0	0	0	0
+14	eben jeder bekommt schˆne 20 :)	Weiﬂ  2	1	70	10	4	1	3	9	4	1	0	3	0	10	4	1	3	9	4	2	0	4	0	0	0	0
+14	geschmeidig	Weiﬂ  3	1	65	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	da kann man ja nicht meckern	Weiﬂ  2	1	64	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	:D	Weiﬂ  3	1	63	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	und bei euch so blau?	Weiﬂ  3	1	48	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+14	achjaaa	Weiﬂ  3	1	42	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+14	ihr kˆnnt ja nicht antworten	Weiﬂ  3	1	32	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+14	";)"	Weiﬂ  3	1	25	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+14	voll blˆd, ich bin so froh, dass ich weiﬂ bin und chatten darf 	Weiﬂ  2	1	16	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+14	Haha jetzt w‰hlen sie C	Weiﬂ  1	1	9	10	4	1	3	9	4	3	0	2	0								1		0	0	0	0
+14	x	Weiﬂ  2	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	X	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	Y	Weiﬂ  1	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	a?	Weiﬂ  2	2	114	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	also a	Weiﬂ  3	2	111	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	Jupp!	Weiﬂ  1	2	106	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	super	Weiﬂ  3	2	103	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	l‰uft 	Weiﬂ  2	2	95	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	A ist auch f¸r blau sichere 10 Punkte!	Weiﬂ  1	2	88	3	1	1	3	3	1	2	0	3	0	10	1	3	3	3	1	1	0	3	0	0	0	0
+14	hauptsache bide blauen w‰hlen auch da	Weiﬂ  3	2	81	3	1	1	3	3	1	2	0	3	0	9	4	3	3	9	4	3	0	3	0	0	0	0
+14	a	Weiﬂ  3	2	79	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	es sei denn es ist b :D 	Weiﬂ  2	2	78	10	2	1	3	4	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	a nicht da	Weiﬂ  3	2	74	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	nene niemals	Weiﬂ  3	2	68	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	‰h y :D	Weiﬂ  2	2	61	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	Alle A! 	Weiﬂ  1	2	59	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	nononono	Weiﬂ  3	2	53	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	wieso sichere 10? :D das macht gar keinen Sinn 	Weiﬂ  2	2	25	10	4	1	3	9	4	3	0	4	0	10	4	4	2	9	4	3	0	4	0	0	0	0
+14	wirklich alle a	Weiﬂ  3	2	24	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	aber okay 	Weiﬂ  2	2	24	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	jaja wir weiﬂen ja sicher :D 	Weiﬂ  2	2	12	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	na die blauen m¸ssen auch a w‰hlen	Weiﬂ  3	2	9	3	1	1	3	3	1	2	0	3	0	10	1	3	3	3	4	3	0	3	0	0	0	0
+14	ah stimmt aber ttrotzdem A	Weiﬂ  1	2	7	3	1	1	3	3	1	2	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	x	Weiﬂ  1	3	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	Bei mir auch x	Weiﬂ  3	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	y	Weiﬂ  2	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	dann A?	Weiﬂ  2	3	109	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	W‰re super	Weiﬂ  3	3	102	3	1	1	3	3	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	Wenn B auch mit macht...	Weiﬂ  3	3	97	3	1	1	3	3	1	2	0	3	0	10	4	1	3	9	4	3	0	1	0	0	0	0
+14	ja obwohl bei A w‰ren punkte sicher	Weiﬂ  2	3	75	3	1	1	3	3	1	2	0	3	0	7	1	1	3	3	1	3	0	4	0	0	0	0
+14	da die wahrscheinlichkeit hˆher leigt bei situation x zu sein w‰re a auszuw‰hlen das sinnvollste	Weiﬂ  1	3	74	10	1	1	3	3	2	3	0	4	0	7	1	1	3	3	1	3	0	4	0	0	0	0
+14	das stimmt	Weiﬂ  2	3	61	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+14	Lasst alle A w‰hlen.	Weiﬂ  1	3	56	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	A ist gut!	Weiﬂ  3	3	42	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	Hoffentlich kommt situation X, damit alle 20 punkte verdienen kˆnnen	Weiﬂ  1	3	18	9	1	1	3	3	1	2	0	4	0	9	4	1	3	9	4	2	0	4	0	0	0	0
+14	Das w‰re so cool!!!	Weiﬂ  3	3	10	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	w‰re super!!	Weiﬂ  2	3	6	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14		Weiﬂ  2	3	6				3				1										1		0	0	0	0
+14	X	Weiﬂ  2	4	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	x	Weiﬂ  3	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	yeah, computer sagt X!	Weiﬂ  1	4	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+14	A	Weiﬂ  2	4	111	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	ziemlich eindeutig :)	Weiﬂ  1	4	100	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	Sollte es sein^^	Weiﬂ  2	4	90	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	a	Weiﬂ  3	4	90	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	wenn's nur immer so leicht w‰re	Weiﬂ  1	4	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+14	UNd die blauen sind auch f¸r A	Weiﬂ  2	4	67	3	1	1	3	3	1	2	0	1	0	10	1	1	3	3	1	3	0	1	0	0	0	0
+14	das hoff ich mal ^^	Weiﬂ  1	4	43	9	4	1	3	9	4	3	0	1	0	9	4	1	3	9	4	3	0	4	0	0	0	0
+14	AAAAAAAAAAAAAAAAAA	Weiﬂ  3	4	16	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+14	W‰re jedenfalls nicht ungut=)	Weiﬂ  2	4	14	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	X	Weiﬂ  3	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	x	Weiﬂ  1	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	meiner sagt auch X!	Weiﬂ  2	1	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	dann a	Weiﬂ  3	1	107	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+15	also wieder a	Weiﬂ  1	1	101	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+15	fix	Weiﬂ  2	1	94	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	ja	Weiﬂ  3	1	94	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	"alibaba, ananas, aaa****;D"	Weiﬂ  3	1	79	10	1	1	3	3	1	3	0	4	0								1		0	0	0	0
+15	:D	Weiﬂ  2	1	65	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+15	ist euch aufgefallen dass blau manchmal selbst wenn alle 3 X sagen C w‰hlt?	Weiﬂ  2	1	29	10	4	1	3	9	4	3	0	2	0	10	4	2	3	9	4	3	0	2	0	0	0	0
+15	anonym, aaaaa	Weiﬂ  3	1	25	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+15	ja	Weiﬂ  3	1	17	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	schr‰g ^^ nix f¸r ungut blau	Weiﬂ  2	1	2	10	4	1	3	9	4	3	0	3	0	10	4	3	3	9	4	3	0	3	0	0	0	0
+15	super d‰mlich	Weiﬂ  3	1	1	10	4	1	2	9	4	3	0	2	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+15	X	Weiﬂ  2	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	y	Weiﬂ  1	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	y	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	B	Weiﬂ  2	2	112	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	b? 	Weiﬂ  1	2	108	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	oder lieber a?	Weiﬂ  1	2	104	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+15	ja w¸rde ich auch sagen	Weiﬂ  3	2	101	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	nee b oder?	Weiﬂ  1	2	97	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	no risk no fun	Weiﬂ  3	2	97	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	genau!	Weiﬂ  1	2	92	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	Si...B	Weiﬂ  2	2	88	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	dadurch kˆnnen die blauen auch ein paar punkte bekommen	Weiﬂ  3	2	76	3	4	1	3	9	4	2	0	3	0	10	4	1	3	9	4	3	0	3	0	0	0	0
+15	Dann haben alle was davon	Weiﬂ  2	2	65	3	4	1	3	9	4	2	0	3	0	3	4	1	3	9	4	2	0	3	0	0	0	0
+15	ja eben !	Weiﬂ  3	2	60	3	4	1	3	9	4	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	die machen doch eh c 	Weiﬂ  1	2	59	3	4	1	3	9	4	2	0	3	0	10	4	1	2	9	4	3	0	2	0	0	0	0
+15	das ist ja f¸r die das sicherere	Weiﬂ  1	2	43	3	4	1	3	9	4	2	0	3	0	10	4	1	3	9	4	3	0	3	0	0	0	0
+15	Es gibt auch anst‰ndige blaue	Weiﬂ  2	2	38	3	4	1	3	9	4	2	0	1	0	10	4	1	3	9	4	3	0	1	0	0	0	0
+15	Die b nehmen	Weiﬂ  2	2	35	10	2	1	3	4	1	3	0	1	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	was heiﬂt denn anst‰ndig :D 	Weiﬂ  1	2	29	3	4	1	3	9	4	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	son Unsinn 	Weiﬂ  1	2	25	3	4	1	3	9	4	2	0	3	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+15	das ist auch meine sorge. aber hoffen wir mal das wir solidarische blaue haben in der gruppe	Weiﬂ  3	2	14	9	4	1	3	9	4	2	0	1	0	9	4	1	3	9	4	3	0	1	0	0	0	0
+15	Oder a in der Hoffnung auf X	Weiﬂ  2	2	6	10	1	1	3	3	2	3	0	4	0	9	1	1	3	3	1	3	0	4	0	0	0	0
+15	y	Weiﬂ  1	3	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	x	Weiﬂ  2	3	106	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	Bei mir ist es x	Weiﬂ  3	3	104	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	puh	Weiﬂ  2	3	93	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	dann wohl a oder	Weiﬂ  2	3	86	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+15	schˆn dann bekommen wir ja hoffentlich alle unsere 20 :)	Weiﬂ  1	3	80	9	4	1	3	9	4	1	0	4	0	9	4	1	3	9	4	2	0	4	0	0	0	0
+15	Sehe ich auch so	Weiﬂ  3	3	79	9	4	1	3	9	4	1	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	Das w‰re super!!	Weiﬂ  3	3	74	10	4	1	3	9	4	1	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+15	$$$	Weiﬂ  2	3	41	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	y	Weiﬂ  1	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	Y!	Weiﬂ  3	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	Y!	Weiﬂ  2	4	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+15	b	Weiﬂ  1	4	111	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	Also b	Weiﬂ  3	4	108	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	Also B!	Weiﬂ  2	4	108	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	B wie Blau!	Weiﬂ  2	4	72	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+15	^^	Weiﬂ  2	4	66	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15	Ein geheimnisvoller Zusammenhang...O.o	Weiﬂ  3	4	37	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+15		Weiﬂ  3	4	37				3				1										1		0	0	0	0
+15	jajajaja! Logisch!	Weiﬂ  2	4	23	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	X	Weiﬂ  2	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	X...!	Weiﬂ  3	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	x	Weiﬂ  1	1	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	also a	Weiﬂ  2	1	113	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	Geil, dann A	Weiﬂ  3	1	111	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	super dann w‰hlen wir alle a	Weiﬂ  1	1	111	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	perfekt	Weiﬂ  2	1	106	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+16	puh fast durch Leute	Weiﬂ  2	1	82	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	Ja Gott sei Dank	Weiﬂ  3	1	74	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	"bestimmt kommen wir gleich raus und es regnet,blitzt und donnert;D"	Weiﬂ  2	1	52	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	jaa safe	Weiﬂ  1	1	45	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	haha und es werden nur Runden gelost, wo wir 0 Punkte hatten	Weiﬂ  3	1	38	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	genau	Weiﬂ  2	1	32	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	ja das w‰re blˆdd	Weiﬂ  1	1	18	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	super blˆd	Weiﬂ  2	1	11	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	also f¸r die ganze Arbeit	Weiﬂ  2	1	4	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	y	Weiﬂ  3	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	x	Weiﬂ  1	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	X	Weiﬂ  2	2	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	A	Weiﬂ  2	2	109	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	jo	Weiﬂ  3	2	103	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	a	Weiﬂ  1	2	78	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	UNd die blauen auch, damit sei 20 bekommen	Weiﬂ  2	2	77	3	1	1	3	3	1	2	0	3	0	10	4	3	3	9	4	1	0	3	0	0	0	0
+16	*sie	Weiﬂ  2	2	69	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	mal sehen 	Weiﬂ  3	2	2	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	X	Weiﬂ  1	3	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	Bei mir ist es X	Weiﬂ  2	3	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	y	Weiﬂ  3	3	110	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	Aﬂ	Weiﬂ  2	3	106	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	A?	Weiﬂ  2	3	103	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	A !	Weiﬂ  1	3	101	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	A!!	Weiﬂ  3	3	90	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	20 Punkte f¸r alleeeeee	Weiﬂ  2	3	87	3	1	1	3	3	1	2	0	3	0	10	4	1	3	9	4	2	0	4	0	0	0	0
+16	nice!	Weiﬂ  1	3	78	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	haha	Weiﬂ  3	3	68	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	noch vier runden!	Weiﬂ  1	3	51	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+16	Es ist fast geschafft yaaaay	Weiﬂ  2	3	38	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	woop woop	Weiﬂ  3	3	36	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+16	computer sagt wieder X!	Weiﬂ  3	4	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	ja bei mir auch x	Weiﬂ  2	4	102	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	computer sagt auch X	Weiﬂ  1	4	102	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+16	nice	Weiﬂ  1	4	98	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+16	A	Weiﬂ  2	4	73	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+16	so muss das laufen :)	Weiﬂ  1	4	70	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+17	x	Weiﬂ  3	1	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	x	Weiﬂ  1	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	X!	Weiﬂ  2	1	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	juhu	Weiﬂ  3	1	113	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+17	a	Weiﬂ  3	1	111	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	super dann w‰hlen wir A	Weiﬂ  1	1	110	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	Sweet Mann.	Weiﬂ  2	1	99	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	echt smooth	Weiﬂ  3	1	86	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	Gleich st¸rzt bestimmt das Programm wieder ab und alle Ergebnisse sind weg	Weiﬂ  2	1	72	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	wie wieder?	Weiﬂ  3	1	65	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	hahaha	Weiﬂ  1	1	65	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	So wie am Anfang	Weiﬂ  2	1	56	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	am anfang st¸rzte es doch ab	Weiﬂ  1	1	53	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	boah dann w¸rde ich nach hause gehen :D 	Weiﬂ  3	1	46	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	achso ich dachte das ging nur nicht 	Weiﬂ  3	1	36	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	Haha, aber mit mind. 10 Tacken	Weiﬂ  2	1	32	8	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	ja immerhin :D 	Weiﬂ  3	1	23	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+17	x!	Weiﬂ  3	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	x	Weiﬂ  2	2	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	y	Weiﬂ  1	2	110	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	a	Weiﬂ  1	2	98	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	a	Weiﬂ  3	2	95	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	wieder option a	Weiﬂ  2	2	94	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	a ist eins A! ^^	Weiﬂ  3	2	69	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	l‰uft	Weiﬂ  2	2	60	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+17	ein ganz sicheres Ding! ^^	Weiﬂ  3	2	52	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+17	a <3	Weiﬂ  3	2	0	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	X	Weiﬂ  1	3	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	Bei mir X	Weiﬂ  2	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	x	Weiﬂ  3	3	110	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	also a	Weiﬂ  1	3	106	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	Niiiice!	Weiﬂ  2	3	106	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+17	joooo	Weiﬂ  3	3	100	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+17	Das ist schˆn :)	Weiﬂ  2	3	100	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+17	A ist super	Weiﬂ  2	3	95	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	Perfekt	Weiﬂ  1	3	81				3				1			10	4	1	1	9	4	3	0	4	0	0	0	0
+17	Wenn es doch immer so schˆn eindeutig w‰re :D	Weiﬂ  2	3	66				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+17	also n‰chstes Mal komm ich nur wenn es Kaffee und Eis am Stiel gibt	Weiﬂ  1	3	58				3				1										1		0	0	0	0
+17	ohja:D	Weiﬂ  1	3	51				3				1										1		0	0	0	0
+17	haha :D	Weiﬂ  3	3	50				3				1										1		0	0	0	0
+17	jetzt ein eis...	Weiﬂ  3	3	41				3				1										1		0	0	0	0
+17	richtig geil	Weiﬂ  1	3	30				3				1										1		0	0	0	0
+17	Super Verbesserungsvorschlag!	Weiﬂ  2	3	29				3				1										1		0	0	0	0
+17	Jupp	Weiﬂ  1	3	24				3				1										1		0	0	0	0
+17	Kommt mit in den Evaluationsbogen	Weiﬂ  1	3	18				3				1										1		0	0	0	0
+17	absolut	Weiﬂ  3	3	6				3				1										1		0	0	0	0
+17	Y	Weiﬂ  2	4	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	wieder X!	Weiﬂ  1	4	111	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+17	auch x	Weiﬂ  3	4	104	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+17	A	Weiﬂ  2	4	101	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+17	jaaa	Weiﬂ  3	4	89	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+17	mist, wenn's nicht einheitlich ist w‰hlt blau C :/	Weiﬂ  1	4	78	10	4	1	3	9	4	3	0	2	0	3	4	1	3	9	4	3	0	2	0	0	0	0
+17	Und die blauen ebenso. Wollen ja schlieﬂlich auch 20	Weiﬂ  2	4	68	3	1	1	3	3	1	2	0	3	0	10	4	3	3	9	4	3	0	3	0	0	0	0
+17	kann jemand einen witz erz‰hlen?	Weiﬂ  3	4	49				3				1										1		0	0	0	0
+17	:D	Weiﬂ  3	4	44				3				1										1		0	0	0	0
+17	Rollt eine Kugel um die Ecke und f‰llt um	Weiﬂ  2	4	35				3				1										1		0	0	0	0
+17	ja: B w‰hlen! :P	Weiﬂ  1	4	28				3				1			10	2	1	3	4	1	3	0	4	0	0	0	0
+17	najaaaa	Weiﬂ  3	4	26				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+17	XD	Weiﬂ  1	4	24				3				1										1		0	0	0	0
+17		Weiﬂ  1	4	24				3				1										1		0	0	0	0
+17	nichtmal unbedingt ein witz, w‰r vl gar nicht verkehrt....	Weiﬂ  1	4	1				3				1										1		0	0	0	0
+18	Y	Weiﬂ  3	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	X	Weiﬂ  1	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	y	Weiﬂ  2	1	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	B	Weiﬂ  1	1	115	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	b	Weiﬂ  2	1	112	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	ja	Weiﬂ  3	1	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	B ist auch f¸r die blauen gut. Dann freuen sich alle	Weiﬂ  1	1	92	3	2	1	3	4	1	2	0	3	0	3	2	1	3	4	1	3	0	1	0	0	0	0
+18	aufjedenfall	Weiﬂ  2	1	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	BBBBBBBBBBBBBBBBBBBB-w‰hlt b!!!!	Weiﬂ  3	1	70	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	so ist jeder gl¸cklich <3	Weiﬂ  2	1	69	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	B	Weiﬂ  3	1	66	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	B	Weiﬂ  3	1	66	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	B	Weiﬂ  3	1	65	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	B	Weiﬂ  3	1	64	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	b!!!!!111!!!	Weiﬂ  2	1	59	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	B?	Weiﬂ  1	1	56	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	oder vllt doch c?	Weiﬂ  2	1	46	10	3	1	3	5	1	3	0	4	0	10	3	1	3	5	1	3	0	4	0	0	0	0
+18	nein nein nein	Weiﬂ  3	1	39	10	4	1	3	9	4	3	0	4	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+18	Computer sagt B	Weiﬂ  1	1	35	10	4	1	3	9	4	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	computer sagt nein	Weiﬂ  2	1	31	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	bist du vollkommen ¸bergeschnappt?	Weiﬂ  3	1	28	10	4	1	3	9	4	3	0	4	0	10	4	4	2	9	4	3	0	4	0	0	0	0
+18	‰h b	Weiﬂ  2	1	25	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	:D	Weiﬂ  2	1	21	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB	Weiﬂ  3	1	19	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	Vielleicht ja auch D	Weiﬂ  1	1	8	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	Aber nur f¸r ganz Verr¸ckte	Weiﬂ  1	1	2	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	x	Weiﬂ  1	2	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	x	Weiﬂ  2	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	x	Weiﬂ  3	2	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	top!	Weiﬂ  2	2	112	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	a	Weiﬂ  1	2	99	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	"a - what else? ;)"	Weiﬂ  2	2	75	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	nˆ ich nehm b :P :D	Weiﬂ  3	2	61	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+18	yolo!	Weiﬂ  2	2	49	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	genau!	Weiﬂ  3	2	45	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	hauptsache dagegen! :D 	Weiﬂ  3	2	38	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	wird ja noch richtig spannend in den ltzten paar runden :D	Weiﬂ  2	2	25	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	irgendwas muss man ja machen :D :D 	Weiﬂ  3	2	7	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	aa	Weiﬂ  1	2	6	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	X!	Weiﬂ  3	3	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	x	Weiﬂ  1	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	Bei X = Schatz!	Weiﬂ  2	3	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	B‰‰m, A	Weiﬂ  3	3	106	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	Also A!	Weiﬂ  2	3	104	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	dann doch wieder a	Weiﬂ  1	3	101	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	ganz genau	Weiﬂ  1	3	99	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	so was von A!	Weiﬂ  2	3	93	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	Rasiert	Weiﬂ  3	3	89	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	ahnma A!!!	Weiﬂ  2	3	86	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	^^	Weiﬂ  2	3	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	Ich hˆr schon wie die Potte klingelt	Weiﬂ  3	3	53	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	A = <3	Weiﬂ  2	3	50	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	:D	Weiﬂ  1	3	48	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	A ist wie Festival im Herzen! <3 <3 <3!!!	Weiﬂ  2	3	27	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	Aber denkt dran: Mo' money, mo' problems.	Weiﬂ  3	3	17	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	Aus groﬂer macht folgt groﬂe Verantwortung	Weiﬂ  3	3	6	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	super A!	Weiﬂ  2	3	0	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	pc sagt X!	Weiﬂ  3	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	x	Weiﬂ  2	4	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+18	X!	Weiﬂ  1	4	114	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+18	nice!	Weiﬂ  3	4	105	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+18	super dann w‰hlen wir alle a aus	Weiﬂ  2	4	105	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+18	Klingt fantastisch!	Weiﬂ  1	4	98	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0
+18	puuh bald sind wir fertig zum gl¸ck, kann nemmehr	Weiﬂ  2	4	62	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	Super langweilig	Weiﬂ  1	4	45	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	ja man derbe	Weiﬂ  2	4	40	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	:D	Weiﬂ  3	4	36	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	naja die warterei wenn alle x haben is umsonst ^^	Weiﬂ  3	4	25	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+18	aber gab schon auch halbwegs spannende situationen	Weiﬂ  3	4	10	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+19	y	Weiﬂ  2	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	X-zibit	Weiﬂ  3	1	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	pc sagt Y =/	Weiﬂ  1	1	112	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	Noooo	Weiﬂ  3	1	107	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	Dann B?	Weiﬂ  3	1	103	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	jo	Weiﬂ  2	1	96	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	B w‰r f¸r alle sinnvoll	Weiﬂ  1	1	84	3	2	1	3	4	1	2	0	3	0	3	2	1	3	4	1	3	0	4	0	0	0	0
+19	letzten runden warn bei mir tats‰chlich X	Weiﬂ  1	1	65	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+19	Dito	Weiﬂ  3	1	61	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	X = Cash und Zufriedenheit f¸r alle	Weiﬂ  3	1	44	10	4	1	3	9	4	2	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	glaub irgendwie nicht dass das nochmal kommt...	Weiﬂ  1	1	43	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	ja voll ^^ imal hat der pc aber tats‰chlich alle 3 angelogen :D	Weiﬂ  1	1	18	8	4	1	3	9	4	3	0	4	0	5	4	1	3	9	4	3	0	4	0	0	0	0
+19	*1mal	Weiﬂ  1	1	12	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	Das Drecksst¸ck	Weiﬂ  3	1	2	8	4	1	3	9	4	3	0	4	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+19	x	Weiﬂ  2	2	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	y!	Weiﬂ  3	2	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	y	Weiﬂ  1	2	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	hmmm a oder b?	Weiﬂ  2	2	105	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	B!	Weiﬂ  3	2	89	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	ok	Weiﬂ  2	2	79	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	b wie Blau!	Weiﬂ  3	2	77	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	mh ja das war jetzt andauernd x 	Weiﬂ  1	2	76	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+19	b	Weiﬂ  1	2	75	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	B will ja auch was abhaben vom Kuchen, oder?	Weiﬂ  3	2	61	3	2	1	3	4	1	2	0	3	0	10	4	3	3	9	4	3	0	3	0	0	0	0
+19	h‰? das hat ja damit nix zu tun obs oft x war :D 	Weiﬂ  2	2	60	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+19	B= Blaubeertorte!	Weiﬂ  3	2	41	10	2	1	3	4	1	3	0	4	0								1		0	0	0	0
+19	Bienenstich	Weiﬂ  3	2	36	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+19	hmmmjamjam 	Weiﬂ  2	2	36	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+19	Baguette	Weiﬂ  3	2	2	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+19	B!	Weiﬂ  3	2	0	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	x	Weiﬂ  1	3	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	scheisse	Weiﬂ  3	3	118	10	4	1	3	9	4	3	0	4	0	10	4	1	2	9	4	3	0	4	0	0	0	0
+19	y	Weiﬂ  2	3	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	Y	Weiﬂ  3	3	114	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	hmm... wollen wir es riskieren und b WƒHLEN ?	Weiﬂ  1	3	92	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	das w‰re heftig!	Weiﬂ  2	3	83	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	ne	Weiﬂ  3	3	83	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	a	Weiﬂ  3	3	80	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	aber da macht dann blau wieder nicht mit	Weiﬂ  1	3	62	10	4	1	3	9	4	3	0	2	0	10	4	1	3	9	4	3	0	2	0	0	0	0
+19	waren gerade schon 0 Punkte	Weiﬂ  3	3	58	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	1	0	4	0	0	0	0
+19	ja bei mir auch	Weiﬂ  2	3	52	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	gleiche gruppe schon wieder :D	Weiﬂ  2	3	45	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	A	Weiﬂ  3	3	39	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	also A ?	Weiﬂ  1	3	23	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	oder b ?	Weiﬂ  1	3	20	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	ja	Weiﬂ  3	3	19	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	nein A	Weiﬂ  3	3	14	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	jaa dann A	Weiﬂ  2	3	14	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	na gut, dann eben A	Weiﬂ  1	3	10	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	ist eh nicht mehr viel zeit	Weiﬂ  2	3	5	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	:(	Weiﬂ  2	3	0	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	a	Weiﬂ  3	3	0	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+19	Y	Weiﬂ  2	4	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	Y	Weiﬂ  1	4	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	y	Weiﬂ  3	4	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+19	B	Weiﬂ  2	4	114	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	Eeeaasy	Weiﬂ  1	4	113	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+19	Hoffentlich w‰hlt Blau auch B	Weiﬂ  1	4	96	9	2	1	3	4	1	2	0	1	0	9	2	1	3	4	1	3	0	1	0	0	0	0
+19	Weiﬂ w‰hltB, blau w‰hltB, alle w‰hlen B und alle bekommen Punkte	Weiﬂ  2	4	79	3	2	1	3	4	1	2	0	1	0	10	2	1	3	4	1	2	0	1	0	0	0	0
+19	wir kˆnnten blau ja mit eineme is bestehen? :P	Weiﬂ  3	4	61	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+19	*eis	Weiﬂ  3	4	55	10	4	1	3	9	4	3	0	3	0								1		0	0	0	0
+19	Ein Eis w‰re schˆn	Weiﬂ  1	4	41				3				1										1		0	0	0	0
+19	Vorletzte Runde!!	Weiﬂ  1	4	37				3				1										1		0	0	0	0
+19	Ich mag Eis	Weiﬂ  2	4	34				3				1										1		0	0	0	0
+19	Eis ist toll	Weiﬂ  1	4	29				3				1										1		0	0	0	0
+19	irgendwer hat vorhin von eis geredet und nun habe ich total lust drauf	Weiﬂ  3	4	17				3				1										1		0	0	0	0
+19	Eis am Stiel & Kaffee?	Weiﬂ  1	4	8				3				1										1		0	0	0	0
+19	Aber Eis gibt es nur bei B	Weiﬂ  2	4	4	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+19	&	Weiﬂ  1	4	3				3				1										1		0	0	0	0
+20	x	Weiﬂ  1	1	120	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	X	Weiﬂ  2	1	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	y	Weiﬂ  3	1	116	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	a?	Weiﬂ  3	1	113	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	also a! 	Weiﬂ  1	1	110	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	ja a	Weiﬂ  2	1	109	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	super!	Weiﬂ  3	1	106				3				1										1		0	0	0	0
+20	letzte runde	Weiﬂ  2	1	103				3				1										1		0	0	0	0
+20	yeah gleich geschafft!	Weiﬂ  1	1	93				3				1										1		0	0	0	0
+20	endlich :d	Weiﬂ  3	1	80				3				1										1		0	0	0	0
+20	Also wenn es nur einen 10er gibt, dann sind wir aber unterm Mindestlohn	Weiﬂ  2	1	79				3				1										1		0	0	0	0
+20	:D	Weiﬂ  1	1	73				3				1										1		0	0	0	0
+20	:D	Weiﬂ  2	1	72				3				1										1		0	0	0	0
+20	geht ja eigentlich gar nicht 	Weiﬂ  1	1	67				3				1										1		0	0	0	0
+20	Ausbeutung	Weiﬂ  2	1	66				3				1										1		0	0	0	0
+20	oder habt ihr so oft 0 Punkte?	Weiﬂ  1	1	60	10	4	1	3	9	4	1	0	4	0								1		0	0	0	0
+20	naja wenn der Computer dreimal 0Punkte ausw‰hlt	Weiﬂ  2	1	53	10	4	1	3	9	4	1	0	4	0								1		0	0	0	0
+20	einfach weil er geizig ist	Weiﬂ  2	1	45				3				1										1		0	0	0	0
+20	ich hba nur zweimal 0 bekommen :D 	Weiﬂ  1	1	40	10	4	1	3	9	4	1	0	4	0								1		0	0	0	0
+20	ich hab einmal 0 hoff das er das nich nimmt	Weiﬂ  3	1	37	10	4	1	3	9	4	1	0	4	0								1		0	0	0	0
+20	#NAME?	Weiﬂ  1	1	21				3				1										1		0	0	0	0
+20	nur einmal 0,krass	Weiﬂ  2	1	16	10	4	1	3	9	4	1	0	4	0								1		0	0	0	0
+20	ma gucken	Weiﬂ  3	1	12				3				1										1		0	0	0	0
+20	irgendwas geht hier nicht mit rechten Dingen zu	Weiﬂ  2	1	2				3				1										1		0	0	0	0
+20	>	Weiﬂ  1	2	120				3				1			10	4	1	3	9	4	3	0	4	0	0	0	0
+20	Y	Weiﬂ  1	2	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	X gonna give it to ya	Weiﬂ  3	2	115	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	meiner sagt Y =/	Weiﬂ  2	2	97	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	Also B	Weiﬂ  1	2	93	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0
+20	Hrmph, ja	Weiﬂ  3	2	86	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	B w‰r f¸r alle gut	Weiﬂ  2	2	69	3	2	1	3	4	1	2	0	3	0	3	2	1	3	4	1	3	0	4	0	0	0	0
+20	Endlich letzte Runde	Weiﬂ  3	2	64	10	4	1	3	9	4	3	0	4	0								1		0	0	0	0
+20	Dann bekommt in der letzten Runde jeder nochmal Punkt. Blau und Weiﬂ	Weiﬂ  1	2	44	3	4	1	3	9	4	2	0	3	0	10	4	1	3	9	4	2	0	1	0	0	0	0
+20	*e	Weiﬂ  1	2	40	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	Das ist Fakt!	Weiﬂ  3	2	28	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	ja. w‰r bisher auch noch nie vorgekommen dass er y sagt und dann doch x	Weiﬂ  2	2	21	7	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0
+20	...gekommen w‰r	Weiﬂ  2	2	15	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	X!	Weiﬂ  3	3	119	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	x	Weiﬂ  1	3	117	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	jop!	Weiﬂ  2	3	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	klasse	Weiﬂ  1	3	108	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	3*X=A	Weiﬂ  3	3	101	10	1	1	3	3	2	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0
+20	du sagst es!	Weiﬂ  2	3	87	10	4	1	3	9	4	3	0	4	0	10	4	4	1	9	4	3	0	4	0	0	0	0
+20	Also eindeutig!	Weiﬂ  3	3	78	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	3*X=A=$$$	Weiﬂ  1	3	78	10	1	1	3	3	2	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0
+20	Ich will jetzt mal 6 Stimmen f¸r A sehen!	Weiﬂ  3	3	62	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	100% A = <3	Weiﬂ  3	3	51	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	haha mal sehen, ob das was wird	Weiﬂ  2	3	26	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	XXX = keine Zweifel !	Weiﬂ  3	3	25	10	1	1	3	3	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	letzte runde schon??	Weiﬂ  1	3	15	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0
+20	Muss A sein 	Weiﬂ  3	3	15	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	triple a	Weiﬂ  2	3	14	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	heftig	Weiﬂ  1	3	12	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	wie die zeit verging	Weiﬂ  2	3	3	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	AAA	Weiﬂ  1	3	3	10	1	1	3	3	2	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	x	Weiﬂ  1	4	118	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	x	Weiﬂ  2	4	113	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0
+20	x	Weiﬂ  3	4	111	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1
+20	supiii, dann w‰hlen wir wohl A	Weiﬂ  2	4	98	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0
+20	Sehr cool!	Weiﬂ  3	4	98	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	jo	Weiﬂ  1	4	91	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0
+20	Letzte Reunde nochmal 20 Punkte f¸r alle!	Weiﬂ  3	4	89	9	4	1	3	9	4	2	0	4	0	10	4	1	3	9	4	2	0	4	0	0	0	0
+20	Gleich zu ende zum Gl¸ck	Weiﬂ  2	4	85				3				1										1		0	0	0	0
+20	Endliiich	Weiﬂ  3	4	74				3				1										1		0	0	0	0
+20	Ich gˆnn mir direkt einen starken kaffee, 	Weiﬂ  2	4	68				3				1										1		0	0	0	0
+20	^^	Weiﬂ  2	4	66				3				1										1		0	0	0	0
+20	Kaffee und Eis	Weiﬂ  3	4	47				3				1										1		0	0	0	0
+20	Als Belohnung f¸r das tapfere Durchhalten	Weiﬂ  3	4	33				3				1										1		0	0	0	0
+20	wart mal ab, so wie ich hamb urg kenne, donnerts jetzt plˆtzlich :)	Weiﬂ  2	4	17				3				1										1		0	0	0	0

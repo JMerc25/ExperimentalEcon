@@ -1,0 +1,1614 @@
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	1	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	1	1	1	0	0	0	0.8543381243265877	3	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	5	14	20	999	999	0	23	25	0.007826977878728405	1	1	"Blau  3"	0	28	0	17	0	1	0	1	360	0	0	18	23	""	0	0	10	0	
+160615_0935	1	subjects	1	2	1	0	0	0	0.7787200523441286	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	6	15	20	999	999	0	24	28	0.5480172077883115	1	3	"Weiﬂ  2"	1	0	4	21	0	1	0	-	300	0	60	9	28	-	-	-	-	-	
+160615_0935	1	subjects	1	3	1	0	0	0	0.1236257940175132	2	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	12	8	20	999	999	0	25	28	0.1674773521569918	1	2	"Blau  2"	0	29	0	25	0	1	0	-	360	0	0	24	25	-	-	-	-	-	
+160615_0935	1	subjects	1	4	1	0	0	0	0.1221118383678197	2	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	3	19	20	999	999	0	26	28	0.3690536904004653	1	1	"Weiﬂ  2"	1	0	12	26	0	1	0	-	360	0	0	24	27	-	-	-	-	-	
+160615_0935	1	subjects	1	5	1	0	0	0	0.02609371208869559	1	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	15	4	20	999	999	0	28	28	0.6366567381828356	1	2	"Blau  1"	0	23	0	26	0	1	0	-	360	0	0	18	19	-	-	-	-	-	
+160615_0935	1	subjects	1	6	1	0	0	0	0.3457354555585121	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	3	9	20	999	999	0	27	20	0.4771801328645927	1	3	"Weiﬂ  1"	1	0	23	26	0	1	0	-	300	0	60	8	29	-	-	-	-	-	
+160615_0935	1	subjects	1	7	1	0	0	0	0.8473185579512821	3	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	6	19	20	999	999	0	27	29	0.3695548513762443	1	2	"Weiﬂ  3"	1	0	27	27	0	1	0	-	360	0	0	25	28	-	-	-	-	-	
+160615_0935	1	subjects	1	8	1	0	0	0	0.3446392502377924	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	20	19	20	999	999	0	26	29	0.2289669416979733	1	3	"Blau  1"	0	29	0	26	0	1	0	-	300	0	60	19	28	-	-	-	-	-	
+160615_0935	1	subjects	1	9	1	0	0	0	0.8255628868125207	2	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	13	12	20	999	999	0	24	26	0.2229598361174389	1	2	"Weiﬂ  2"	1	0	20	25	0	1	0	-	360	0	0	22	25	-	-	-	-	-	
+160615_0935	1	subjects	1	10	1	0	0	0	0.3563993812335652	1	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	17	3	20	999	999	0	23	28	0.117074518984684	1	2	"Weiﬂ  1"	2	0	25	26	0	1	0	-	360	0	0	19	26	-	-	-	-	-	
+160615_0935	1	subjects	1	11	1	0	0	0	0.01752558025416247	1	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	11	12	20	999	999	0	27	24	0.5725907835050443	1	1	"Weiﬂ  1"	2	0	26	26	0	1	0	-	360	0	0	18	26	-	-	-	-	-	
+160615_0935	1	subjects	1	12	1	0	0	0	0.819588597779902	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	9	19	20	999	999	0	28	28	0.9664930552088158	1	3	"Weiﬂ  3"	1	0	26	26	0	1	0	-	300	0	60	20	25	-	-	-	-	-	
+160615_0935	1	subjects	1	13	1	0	0	0	0.5524273317085706	1	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	20	13	20	999	999	0	27	24	0.3520302606523178	1	1	"Blau  1"	0	28	0	25	0	1	0	-	360	0	0	20	27	-	-	-	-	-	
+160615_0935	1	subjects	1	14	1	0	0	0	0.9487976263970126	3	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	11	5	20	999	999	0	24	27	0.6608030626833453	1	2	"Blau  3"	0	28	0	25	0	1	0	-	360	0	0	21	26	-	-	-	-	-	
+160615_0935	1	subjects	1	15	1	0	0	0	0.8103034267249999	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	20	10	20	999	999	0	16	24	0.1456924845211639	1	3	"Blau  2"	0	26	0	25	0	1	0	-	300	0	60	22	28	-	-	-	-	-	
+160615_0935	1	subjects	1	16	1	0	0	0	0.7851637163130397	2	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	13	16	20	999	999	0	9	29	0.2242727453002114	1	1	"Blau  2"	0	29	0	23	0	1	0	-	360	0	0	25	28	-	-	-	-	-	
+160615_0935	1	subjects	1	17	1	0	0	0	0.3302529297444284	3	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	15	20	20	999	999	0	25	22	0.6714405755845088	1	1	"Weiﬂ  3"	1	0	23	18	0	1	0	-	360	0	0	21	23	-	-	-	-	-	
+160615_0935	1	subjects	1	18	1	0	0	0	0.9479197477679326	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	2	6	20	999	999	0	26	25	0.4905764267270343	3	3	"Blau  3"	0	25	0	6	0	1	0	-	300	0	60	17	22	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	1	"Mir wurde mitgeteilt es handelt sich um situation X"	"Weiﬂ  1"	3	-	109	
+160615_0935	1	contracts	1	"B?"	"Weiﬂ  1"	2	-	105	
+160615_0935	1	contracts	1	"nat¸rlich A, oder ?"	"Weiﬂ  3"	3	-	103	
+160615_0935	1	contracts	1	"Ebenfalls "	"Weiﬂ  2"	3	-	100	
+160615_0935	1	contracts	1	"demenstprechend w‰re die entscheidung f¸r A gut"	"Weiﬂ  1"	3	-	94	
+160615_0935	1	contracts	1	"weiﬂ2: habt ihr auch x?"	"Weiﬂ  2"	2	-	93	
+160615_0935	1	contracts	1	"Jo"	"Weiﬂ  1"	3	-	92	
+160615_0935	1	contracts	1	"jep"	"Weiﬂ  3"	3	-	90	
+160615_0935	1	contracts	1	"situation X liegt vor laut meiner info"	"Weiﬂ  3"	2	-	89	
+160615_0935	1	contracts	1	"Machen wir "	"Weiﬂ  2"	3	-	87	
+160615_0935	1	contracts	1	"bei mir y"	"Weiﬂ  1"	2	-	79	
+160615_0935	1	contracts	1	"W‰re fantastisch wenn die blauen auch mitziehen w¸rden"	"Weiﬂ  1"	3	-	77	
+160615_0935	1	contracts	1	":D"	"Weiﬂ  3"	3	-	73	
+160615_0935	1	contracts	1	"Wenn alle etwas verdienen wollen, sollten wir Alternative B w‰hlen. Es soll Situation Y vorliegen. "	"Weiﬂ  1"	1	-	71	
+160615_0935	1	contracts	1	"dann a w‰hlwn"	"Weiﬂ  2"	2	-	69	
+160615_0935	1	contracts	1	"Auch f¸r euch eine gute Chance 20 P¸nktchen zu bekommen :]"	"Weiﬂ  1"	3	-	62	
+160615_0935	1	contracts	1	"japp"	"Weiﬂ  1"	2	-	60	
+160615_0935	1	contracts	1	"A ok"	"Weiﬂ  3"	2	-	57	
+160615_0935	1	contracts	1	"ich bekam Info ¸ber Situation X und daher w¸rde ich A ausw‰hlen"	"Weiﬂ  2"	1	-	57	
+160615_0935	1	contracts	1	"Ich w¸rde ebenfalls A ausw‰hlen, da X vorliegen soll"	"Weiﬂ  3"	1	-	39	
+160615_0935	1	contracts	1	"das sind dann 6+ Ä ;)"	"Weiﬂ  3"	3	-	31	
+160615_0935	1	contracts	1	"Alles klar. Danke"	"Weiﬂ  1"	1	-	30	
+160615_0935	1	contracts	1	":O"	"Weiﬂ  1"	3	-	21	
+160615_0935	1	contracts	1	"Und das ist doch fantastisch ;)"	"Weiﬂ  1"	3	-	12	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	2	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	2	1	1	0	0	0	0.9518207190333962	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	9	4	10	999	999	0	-	-	0.9359909305050927	3	1	"Blau  3"	0	26	0	23	1	3	0	2	0	180	180	12	14	-	-	-	-	-	
+160615_0935	1	subjects	2	2	1	0	0	0	0.2793847603161748	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	4	5	0	999	999	0	-	-	0.3451079872181211	2	1	"Weiﬂ  2"	2	0	27	27	1	3	0	3	0	180	180	16	28	-	-	-	-	-	
+160615_0935	1	subjects	2	3	1	0	0	0	0.5416482303019837	2	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	15	9	20	999	999	0	-	-	0.7568777649462585	1	3	"Blau  2"	0	28	0	24	0	1	0	0	360	0	0	25	23	-	-	-	-	-	
+160615_0935	1	subjects	2	4	1	0	0	0	0.3490858885222515	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	12	6	0	999	999	0	-	-	0.3518787465765508	2	2	"Weiﬂ  3"	2	0	18	27	0	2	0	0	0	240	120	20	29	-	-	-	-	-	
+160615_0935	1	subjects	2	5	1	0	0	0	0.2508247942900401	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	11	17	10	999	999	0	-	-	0.6523672061284851	3	1	"Blau  1"	0	28	0	25	1	3	0	3	0	180	180	12	29	-	-	-	-	-	
+160615_0935	1	subjects	2	6	1	0	0	0	0.1836452480329411	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	20	18	0	999	999	0	-	-	0.1920846212618447	2	1	"Weiﬂ  1"	2	0	29	27	1	3	0	2	0	180	180	17	28	-	-	-	-	-	
+160615_0935	1	subjects	2	7	1	0	0	0	0.07957440944368691	2	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	20	16	20	999	999	0	-	-	0.7827639541508462	1	3	"Weiﬂ  2"	1	0	29	29	0	1	0	0	360	0	0	29	27	-	-	-	-	-	
+160615_0935	1	subjects	2	8	1	0	0	0	0.5799042855295838	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	5	13	0	999	999	0	-	-	0.6917711988518812	3	2	"Blau  1"	0	29	0	23	0	2	0	0	0	240	120	25	22	-	-	-	-	-	
+160615_0935	1	subjects	2	9	1	0	0	0	0.01264784066595502	1	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	5	9	20	999	999	0	-	-	0.646713649223891	1	3	"Weiﬂ  1"	1	0	24	26	0	1	0	0	360	0	0	24	28	-	-	-	-	-	
+160615_0935	1	subjects	2	10	1	0	0	0	0.06047500579640037	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	8	15	0	999	999	0	-	-	0.6471924454193527	2	2	"Weiﬂ  1"	2	0	28	27	0	2	0	0	0	240	120	13	29	-	-	-	-	-	
+160615_0935	1	subjects	2	11	1	0	0	0	0.1072755111880952	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	16	12	0	999	999	0	-	-	0.6213026012393192	2	2	"Weiﬂ  2"	1	0	28	27	0	2	0	0	0	240	120	22	29	-	-	-	-	-	
+160615_0935	1	subjects	2	12	1	0	0	0	0.6196666339503911	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	8	16	0	999	999	0	-	-	0.8862195377639586	2	1	"Weiﬂ  3"	1	0	18	28	1	3	0	2	0	180	180	17	25	-	-	-	-	-	
+160615_0935	1	subjects	2	13	1	0	0	0	0.8465544184886639	3	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	9	16	20	999	999	0	-	-	0.09621724537397607	1	3	"Blau  3"	0	29	0	27	0	1	0	0	360	0	0	28	28	-	-	-	-	-	
+160615_0935	1	subjects	2	14	1	0	0	0	0.6786330145218563	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	14	20	0	999	999	0	-	-	0.01326323580614442	3	2	"Blau  2"	0	24	0	26	0	2	0	0	0	240	120	15	23	-	-	-	-	-	
+160615_0935	1	subjects	2	15	1	0	0	0	0.4511362879775168	1	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	20	12	20	999	999	0	-	-	0.07878408444988731	1	3	"Blau  1"	0	30	0	27	0	1	0	0	360	0	0	25	29	-	-	-	-	-	
+160615_0935	1	subjects	2	16	1	0	0	0	0.7322131715399275	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	7	8	0	999	999	0	-	-	0.1232430004157326	2	2	"Blau  3"	0	29	0	26	0	2	0	0	0	240	120	22	29	-	-	-	-	-	
+160615_0935	1	subjects	2	17	1	0	0	0	0.3067740715606017	3	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	4	5	20	999	999	0	-	-	0.7895704250734161	1	3	"Weiﬂ  3"	2	0	27	25	0	1	0	0	360	0	0	26	28	-	-	-	-	-	
+160615_0935	1	subjects	2	18	1	0	0	0	0.4513268957153553	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	2	5	10	999	999	0	-	-	0.1707505659064048	3	1	"Blau  2"	0	28	0	19	1	3	0	3	0	180	180	17	21	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	2	"also A"	"Weiﬂ  3"	1	-	117	
+160615_0935	1	contracts	2	"situation X bei mir"	"Weiﬂ  2"	3	-	116	
+160615_0935	1	contracts	2	"habt ihr auch x?"	"Weiﬂ  1"	3	-	111	
+160615_0935	1	contracts	2	"Beim sagt das system y"	"Weiﬂ  1"	2	-	111	
+160615_0935	1	contracts	2	"Bei mir Y"	"Weiﬂ  3"	3	-	110	
+160615_0935	1	contracts	2	"Mir wurde Situation Y mitgeteilt"	"Weiﬂ  2"	1	-	105	
+160615_0935	1	contracts	2	"bei mir auch"	"Weiﬂ  3"	2	-	103	
+160615_0935	1	contracts	2	"Es soll die Situation X vorliegen. Also w‰hlt alle Alternative A"	"Weiﬂ  2"	2	-	102	
+160615_0935	1	contracts	2	"mir X"	"Weiﬂ  3"	1	-	101	
+160615_0935	1	contracts	2	"Mir wird angezeigt es liegt Situatuion Y vor"	"Weiﬂ  1"	1	-	99	
+160615_0935	1	contracts	2	"hmmmm"	"Weiﬂ  2"	1	-	98	
+160615_0935	1	contracts	2	"also B?"	"Weiﬂ  3"	2	-	97	
+160615_0935	1	contracts	2	"also dann X "	"Weiﬂ  2"	3	-	95	
+160615_0935	1	contracts	2	"dann a w‰hlwn"	"Weiﬂ  1"	3	-	93	
+160615_0935	1	contracts	2	"ich w‰re daher f¸r B"	"Weiﬂ  1"	1	-	92	
+160615_0935	1	contracts	2	"dann B"	"Weiﬂ  3"	1	-	91	
+160615_0935	1	contracts	2	"ja"	"Weiﬂ  3"	1	-	89	
+160615_0935	1	contracts	2	"A"	"Weiﬂ  2"	3	-	88	
+160615_0935	1	contracts	2	"Vielleicht habe ich eine Faschinfo"	"Weiﬂ  2"	2	-	85	
+160615_0935	1	contracts	2	"Alles klar"	"Weiﬂ  1"	1	-	83	
+160615_0935	1	contracts	2	"okay"	"Weiﬂ  3"	3	-	80	
+160615_0935	1	contracts	2	"machen wir B"	"Weiﬂ  3"	1	-	74	
+160615_0935	1	contracts	2	"a ist sicherer"	"Weiﬂ  1"	2	-	74	
+160615_0935	1	contracts	2	"Hoffe unsere blauen Freunde sidn mit im Boot"	"Weiﬂ  1"	1	-	74	
+160615_0935	1	contracts	2	"vlt wir alle "	"Weiﬂ  3"	2	-	74	
+160615_0935	1	contracts	2	":D"	"Weiﬂ  1"	1	-	70	
+160615_0935	1	contracts	2	"a ist sicherer nur f¸r weiﬂen"	"Weiﬂ  3"	2	-	54	
+160615_0935	1	contracts	2	"die h‰tten dann um die 3Ä"	"Weiﬂ  3"	1	-	33	
+160615_0935	1	contracts	2	"Ich w¸rde B w‰hlen."	"Weiﬂ  2"	2	-	27	
+160615_0935	1	contracts	2	"wenn wir B nehmen also fairer"	"Weiﬂ  3"	2	-	19	
+160615_0935	1	contracts	2	"Und bei X sind wir dann halt alle angearscht"	"Weiﬂ  1"	1	-	16	
+160615_0935	1	contracts	2	"aber hey"	"Weiﬂ  1"	1	-	14	
+160615_0935	1	contracts	2	"dann B"	"Weiﬂ  1"	2	-	12	
+160615_0935	1	contracts	2	"Genau, und wenns doch x ist, haben wir halt beide nichts"	"Weiﬂ  2"	1	-	11	
+160615_0935	1	contracts	2	"ok"	"Weiﬂ  3"	2	-	7	
+160615_0935	1	contracts	2	"ok"	"Weiﬂ  2"	2	-	4	
+160615_0935	1	contracts	2	"Man kann es ja riskieren :]"	"Weiﬂ  1"	1	-	4	
+160615_0935	1	contracts	2	"aber B"	"Weiﬂ  3"	1	-	2	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	3	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	3	1	1	0	0	0	0.2760007019508634	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	17	20	0	999	999	0	-	-	0.1261841962701568	2	3	"Blau  1"	0	30	0	25	0	2	0	-	0	240	120	16	28	-	-	-	-	-	
+160615_0935	1	subjects	3	2	1	0	0	0	0.3760162086114363	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	20	16	20	999	999	0	-	-	0.0384259969174983	1	1	"Weiﬂ  2"	1	0	29	28	0	1	0	-	300	0	60	24	27	-	-	-	-	-	
+160615_0935	1	subjects	3	3	1	0	0	0	0.4077989786899644	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	7	15	20	999	999	0	-	-	0.08535100337367085	3	1	"Blau  3"	0	28	0	26	0	1	0	-	300	0	60	24	28	-	-	-	-	-	
+160615_0935	1	subjects	3	4	1	0	0	0	0.4692865081454099	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	19	11	20	999	999	0	-	-	0.7032763858806698	1	1	"Weiﬂ  3"	2	0	28	26	0	1	0	-	300	0	60	24	28	-	-	-	-	-	
+160615_0935	1	subjects	3	5	1	0	0	0	0.01510886336449015	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	5	20	20	999	999	0	-	-	0.5834214904268372	1	1	"Blau  1"	0	23	0	27	0	1	0	-	300	0	60	19	29	-	-	-	-	-	
+160615_0935	1	subjects	3	6	1	0	0	0	0.9333399347650538	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	7	14	0	999	999	0	-	-	0.9368210420649596	2	3	"Weiﬂ  3"	2	0	29	28	0	2	0	-	0	240	120	20	28	-	-	-	-	-	
+160615_0935	1	subjects	3	7	1	0	0	0	0.8114875861497073	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	6	4	0	999	999	0	-	-	0.6576516123757007	2	3	"Weiﬂ  2"	2	0	28	29	0	2	0	-	0	240	120	16	27	-	-	-	-	-	
+160615_0935	1	subjects	3	8	1	0	0	0	0.4637535002379462	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	14	11	20	999	999	0	-	-	0.2892161669625045	3	2	"Blau  2"	0	30	0	26	0	1	0	-	300	0	60	29	27	-	-	-	-	-	
+160615_0935	1	subjects	3	9	1	0	0	0	0.3696965264946672	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	19	18	20	999	999	0	-	-	0.1506491984010903	1	2	"Weiﬂ  1"	1	0	25	28	0	1	0	-	300	0	60	17	25	-	-	-	-	-	
+160615_0935	1	subjects	3	10	1	0	0	0	0.7437976881599975	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	17	2	20	999	999	0	-	-	0.2174622743471816	1	2	"Weiﬂ  3"	1	0	29	26	0	1	0	-	300	0	60	25	29	-	-	-	-	-	
+160615_0935	1	subjects	3	11	1	0	0	0	0.4543354024432299	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	16	9	20	999	999	0	-	-	0.8257301923938701	1	2	"Weiﬂ  2"	1	0	27	27	0	1	0	-	300	0	60	27	25	-	-	-	-	-	
+160615_0935	1	subjects	3	12	1	0	0	0	0.7215040008171946	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	17	2	0	999	999	0	-	-	0.1738512563397415	2	3	"Weiﬂ  1"	1	0	27	29	0	2	0	-	0	240	120	24	29	-	-	-	-	-	
+160615_0935	1	subjects	3	13	1	0	0	0	0.2853332428659002	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	17	16	0	999	999	0	-	-	0.2264195989009084	3	3	"Blau  2"	0	27	0	27	0	2	0	-	0	240	120	13	24	-	-	-	-	-	
+160615_0935	1	subjects	3	14	1	0	0	0	0.9544513448860735	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	13	19	0	999	999	0	-	-	0.9662174964166328	3	3	"Blau  3"	0	27	0	28	0	2	0	-	0	240	120	19	28	-	-	-	-	-	
+160615_0935	1	subjects	3	15	1	0	0	0	0.3050784991612092	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	16	19	20	999	999	0	-	-	0.7829206840986948	1	2	"Blau  1"	0	28	0	28	0	1	0	-	300	0	60	23	29	-	-	-	-	-	
+160615_0935	1	subjects	3	16	1	0	0	0	0.3656796181414647	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	19	15	20	999	999	0	-	-	0.4493185158117295	1	1	"Blau  2"	0	30	0	27	0	1	0	-	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	3	17	1	0	0	0	0.3177417345893298	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	5	11	20	999	999	0	-	-	0.02954750556012034	1	1	"Weiﬂ  1"	1	0	28	26	0	1	0	-	300	0	60	20	28	-	-	-	-	-	
+160615_0935	1	subjects	3	18	1	0	0	0	0.8084614438975516	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	1	11	20	999	999	0	-	-	0.376038873743284	1	2	"Blau  3"	0	28	0	17	0	1	0	-	300	0	60	20	23	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	3	"bei mir X"	"Weiﬂ  1"	3	-	118	
+160615_0935	1	contracts	3	"Info Situation X"	"Weiﬂ  2"	1	-	117	
+160615_0935	1	contracts	3	"Y bei mir"	"Weiﬂ  2"	3	-	117	
+160615_0935	1	contracts	3	"ich hab x"	"Weiﬂ  1"	2	-	114	
+160615_0935	1	contracts	3	"Ich habe auch X"	"Weiﬂ  1"	1	-	112	
+160615_0935	1	contracts	3	"Mir wurde angezeigt es liegt Situation Y vor"	"Weiﬂ  3"	3	-	111	
+160615_0935	1	contracts	3	"Ich habe die Info, dass Situation X vorliegen wird"	"Weiﬂ  2"	2	-	109	
+160615_0935	1	contracts	3	"hm"	"Weiﬂ  1"	3	-	108	
+160615_0935	1	contracts	3	"ich hab Y"	"Weiﬂ  3"	1	-	106	
+160615_0935	1	contracts	3	"Dann A ? "	"Weiﬂ  2"	1	-	104	
+160615_0935	1	contracts	3	"Bei mir sagt das system auch x"	"Weiﬂ  3"	2	-	103	
+160615_0935	1	contracts	3	"ok dann Y"	"Weiﬂ  2"	3	-	101	
+160615_0935	1	contracts	3	"Also A"	"Weiﬂ  2"	2	-	100	
+160615_0935	1	contracts	3	"ja denke schon"	"Weiﬂ  1"	1	-	99	
+160615_0935	1	contracts	3	"gerade eben auch so gehabt"	"Weiﬂ  1"	3	-	98	
+160615_0935	1	contracts	3	"hˆhere wahrscheinlichkeit f¸r Y dann"	"Weiﬂ  3"	3	-	97	
+160615_0935	1	contracts	3	"ja"	"Weiﬂ  3"	2	-	92	
+160615_0935	1	contracts	3	"jo"	"Weiﬂ  2"	3	-	91	
+160615_0935	1	contracts	3	"aber es war letztendlich X :D"	"Weiﬂ  1"	3	-	89	
+160615_0935	1	contracts	3	"ok"	"Weiﬂ  3"	1	-	89	
+160615_0935	1	contracts	3	"Wobei das in meiner letzten runde schief gegangen ist "	"Weiﬂ  3"	3	-	88	
+160615_0935	1	contracts	3	"dann also a w‰hlwn"	"Weiﬂ  1"	2	-	86	
+160615_0935	1	contracts	3	":X"	"Weiﬂ  3"	3	-	86	
+160615_0935	1	contracts	3	"aah"	"Weiﬂ  1"	3	-	83	
+160615_0935	1	contracts	3	"÷hm"	"Weiﬂ  3"	3	-	74	
+160615_0935	1	contracts	3	"lasst mal riskieren"	"Weiﬂ  1"	3	-	65	
+160615_0935	1	contracts	3	"bei uns ging es gut"	"Weiﬂ  2"	3	-	64	
+160615_0935	1	contracts	3	"W¸rde sonst trotzdem wieder auf Y tippen"	"Weiﬂ  3"	3	-	64	
+160615_0935	1	contracts	3	"zweimal x ist ein gutes zeichen ;) "	"Weiﬂ  2"	1	-	63	
+160615_0935	1	contracts	3	"Y "	"Weiﬂ  2"	3	-	59	
+160615_0935	1	contracts	3	"dann B"	"Weiﬂ  3"	3	-	55	
+160615_0935	1	contracts	3	"ok B"	"Weiﬂ  1"	3	-	53	
+160615_0935	1	contracts	3	"dann alternative B"	"Weiﬂ  2"	3	-	52	
+160615_0935	1	contracts	3	"haha"	"Weiﬂ  3"	1	-	51	
+160615_0935	1	contracts	3	"All win oder all lose"	"Weiﬂ  3"	3	-	45	
+160615_0935	1	contracts	3	"hoffen wir es ;)"	"Weiﬂ  1"	1	-	43	
+160615_0935	1	contracts	3	"finde ich fair"	"Weiﬂ  3"	3	-	41	
+160615_0935	1	contracts	3	"C ist nie eine Alternative :D"	"Weiﬂ  1"	3	-	31	
+160615_0935	1	contracts	3	"A w‰re auch gut in beiden Situation :-p"	"Weiﬂ  3"	1	-	15	
+160615_0935	1	contracts	3	"bei B gewinnen beide"	"Weiﬂ  2"	3	-	14	
+160615_0935	1	contracts	3	"Und meine blauen Freunde, ich hoffe ihr seid dabei, obwohl C verlockend aussieht"	"Weiﬂ  3"	3	-	12	
+160615_0935	1	contracts	3	"B"	"Weiﬂ  1"	3	-	2	
+160615_0935	1	contracts	3	":]"	"Weiﬂ  3"	3	-	1	
+160615_0935	1	contracts	3	"B"	"Weiﬂ  3"	3	-	0	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	4	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	4	1	1	0	0	0	0.9741100920243702	3	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	6	17	20	999	999	0	-	-	0.7886551370791416	1	1	"Blau  3"	0	29	0	29	0	1	0	-	360	0	0	22	27	-	-	-	-	-	
+160615_0935	1	subjects	4	2	1	0	0	0	0.2770280876555611	1	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	14	10	20	999	999	0	-	-	0.4208602460198385	1	1	"Weiﬂ  1"	1	0	29	28	0	1	0	-	360	0	0	27	28	-	-	-	-	-	
+160615_0935	1	subjects	4	3	1	0	0	0	0.2476271983457856	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	18	2	20	999	999	0	-	-	0.613165484095535	3	3	"Blau  2"	0	29	0	27	0	1	0	-	240	0	120	21	28	-	-	-	-	-	
+160615_0935	1	subjects	4	4	1	0	0	0	0.9263888052321918	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	19	20	20	999	999	0	-	-	0.3441740820855713	1	3	"Weiﬂ  3"	1	0	28	27	0	1	0	-	240	0	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	4	5	1	0	0	0	0.8305880822383743	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	7	19	20	999	999	0	-	-	0.4339994003223253	1	3	"Blau  3"	0	4	0	29	0	1	0	-	240	0	120	22	29	-	-	-	-	-	
+160615_0935	1	subjects	4	6	1	0	0	0	0.04049844389804567	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	8	1	20	999	999	0	-	-	0.3217065140240391	1	3	"Weiﬂ  1"	1	0	29	27	0	1	0	-	240	0	120	22	30	-	-	-	-	-	
+160615_0935	1	subjects	4	7	1	0	0	0	0.9475502022297822	2	0	0	5	1	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	9	3	20	999	999	0	-	-	0.3813062633300695	1	2	"Weiﬂ  2"	1	0	30	29	0	1	0	-	300	60	0	17	27	-	-	-	-	-	
+160615_0935	1	subjects	4	8	1	0	0	0	0.01106922701516618	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	14	12	20	999	999	0	-	-	0.02789448622050439	3	3	"Blau  1"	0	29	0	24	0	1	0	-	240	0	120	27	25	-	-	-	-	-	
+160615_0935	1	subjects	4	9	1	0	0	0	0.9049585698661201	1	0	0	5	1	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	15	19	20	999	999	0	-	-	0.03003698402551794	1	2	"Weiﬂ  1"	2	0	25	28	0	1	0	-	300	60	0	25	27	-	-	-	-	-	
+160615_0935	1	subjects	4	10	1	0	0	0	0.7113430466090064	3	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	14	17	20	999	999	0	-	-	0.1699292348557754	1	1	"Weiﬂ  3"	2	0	17	26	0	1	0	-	360	0	0	27	28	-	-	-	-	-	
+160615_0935	1	subjects	4	11	1	0	0	0	0.657346594453485	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	5	7	20	999	999	0	-	-	0.5227829136526132	1	3	"Weiﬂ  2"	1	0	29	27	0	1	0	-	240	0	120	21	29	-	-	-	-	-	
+160615_0935	1	subjects	4	12	1	0	0	0	0.5556445636579974	2	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	18	3	20	999	999	0	-	-	0.1753175515566569	1	1	"Weiﬂ  2"	1	0	30	29	0	1	0	-	360	0	0	28	20	-	-	-	-	-	
+160615_0935	1	subjects	4	13	1	0	0	0	0.6764755806310454	2	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	6	5	20	999	999	0	-	-	0.9282646253370981	1	1	"Blau  2"	0	99999	0	27	0	1	0	-	360	0	0	29	28	-	-	-	-	-	
+160615_0935	1	subjects	4	14	1	0	0	0	0.8205670559874583	2	1	0	5	1	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	18	2	20	999	999	0	-	-	0.3981548554255417	1	2	"Blau  2"	0	30	0	28	0	1	0	-	300	60	0	23	29	-	-	-	-	-	
+160615_0935	1	subjects	4	15	1	0	0	0	0.8743230783726662	3	1	0	5	1	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	10	6	20	999	999	0	-	-	0.5340732985800474	2	2	"Blau  3"	0	30	0	28	0	1	0	-	300	60	0	23	22	-	-	-	-	-	
+160615_0935	1	subjects	4	16	1	0	0	0	0.7817026906561585	1	1	0	5	1	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	9	14	20	999	999	0	-	-	0.8315905168799639	1	2	"Blau  1"	0	29	0	25	0	1	0	-	300	60	0	29	30	-	-	-	-	-	
+160615_0935	1	subjects	4	17	1	0	0	0	0.9847384574752014	3	0	0	5	1	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	18	6	20	999	999	0	-	-	0.9214745675779295	1	2	"Weiﬂ  3"	1	0	27	26	0	1	0	-	300	60	0	24	28	-	-	-	-	-	
+160615_0935	1	subjects	4	18	1	0	0	0	0.314858054423173	1	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	19	4	20	999	999	0	-	-	0.06655985725417726	1	1	"Blau  1"	0	27	0	17	0	1	0	-	360	0	0	24	23	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	4	"X bei mir"	"Weiﬂ  2"	2	-	118	
+160615_0935	1	contracts	4	"Situation x"	"Weiﬂ  1"	1	-	116	
+160615_0935	1	contracts	4	"meiner sagt y"	"Weiﬂ  3"	1	-	114	
+160615_0935	1	contracts	4	"ich hab y"	"Weiﬂ  1"	2	-	114	
+160615_0935	1	contracts	4	"X auch bei mir"	"Weiﬂ  3"	2	-	113	
+160615_0935	1	contracts	4	"Situation X wurde mir angezeigt"	"Weiﬂ  1"	3	-	111	
+160615_0935	1	contracts	4	"wieder X"	"Weiﬂ  3"	3	-	110	
+160615_0935	1	contracts	4	"Es soll Situation X vorliegen"	"Weiﬂ  2"	3	-	110	
+160615_0935	1	contracts	4	"Exzellent"	"Weiﬂ  1"	3	-	105	
+160615_0935	1	contracts	4	"bei mir X. Ich war bisher 2 mal die Minderheit, aber es war immer wahr"	"Weiﬂ  2"	1	-	101	
+160615_0935	1	contracts	4	"komisch"	"Weiﬂ  2"	1	-	98	
+160615_0935	1	contracts	4	"dann X?"	"Weiﬂ  2"	2	-	97	
+160615_0935	1	contracts	4	"Dann A?"	"Weiﬂ  1"	3	-	95	
+160615_0935	1	contracts	4	"dann sollten wir  a w‰hlen"	"Weiﬂ  1"	2	-	94	
+160615_0935	1	contracts	4	"Also bitte alle A w‰hlen"	"Weiﬂ  2"	3	-	94	
+160615_0935	1	contracts	4	"jup"	"Weiﬂ  3"	3	-	92	
+160615_0935	1	contracts	4	"ja, also A "	"Weiﬂ  3"	2	-	89	
+160615_0935	1	contracts	4	"ok"	"Weiﬂ  2"	2	-	85	
+160615_0935	1	contracts	4	"dann X ?"	"Weiﬂ  2"	1	-	81	
+160615_0935	1	contracts	4	"lasst mal A"	"Weiﬂ  2"	1	-	75	
+160615_0935	1	contracts	4	"bei mir war die info zweimal richtig und einmal falsch"	"Weiﬂ  3"	1	-	72	
+160615_0935	1	contracts	4	"ja x,  hat bisher gut funktiniert"	"Weiﬂ  1"	1	-	69	
+160615_0935	1	contracts	4	"Auch ihr blauen Menschlein :)"	"Weiﬂ  1"	3	-	68	
+160615_0935	1	contracts	4	"W‰re zumindest wunderbar"	"Weiﬂ  1"	3	-	63	
+160615_0935	1	contracts	4	"also a, einverstandne"	"Weiﬂ  3"	1	-	58	
+160615_0935	1	contracts	4	"die Blauen zittern"	"Weiﬂ  2"	1	-	47	
+160615_0935	1	contracts	4	"I am sorry f¸r die blauen wenn Y vorliegen wird"	"Weiﬂ  3"	3	-	14	
+160615_0935	1	contracts	4	"Dito"	"Weiﬂ  1"	3	-	4	
+160615_0935	1	contracts	4	"jap"	"Weiﬂ  2"	3	-	0	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	5	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	5	1	1	0	0	0	0.2549619140359396	2	1	0	1	2	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	3	16	20	999	999	0	-	-	0.3389572409628691	3	1	"Blau  2"	0	28	0	29	0	3	0	-	60	120	180	20	26	-	-	-	-	-	
+160615_0935	1	subjects	5	2	1	0	0	0	0.1528186253983614	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	16	1	10	999	999	0	-	-	0.1924687075393594	1	3	"Weiﬂ  1"	1	0	28	26	0	1	0	-	240	0	120	21	27	-	-	-	-	-	
+160615_0935	1	subjects	5	3	1	0	0	0	0.4394873727296886	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	2	20	0	999	999	0	-	-	0.5411495792405445	3	3	"Blau  2"	0	29	0	27	0	1	0	-	240	0	120	25	21	-	-	-	-	-	
+160615_0935	1	subjects	5	4	1	0	0	0	0.0441745943595537	1	0	0	1	2	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	4	1	0	999	999	0	-	-	0.8215676140140591	1	1	"Weiﬂ  1"	2	0	29	20	0	3	0	-	60	120	180	22	25	-	-	-	-	-	
+160615_0935	1	subjects	5	5	1	0	0	0	0.01369987242561759	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	10	14	10	999	999	0	-	-	0.8195557672621476	3	2	"Blau  1"	0	27	0	26	0	2	0	-	0	240	120	26	29	-	-	-	-	-	
+160615_0935	1	subjects	5	6	1	0	0	0	0.5750142422388375	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	2	19	10	999	999	0	-	-	0.8447648965962068	1	3	"Weiﬂ  3"	2	0	29	28	0	1	0	-	240	0	120	27	28	-	-	-	-	-	
+160615_0935	1	subjects	5	7	1	0	0	0	0.3050366990757346	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	9	8	20	999	999	0	-	-	0.6770104135745253	2	2	"Weiﬂ  1"	2	0	29	29	0	2	0	-	0	240	120	19	30	-	-	-	-	-	
+160615_0935	1	subjects	5	8	1	0	0	0	0.06168823924925562	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	17	16	0	999	999	0	-	-	0.8730855802414406	3	3	"Blau  1"	0	27	0	28	0	1	0	-	240	0	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	5	9	1	0	0	0	0.9885901026374614	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	13	3	20	999	999	0	-	-	0.5124727597052571	2	2	"Weiﬂ  3"	2	0	29	28	0	2	0	-	0	240	120	25	24	-	-	-	-	-	
+160615_0935	1	subjects	5	10	1	0	0	0	0.2643693081403008	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	12	11	10	999	999	0	-	-	0.476248875947785	1	3	"Weiﬂ  2"	1	0	22	26	0	1	0	-	240	0	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	5	11	1	0	0	0	0.2612398649851046	2	0	0	1	2	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	2	19	0	999	999	0	-	-	0.3421763327634783	2	1	"Weiﬂ  2"	2	0	23	28	0	3	0	-	60	120	180	24	28	-	-	-	-	-	
+160615_0935	1	subjects	5	12	1	0	0	0	0.6477712959273585	3	0	0	1	2	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	10	18	0	999	999	0	-	-	0.8736076708294487	2	1	"Weiﬂ  3"	1	0	26	29	0	3	0	-	60	120	180	25	26	-	-	-	-	-	
+160615_0935	1	subjects	5	13	1	0	0	0	0.3902706659353668	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	5	19	10	999	999	0	-	-	0.4034596445986348	2	2	"Blau  2"	0	27	0	24	0	2	0	-	0	240	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	5	14	1	0	0	0	0.1448892020363776	1	1	0	1	2	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	2	15	20	999	999	0	-	-	0.1023427648946376	3	1	"Blau  1"	0	30	0	27	0	3	0	-	60	120	180	21	29	-	-	-	-	-	
+160615_0935	1	subjects	5	15	1	0	0	0	0.6584108046528002	3	1	0	1	2	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	9	12	20	999	999	0	-	-	0.07484958417473807	3	1	"Blau  3"	0	30	0	27	0	3	0	-	60	120	180	23	29	-	-	-	-	-	
+160615_0935	1	subjects	5	16	1	0	0	0	0.8858930142065012	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	15	14	0	999	999	0	-	-	0.824269632261372	1	3	"Blau  3"	0	29	0	26	0	1	0	-	240	0	120	29	28	-	-	-	-	-	
+160615_0935	1	subjects	5	17	1	0	0	0	0.5697814289339732	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	20	4	20	999	999	0	-	-	0.9636170924471771	2	2	"Weiﬂ  2"	2	0	29	26	0	2	0	-	0	240	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	5	18	1	0	0	0	0.4014524754143564	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	8	20	10	999	999	0	-	-	0.008463746406353893	3	2	"Blau  3"	0	28	0	23	0	2	0	-	0	240	120	12	23	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	5	"X"	"Weiﬂ  3"	1	-	118	
+160615_0935	1	contracts	5	"X"	"Weiﬂ  1"	3	-	118	
+160615_0935	1	contracts	5	"Y bei mir"	"Weiﬂ  1"	2	-	117	
+160615_0935	1	contracts	5	"Ich habe Y"	"Weiﬂ  2"	2	-	116	
+160615_0935	1	contracts	5	"Situation Y soll vorliegen"	"Weiﬂ  3"	3	-	115	
+160615_0935	1	contracts	5	"y bei mir"	"Weiﬂ  3"	2	-	115	
+160615_0935	1	contracts	5	"situationx"	"Weiﬂ  2"	3	-	113	
+160615_0935	1	contracts	5	"Hm"	"Weiﬂ  3"	3	-	110	
+160615_0935	1	contracts	5	"perfekt haha"	"Weiﬂ  2"	2	-	110	
+160615_0935	1	contracts	5	"Y"	"Weiﬂ  2"	1	-	108	
+160615_0935	1	contracts	5	"dann B?"	"Weiﬂ  2"	2	-	107	
+160615_0935	1	contracts	5	"zweimal x = A? "	"Weiﬂ  1"	3	-	106	
+160615_0935	1	contracts	5	"A"	"Weiﬂ  2"	3	-	106	
+160615_0935	1	contracts	5	"y"	"Weiﬂ  1"	1	-	105	
+160615_0935	1	contracts	5	"dann ist ja alles kilar haha"	"Weiﬂ  1"	2	-	104	
+160615_0935	1	contracts	5	"hat bisher top funktioniert"	"Weiﬂ  1"	3	-	99	
+160615_0935	1	contracts	5	"ja B"	"Weiﬂ  1"	2	-	98	
+160615_0935	1	contracts	5	"dann w‰hlwn wir b"	"Weiﬂ  3"	2	-	97	
+160615_0935	1	contracts	5	"Hab bisher imemr beschissene Erfahrungen mit dieser kalkulation gemacht"	"Weiﬂ  3"	3	-	97	
+160615_0935	1	contracts	5	"ich war 2 mal die Minderheit"	"Weiﬂ  3"	1	-	93	
+160615_0935	1	contracts	5	"top"	"Weiﬂ  2"	2	-	92	
+160615_0935	1	contracts	5	"ist immer das geworden was seltener war"	"Weiﬂ  3"	3	-	91	
+160615_0935	1	contracts	5	"hm :D"	"Weiﬂ  1"	3	-	90	
+160615_0935	1	contracts	5	"aber es war wahr :D"	"Weiﬂ  3"	1	-	86	
+160615_0935	1	contracts	5	"aber irgendwann muss es ja mal klappen^^"	"Weiﬂ  3"	3	-	82	
+160615_0935	1	contracts	5	"Dann A"	"Weiﬂ  3"	3	-	76	
+160615_0935	1	contracts	5	"lasst trotzdem Y"	"Weiﬂ  3"	1	-	68	
+160615_0935	1	contracts	5	"also bei mir hats gut funktioniert, bisher hat der computer nur einmal gelogen"	"Weiﬂ  2"	3	-	64	
+160615_0935	1	contracts	5	"B"	"Weiﬂ  3"	1	-	61	
+160615_0935	1	contracts	5	"Bei mir auch "	"Weiﬂ  1"	3	-	58	
+160615_0935	1	contracts	5	"ok"	"Weiﬂ  1"	1	-	57	
+160615_0935	1	contracts	5	"Hm... ich war auch schon die Minderheit und es war richitg. "	"Weiﬂ  2"	1	-	55	
+160615_0935	1	contracts	5	"Bei mir schon drei mal o.o"	"Weiﬂ  3"	3	-	51	
+160615_0935	1	contracts	5	"Also eher A w‰hlen?"	"Weiﬂ  2"	1	-	49	
+160615_0935	1	contracts	5	"L¸gen-Computer!"	"Weiﬂ  3"	3	-	37	
+160615_0935	1	contracts	5	"wollen wir riskieren ?"	"Weiﬂ  3"	1	-	36	
+160615_0935	1	contracts	5	"Aber gut"	"Weiﬂ  3"	3	-	34	
+160615_0935	1	contracts	5	"ich mach mit nach der Mehrheit"	"Weiﬂ  1"	1	-	34	
+160615_0935	1	contracts	5	"Wir versuchens mit A"	"Weiﬂ  3"	3	-	29	
+160615_0935	1	contracts	5	"ja"	"Weiﬂ  3"	1	-	28	
+160615_0935	1	contracts	5	"was nun?"	"Weiﬂ  2"	1	-	27	
+160615_0935	1	contracts	5	"AAAAAAAAAAA"	"Weiﬂ  1"	3	-	26	
+160615_0935	1	contracts	5	"ich sage B"	"Weiﬂ  3"	1	-	23	
+160615_0935	1	contracts	5	"A!"	"Weiﬂ  2"	3	-	22	
+160615_0935	1	contracts	5	"A"	"Weiﬂ  3"	3	-	18	
+160615_0935	1	contracts	5	"Blaue freunde"	"Weiﬂ  3"	3	-	13	
+160615_0935	1	contracts	5	"ich w¸rde mri eure unterst¸tzung sehr w¸nschen"	"Weiﬂ  3"	3	-	4	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	6	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	6	1	1	0	0	0	0.1337862355326238	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	3	20	20	999	999	0	-	-	0.5918185695036401	3	1	"Blau  2"	0	29	0	26	1	3	0	2	0	180	180	25	27	-	-	-	-	-	
+160615_0935	1	subjects	6	2	1	0	0	0	0.8466366631196052	3	0	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	1	17	20	999	999	0	-	-	0.783364540796431	2	2	"Weiﬂ  3"	1	0	29	20	0	2	0	0	0	300	60	26	28	-	-	-	-	-	
+160615_0935	1	subjects	6	3	1	0	0	0	0.9225297011074283	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	19	20	10	999	999	0	-	-	0.6633215857033252	3	3	"Blau  3"	0	26	0	27	1	2	0	3	0	180	180	23	27	-	-	-	-	-	
+160615_0935	1	subjects	6	4	1	0	0	0	0.6980000351080671	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	16	19	20	999	999	0	-	-	0.4631755708079671	2	3	"Weiﬂ  2"	2	0	28	27	1	2	0	2	0	180	180	26	27	-	-	-	-	-	
+160615_0935	1	subjects	6	5	1	0	0	0	0.6758573086354217	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	15	7	10	999	999	0	-	-	0.4251097065513533	3	3	"Blau  1"	0	30	0	26	1	2	0	2	0	180	180	10	22	-	-	-	-	-	
+160615_0935	1	subjects	6	6	1	0	0	0	0.5510265764552292	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	6	5	20	999	999	0	-	-	0.2696710779656056	2	3	"Weiﬂ  1"	2	0	29	29	1	2	0	2	0	180	180	21	27	-	-	-	-	-	
+160615_0935	1	subjects	6	7	1	0	0	0	0.4223970512032495	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	1	4	0	999	999	0	-	-	0.3775157334178294	2	1	"Weiﬂ  2"	2	0	30	26	1	3	0	3	0	180	180	22	29	-	-	-	-	-	
+160615_0935	1	subjects	6	8	1	0	0	0	0.7722166328561569	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	14	16	10	999	999	0	-	-	0.2104104576680858	3	3	"Blau  2"	0	30	0	27	1	2	0	3	0	180	180	24	28	-	-	-	-	-	
+160615_0935	1	subjects	6	9	1	0	0	0	0.7786673604411387	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	3	10	20	999	999	0	-	-	0.4226370702603073	2	3	"Weiﬂ  3"	2	0	24	24	1	2	0	2	0	180	180	-3	16	-	-	-	-	-	
+160615_0935	1	subjects	6	10	1	0	0	0	0.163381004316444	1	0	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	7	12	20	999	999	0	-	-	0.6133512312608545	2	2	"Weiﬂ  1"	2	0	28	27	0	2	0	0	0	300	60	22	25	-	-	-	-	-	
+160615_0935	1	subjects	6	11	1	0	0	0	0.2155036554744018	2	0	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	5	20	20	999	999	0	-	-	0.6519303380753521	2	2	"Weiﬂ  2"	2	0	27	27	0	2	0	0	0	300	60	25	28	-	-	-	-	-	
+160615_0935	1	subjects	6	12	1	0	0	0	0.740541875707238	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	12	8	0	999	999	0	-	-	0.5834439348352346	2	1	"Weiﬂ  3"	2	0	28	27	1	3	0	3	0	180	180	28	28	-	-	-	-	-	
+160615_0935	1	subjects	6	13	1	0	0	0	0.06580130479568676	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	8	11	20	999	999	0	-	-	0.3089402943425534	3	1	"Blau  1"	0	29	0	27	1	3	0	3	0	180	180	16	16	-	-	-	-	-	
+160615_0935	1	subjects	6	14	1	0	0	0	0.4208185874953953	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	1	5	20	999	999	0	-	-	0.2117542890886563	3	1	"Blau  3"	0	26	0	28	1	3	0	2	0	180	180	23	29	-	-	-	-	-	
+160615_0935	1	subjects	6	15	1	0	0	0	0.01315900404619007	1	1	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	13	4	10	999	999	0	-	-	0.1800652626809037	2	2	"Blau  1"	0	29	0	27	0	2	0	0	0	300	60	25	30	-	-	-	-	-	
+160615_0935	1	subjects	6	16	1	0	0	0	0.7353290835094308	3	1	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	16	20	10	999	999	0	-	-	0.6946976476789907	2	2	"Blau  3"	0	29	0	27	0	2	0	0	0	300	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	6	17	1	0	0	0	0.0391521873134897	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	20	2	0	999	999	0	-	-	0.3468785771852725	2	1	"Weiﬂ  1"	2	0	29	27	1	3	0	3	0	180	180	24	28	-	-	-	-	-	
+160615_0935	1	subjects	6	18	1	0	0	0	0.6759065430033517	2	1	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	6	16	10	999	999	0	-	-	0.007837165616376868	3	2	"Blau  2"	0	27	0	21	0	2	0	0	0	300	60	22	25	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	6	"Y"	"Weiﬂ  3"	1	-	118	
+160615_0935	1	contracts	6	"Y"	"Weiﬂ  1"	2	-	118	
+160615_0935	1	contracts	6	"Info Situation X"	"Weiﬂ  3"	2	-	117	
+160615_0935	1	contracts	6	"Y hab ich"	"Weiﬂ  2"	1	-	117	
+160615_0935	1	contracts	6	"ich hab Y"	"Weiﬂ  2"	3	-	117	
+160615_0935	1	contracts	6	"Situation Y"	"Weiﬂ  1"	1	-	116	
+160615_0935	1	contracts	6	"bei mir y"	"Weiﬂ  3"	3	-	115	
+160615_0935	1	contracts	6	"Situation Y soll vorliegen"	"Weiﬂ  1"	3	-	113	
+160615_0935	1	contracts	6	"ok.."	"Weiﬂ  3"	1	-	112	
+160615_0935	1	contracts	6	"Y"	"Weiﬂ  2"	2	-	112	
+160615_0935	1	contracts	6	"haha"	"Weiﬂ  2"	1	-	112	
+160615_0935	1	contracts	6	"sehr gut"	"Weiﬂ  1"	1	-	112	
+160615_0935	1	contracts	6	"Alles klar"	"Weiﬂ  1"	3	-	110	
+160615_0935	1	contracts	6	"dann B?"	"Weiﬂ  1"	1	-	107	
+160615_0935	1	contracts	6	"B?"	"Weiﬂ  1"	3	-	105	
+160615_0935	1	contracts	6	"also b "	"Weiﬂ  3"	3	-	103	
+160615_0935	1	contracts	6	"ja"	"Weiﬂ  2"	1	-	102	
+160615_0935	1	contracts	6	"B"	"Weiﬂ  2"	1	-	101	
+160615_0935	1	contracts	6	"ist noch keine Garantie. Ja, B"	"Weiﬂ  3"	1	-	100	
+160615_0935	1	contracts	6	"ok"	"Weiﬂ  2"	3	-	99	
+160615_0935	1	contracts	6	"B?"	"Weiﬂ  3"	2	-	95	
+160615_0935	1	contracts	6	"Ich h‰tte Lust B zu probieren"	"Weiﬂ  1"	2	-	91	
+160615_0935	1	contracts	6	"Aber am sichersten trotzdem :)"	"Weiﬂ  1"	1	-	77	
+160615_0935	1	contracts	6	"Oder doch lieber A. Bisher hat der Computer bei mri jedes verdammte mal gelogen"	"Weiﬂ  1"	3	-	76	
+160615_0935	1	contracts	6	"Dann bekommen alle was. Oder keiner "	"Weiﬂ  2"	2	-	74	
+160615_0935	1	contracts	6	"?"	"Weiﬂ  1"	3	-	72	
+160615_0935	1	contracts	6	"Bei B bekommen immerhin alle etwas - sollte der Pc l¸gen halt alle nichts ? klingt das nach nem deal? "	"Weiﬂ  3"	2	-	72	
+160615_0935	1	contracts	6	"deal"	"Weiﬂ  1"	2	-	64	
+160615_0935	1	contracts	6	"ja"	"Weiﬂ  2"	2	-	61	
+160615_0935	1	contracts	6	"Was meint ihr?"	"Weiﬂ  1"	3	-	52	
+160615_0935	1	contracts	6	"B w‰re fair f¸r alle"	"Weiﬂ  2"	3	-	44	
+160615_0935	1	contracts	6	"wir sollten b nehmen, wegen der 70%"	"Weiﬂ  3"	3	-	39	
+160615_0935	1	contracts	6	"Nagut. Wird gemacht"	"Weiﬂ  1"	3	-	35	
+160615_0935	1	contracts	6	"am meisten wahrscheinlich :D"	"Weiﬂ  3"	1	-	31	
+160615_0935	1	contracts	6	"Also bitte liebe Blauen, lasst euch auch darauf rein."	"Weiﬂ  2"	2	-	31	
+160615_0935	1	contracts	6	"Sonst bekommen wir f¸r nichts eine Mehrheit"	"Weiﬂ  2"	2	-	23	
+160615_0935	1	contracts	6	"am sichersten ist A ;)"	"Weiﬂ  3"	1	-	23	
+160615_0935	1	contracts	6	"aber wir bleiben B"	"Weiﬂ  3"	1	-	15	
+160615_0935	1	contracts	6	"bisher hats nur 1x nicht geklappt. aber am Ende setzt sich immer die Wahrscheinlichkeit durch ;)"	"Weiﬂ  2"	1	-	10	
+160615_0935	1	contracts	6	"ist ja nur einmal im Leben haha"	"Weiﬂ  3"	1	-	5	
+160615_0935	1	contracts	6	"okay :D"	"Weiﬂ  1"	1	-	3	
+160615_0935	1	contracts	6	"Bei B kˆnnten wir alle gewinnen oder verlieren"	"Weiﬂ  1"	3	-	3	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	7	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	7	1	1	0	0	0	0.115494283901292	1	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	12	3	20	999	999	0	-	-	0.904031868048027	1	1	"Blau  1"	0	29	0	28	0	1	0	-	360	0	0	27	27	-	-	-	-	-	
+160615_0935	1	subjects	7	2	1	0	0	0	0.8259256676891472	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	4	13	20	999	999	0	-	-	0.4094329818195817	1	3	"Weiﬂ  3"	2	0	25	27	0	1	0	-	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	7	3	1	0	0	0	0.7169575131111581	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	2	14	0	999	999	0	-	-	0.8602726449539292	3	2	"Blau  2"	0	30	0	27	0	2	0	-	0	240	120	23	28	-	-	-	-	-	
+160615_0935	1	subjects	7	4	1	0	0	0	0.3383728537421547	1	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	4	5	20	999	999	0	-	-	0.8222946547075616	1	1	"Weiﬂ  1"	1	0	29	27	0	1	0	-	360	0	0	26	25	-	-	-	-	-	
+160615_0935	1	subjects	7	5	1	0	0	0	0.03849513411451836	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	14	12	20	999	999	0	-	-	0.1801383845415611	1	3	"Blau  1"	0	30	0	28	0	1	0	-	300	0	60	24	29	-	-	-	-	-	
+160615_0935	1	subjects	7	6	1	0	0	0	0.9781229058178714	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	16	3	0	999	999	0	-	-	0.5488433053478801	2	2	"Weiﬂ  3"	1	0	27	28	0	2	0	-	0	240	120	24	28	-	-	-	-	-	
+160615_0935	1	subjects	7	7	1	0	0	0	0.8588598192943538	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	15	17	0	999	999	0	-	-	0.1614152435964976	2	2	"Weiﬂ  2"	2	0	29	28	0	2	0	-	0	240	120	22	29	-	-	-	-	-	
+160615_0935	1	subjects	7	8	1	0	0	0	0.8728565531190748	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	13	2	20	999	999	0	-	-	0.570361481313762	3	3	"Blau  3"	0	29	0	28	0	1	0	-	300	0	60	25	28	-	-	-	-	-	
+160615_0935	1	subjects	7	9	1	0	0	0	0.06396243584526816	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	19	12	20	999	999	0	-	-	0.4887345458794081	1	3	"Weiﬂ  1"	1	0	27	25	0	1	0	-	300	0	60	16	21	-	-	-	-	-	
+160615_0935	1	subjects	7	10	1	0	0	0	0.7891835350492893	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	14	19	20	999	999	0	-	-	0.02890642361198851	1	3	"Weiﬂ  2"	1	0	29	27	0	1	0	-	300	0	60	25	25	-	-	-	-	-	
+160615_0935	1	subjects	7	11	1	0	0	0	0.8569828802053737	3	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	3	9	20	999	999	0	-	-	0.9488281337306035	1	1	"Weiﬂ  3"	2	0	29	28	0	1	0	-	360	0	0	27	27	-	-	-	-	-	
+160615_0935	1	subjects	7	12	1	0	0	0	0.01665925142199698	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	2	7	0	999	999	0	-	-	0.8192262932747725	2	2	"Weiﬂ  1"	2	0	30	26	0	2	0	-	0	240	120	25	25	-	-	-	-	-	
+160615_0935	1	subjects	7	13	1	0	0	0	0.8206249996184488	3	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	12	19	20	999	999	0	-	-	0.9313125698507356	1	1	"Blau  3"	0	27	0	26	0	1	0	-	360	0	0	26	25	-	-	-	-	-	
+160615_0935	1	subjects	7	14	1	0	0	0	0.3698410998889437	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	1	5	20	999	999	0	-	-	0.151127328700911	1	3	"Blau  2"	0	29	0	27	0	1	0	-	300	0	60	18	28	-	-	-	-	-	
+160615_0935	1	subjects	7	15	1	0	0	0	0.7019680965235309	2	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	10	17	20	999	999	0	-	-	0.6708531508552158	1	1	"Blau  2"	0	29	0	29	0	1	0	-	360	0	0	28	30	-	-	-	-	-	
+160615_0935	1	subjects	7	16	1	0	0	0	0.9193658334758905	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	14	8	0	999	999	0	-	-	0.4624174411699257	2	2	"Blau  3"	0	30	0	26	0	2	0	-	0	240	120	28	28	-	-	-	-	-	
+160615_0935	1	subjects	7	17	1	0	0	0	0.6929837640807889	2	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	17	5	20	999	999	0	-	-	0.9437007596454121	1	1	"Weiﬂ  2"	1	0	30	28	0	1	0	-	360	0	0	26	28	-	-	-	-	-	
+160615_0935	1	subjects	7	18	1	0	0	0	0.2560428619645735	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	20	3	0	999	999	0	-	-	0.6283482674641294	3	2	"Blau  1"	0	28	0	25	0	2	0	-	0	240	120	20	25	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	7	"Y"	"Weiﬂ  1"	2	-	118	
+160615_0935	1	contracts	7	"Y bei mir"	"Weiﬂ  2"	2	-	118	
+160615_0935	1	contracts	7	"X bei mir"	"Weiﬂ  2"	1	-	118	
+160615_0935	1	contracts	7	"Situation Y"	"Weiﬂ  3"	3	-	117	
+160615_0935	1	contracts	7	"Mir wurde Y angezeigt"	"Weiﬂ  3"	1	-	116	
+160615_0935	1	contracts	7	"Situation X"	"Weiﬂ  3"	2	-	115	
+160615_0935	1	contracts	7	"X angezeigt"	"Weiﬂ  1"	1	-	114	
+160615_0935	1	contracts	7	"X sagt er"	"Weiﬂ  2"	3	-	114	
+160615_0935	1	contracts	7	"bei mir liegt x vor"	"Weiﬂ  1"	3	-	110	
+160615_0935	1	contracts	7	"dann A?"	"Weiﬂ  2"	1	-	108	
+160615_0935	1	contracts	7	"dann Y"	"Weiﬂ  2"	2	-	104	
+160615_0935	1	contracts	7	"trotzdem B ?"	"Weiﬂ  1"	2	-	104	
+160615_0935	1	contracts	7	"und B"	"Weiﬂ  2"	2	-	101	
+160615_0935	1	contracts	7	"ja"	"Weiﬂ  1"	1	-	101	
+160615_0935	1	contracts	7	"A"	"Weiﬂ  2"	3	-	101	
+160615_0935	1	contracts	7	"ok"	"Weiﬂ  1"	2	-	99	
+160615_0935	1	contracts	7	"Alternative A? Dann haben wir hoffentlich alle 2"	"Weiﬂ  3"	1	-	95	
+160615_0935	1	contracts	7	"dan w‰hlen wir a"	"Weiﬂ  1"	3	-	94	
+160615_0935	1	contracts	7	"20"	"Weiﬂ  3"	1	-	93	
+160615_0935	1	contracts	7	"genau"	"Weiﬂ  2"	1	-	85	
+160615_0935	1	contracts	7	"nicht wie eben hoffenltich mit C.."	"Weiﬂ  2"	2	-	78	
+160615_0935	1	contracts	7	"Hat bei euch die angezeigte Sitaution meistens hingehauen="	"Weiﬂ  3"	2	-	78	
+160615_0935	1	contracts	7	"es wird schon x"	"Weiﬂ  1"	1	-	76	
+160615_0935	1	contracts	7	";)"	"Weiﬂ  1"	1	-	72	
+160615_0935	1	contracts	7	"?"	"Weiﬂ  3"	2	-	68	
+160615_0935	1	contracts	7	"Dann A? die vorhersagen waren ¸berdurchschnittlich oft richtig"	"Weiﬂ  3"	3	-	63	
+160615_0935	1	contracts	7	"mm 50:50"	"Weiﬂ  1"	2	-	60	
+160615_0935	1	contracts	7	"Ja, wir nehmen A"	"Weiﬂ  2"	3	-	51	
+160615_0935	1	contracts	7	"Die Wahrscheinlichkeit ist jedenfalls hoch"	"Weiﬂ  3"	1	-	49	
+160615_0935	1	contracts	7	"Bei mir ¸berwiegend garnicht.."	"Weiﬂ  3"	2	-	47	
+160615_0935	1	contracts	7	"Hm"	"Weiﬂ  3"	2	-	46	
+160615_0935	1	contracts	7	"Okay"	"Weiﬂ  3"	2	-	45	
+160615_0935	1	contracts	7	"B"	"Weiﬂ  3"	2	-	44	
+160615_0935	1	contracts	7	"genau a"	"Weiﬂ  1"	3	-	39	
+160615_0935	1	contracts	7	"Alles gewinnen oder alles verlieren"	"Weiﬂ  3"	2	-	37	
+160615_0935	1	contracts	7	"dann eben Y :)"	"Weiﬂ  1"	2	-	33	
+160615_0935	1	contracts	7	"jap"	"Weiﬂ  1"	2	-	29	
+160615_0935	1	contracts	7	"ist ja nur einmal im Leben :))"	"Weiﬂ  1"	2	-	19	
+160615_0935	1	contracts	7	"eben hatte meine Gruppe auch 3x Y aber die anderen weiﬂen haben C gew‰hlt"	"Weiﬂ  2"	2	-	15	
+160615_0935	1	contracts	7	"idenke die blauen werden ab jetzt c w‰hlwn"	"Weiﬂ  1"	3	-	5	
+160615_0935	1	contracts	7	"Huch"	"Weiﬂ  3"	2	-	3	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	8	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	8	1	1	0	0	0	0.4852894984582856	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	2	11	0	999	999	0	-	-	0.3532480771435649	3	1	"Blau  2"	0	23	0	28	0	1	0	0	300	0	60	20	28	-	-	-	-	-	
+160615_0935	1	subjects	8	2	1	0	0	0	0.3328133091948988	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	2	6	10	999	999	0	-	-	0.5030118811423946	1	1	"Weiﬂ  2"	2	0	28	29	0	1	0	0	300	0	60	27	28	-	-	-	-	-	
+160615_0935	1	subjects	8	3	1	0	0	0	0.9140893360199823	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	3	12	10	999	999	0	-	-	0.2346730843347838	3	3	"Blau  3"	0	29	0	28	1	2	0	3	0	180	180	24	28	-	-	-	-	-	
+160615_0935	1	subjects	8	4	1	0	0	0	0.2606005884057845	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	10	18	20	999	999	0	-	-	0.9906989447729192	2	3	"Weiﬂ  3"	1	0	30	27	1	2	0	3	0	180	180	23	29	-	-	-	-	-	
+160615_0935	1	subjects	8	5	1	0	0	0	0.4352032758459464	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	19	18	10	999	999	0	-	-	0.2298513186303206	3	3	"Blau  1"	0	27	0	29	1	2	0	3	0	180	180	26	-5	-	-	-	-	-	
+160615_0935	1	subjects	8	6	1	0	0	0	0.9658836568546871	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	17	7	10	999	999	0	-	-	0.2337996592902577	1	2	"Weiﬂ  3"	2	0	30	29	0	1	0	0	240	0	120	20	25	-	-	-	-	-	
+160615_0935	1	subjects	8	7	1	0	0	0	0.2384732473820789	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	2	19	10	999	999	0	-	-	0.9741307021929559	1	1	"Weiﬂ  1"	1	0	30	24	0	1	0	0	300	0	60	19	24	-	-	-	-	-	
+160615_0935	1	subjects	8	8	1	0	0	0	0.6429186028628231	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	17	9	0	999	999	0	-	-	0.470873691360873	3	2	"Blau  3"	0	30	0	28	0	1	0	0	240	0	120	27	27	-	-	-	-	-	
+160615_0935	1	subjects	8	9	1	0	0	0	0.4550626806239889	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	14	4	10	999	999	0	-	-	0.67716479845213	1	1	"Weiﬂ  3"	1	0	18	26	0	1	0	0	300	0	60	21	27	-	-	-	-	-	
+160615_0935	1	subjects	8	10	1	0	0	0	0.4302353711939582	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	3	17	10	999	999	0	-	-	0.6484733911456883	1	2	"Weiﬂ  1"	2	0	26	24	0	1	0	0	240	0	120	22	9	-	-	-	-	-	
+160615_0935	1	subjects	8	11	1	0	0	0	0.1914563054179104	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	11	13	20	999	999	0	-	-	0.1188444141851945	2	3	"Weiﬂ  2"	2	0	27	25	1	2	0	2	0	180	180	7	28	-	-	-	-	-	
+160615_0935	1	subjects	8	12	1	0	0	0	0.8380681676036065	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	15	14	10	999	999	0	-	-	0.6413789655274613	1	2	"Weiﬂ  2"	1	0	30	28	0	1	0	0	240	0	120	26	27	-	-	-	-	-	
+160615_0935	1	subjects	8	13	1	0	0	0	0.1906625126445026	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	2	20	0	999	999	0	-	-	0.3661315168096365	1	1	"Blau  1"	0	16	0	18	0	1	0	0	300	0	60	26	21	-	-	-	-	-	
+160615_0935	1	subjects	8	14	1	0	0	0	0.9029761221739352	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	17	15	10	999	999	0	-	-	0.6562736200430773	3	3	"Blau  2"	0	29	0	28	1	2	0	3	0	180	180	20	29	-	-	-	-	-	
+160615_0935	1	subjects	8	15	1	0	0	0	0.09947048784208973	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	17	9	0	999	999	0	-	-	0.1880386821869941	3	2	"Blau  1"	0	30	0	28	0	1	0	0	240	0	120	26	27	-	-	-	-	-	
+160615_0935	1	subjects	8	16	1	0	0	0	0.3212640738679394	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	17	3	0	999	999	0	-	-	0.07430438607665914	1	2	"Blau  2"	0	29	0	23	0	1	0	0	240	0	120	29	28	-	-	-	-	-	
+160615_0935	1	subjects	8	17	1	0	0	0	0.148503222106259	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	3	7	20	999	999	0	-	-	0.1641151454132586	2	3	"Weiﬂ  1"	2	0	29	24	1	2	0	2	0	180	180	23	24	-	-	-	-	-	
+160615_0935	1	subjects	8	18	1	0	0	0	0.5932876386648452	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	18	7	0	999	999	0	-	-	0.1028262773076195	1	1	"Blau  3"	0	28	0	25	0	1	0	0	300	0	60	22	21	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	8	"Angabe Y"	"Weiﬂ  2"	1	-	118	
+160615_0935	1	contracts	8	"X bei mir"	"Weiﬂ  1"	1	-	118	
+160615_0935	1	contracts	8	"Situatzion Y"	"Weiﬂ  3"	2	-	118	
+160615_0935	1	contracts	8	"Y"	"Weiﬂ  2"	3	-	118	
+160615_0935	1	contracts	8	"X"	"Weiﬂ  2"	2	-	118	
+160615_0935	1	contracts	8	"Y bei mir"	"Weiﬂ  1"	3	-	118	
+160615_0935	1	contracts	8	"Y"	"Weiﬂ  1"	2	-	118	
+160615_0935	1	contracts	8	"bei mir x"	"Weiﬂ  3"	1	-	116	
+160615_0935	1	contracts	8	"hab X"	"Weiﬂ  3"	3	-	112	
+160615_0935	1	contracts	8	"Ich w‰re for A"	"Weiﬂ  3"	2	-	111	
+160615_0935	1	contracts	8	"ok dann A w‰hlen"	"Weiﬂ  1"	1	-	108	
+160615_0935	1	contracts	8	"A ist gut"	"Weiﬂ  1"	2	-	104	
+160615_0935	1	contracts	8	"ok, a"	"Weiﬂ  3"	1	-	98	
+160615_0935	1	contracts	8	"dann x? A?  hat bisher geklappt"	"Weiﬂ  2"	1	-	95	
+160615_0935	1	contracts	8	"nehmen wir dann B?"	"Weiﬂ  1"	3	-	92	
+160615_0935	1	contracts	8	"Ich habe n‰mlich st‰ndig bei B verloren"	"Weiﬂ  3"	2	-	90	
+160615_0935	1	contracts	8	"statistisch gesehen haut die Mehrheit (X oder Y) nicht mehr hin"	"Weiﬂ  2"	2	-	88	
+160615_0935	1	contracts	8	"jedes mal glaueb ich"	"Weiﬂ  3"	2	-	87	
+160615_0935	1	contracts	8	"Wir brauchen eine Mehrheit"	"Weiﬂ  2"	3	-	85	
+160615_0935	1	contracts	8	"ja"	"Weiﬂ  2"	2	-	81	
+160615_0935	1	contracts	8	"ok"	"Weiﬂ  3"	3	-	74	
+160615_0935	1	contracts	8	"ja "	"Weiﬂ  1"	1	-	74	
+160615_0935	1	contracts	8	"Genau B? "	"Weiﬂ  2"	3	-	74	
+160615_0935	1	contracts	8	"deshalb bin ich nun auch f¸r A"	"Weiﬂ  2"	2	-	69	
+160615_0935	1	contracts	8	"ja hat immer geklappt"	"Weiﬂ  3"	1	-	67	
+160615_0935	1	contracts	8	"AAAAAA "	"Weiﬂ  2"	1	-	65	
+160615_0935	1	contracts	8	"Bitte liebe Blauen, lasst euch darauf ein"	"Weiﬂ  2"	3	-	65	
+160615_0935	1	contracts	8	"Alles kl‰rchen"	"Weiﬂ  3"	2	-	63	
+160615_0935	1	contracts	8	"hahaha"	"Weiﬂ  1"	1	-	60	
+160615_0935	1	contracts	8	"sehr schˆn"	"Weiﬂ  1"	2	-	57	
+160615_0935	1	contracts	8	"A+++"	"Weiﬂ  1"	1	-	53	
+160615_0935	1	contracts	8	"Wir verlieren auch im Fall von X"	"Weiﬂ  2"	3	-	51	
+160615_0935	1	contracts	8	"ja eben :D"	"Weiﬂ  1"	3	-	37	
+160615_0935	1	contracts	8	"Und sonst so?"	"Weiﬂ  1"	2	-	35	
+160615_0935	1	contracts	8	"Ich sch‰tze die blauen werden C w‰hlen, aber dann muss es halt auf die Auslosugn ankommen"	"Weiﬂ  3"	2	-	34	
+160615_0935	1	contracts	8	"Alles tutti"	"Weiﬂ  3"	2	-	31	
+160615_0935	1	contracts	8	":D"	"Weiﬂ  3"	2	-	29	
+160615_0935	1	contracts	8	"es ist heiﬂ in der kabine"	"Weiﬂ  3"	1	-	17	
+160615_0935	1	contracts	8	""	"Weiﬂ  1"	2	-	2	
+160615_0935	1	contracts	8	"Liebe blauen Mitglieder nehmt doch auch A :) sonst bekommen wir keine Mehrheit. seid die besten"	"Weiﬂ  2"	1	-	1	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	9	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	9	1	1	0	0	0	0.3764169753419314	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	17	13	20	999	999	0	-	-	0.253149647849216	3	3	"Blau  2"	0	29	0	29	0	1	0	-	240	0	120	24	26	-	-	-	-	-	
+160615_0935	1	subjects	9	2	1	0	0	0	0.06967504838000753	1	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	19	10	20	999	999	0	-	-	0.9042169418671248	1	2	"Weiﬂ  1"	1	0	30	28	0	1	0	-	360	0	0	29	26	-	-	-	-	-	
+160615_0935	1	subjects	9	3	1	0	0	0	0.6539321875450816	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	9	3	20	999	999	0	-	-	0.3673111309145163	1	1	"Blau  3"	0	29	0	28	0	1	0	-	300	0	60	25	22	-	-	-	-	-	
+160615_0935	1	subjects	9	4	1	0	0	0	0.8845947975686727	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	2	15	20	999	999	0	-	-	0.7195539352109441	1	3	"Weiﬂ  3"	1	0	28	27	0	1	0	-	240	0	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	9	5	1	0	0	0	0.8629748247857089	3	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	11	15	20	999	999	0	-	-	0.4914223274641774	1	2	"Blau  3"	0	22	0	22	0	1	0	-	360	0	0	22	29	-	-	-	-	-	
+160615_0935	1	subjects	9	6	1	0	0	0	0.0008385456171066247	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	12	9	20	999	999	0	-	-	0.4246529920141459	1	3	"Weiﬂ  1"	1	0	29	29	0	1	0	-	240	0	120	27	26	-	-	-	-	-	
+160615_0935	1	subjects	9	7	1	0	0	0	0.8570764916283434	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	15	6	20	999	999	0	-	-	0.6577908860788638	1	1	"Weiﬂ  3"	1	0	29	29	0	1	0	-	300	0	60	27	29	-	-	-	-	-	
+160615_0935	1	subjects	9	8	1	0	0	0	0.4938338228938327	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	18	11	20	999	999	0	-	-	0.5922856696845431	3	1	"Blau  2"	0	29	0	29	0	1	0	-	300	0	60	28	27	-	-	-	-	-	
+160615_0935	1	subjects	9	9	1	0	0	0	0.429872254109882	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	16	6	20	999	999	0	-	-	0.6034627438539	1	1	"Weiﬂ  1"	2	0	20	25	0	1	0	-	300	0	60	27	27	-	-	-	-	-	
+160615_0935	1	subjects	9	10	1	0	0	0	0.5021852527289583	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	2	17	20	999	999	0	-	-	0.8914826050826733	1	1	"Weiﬂ  2"	1	0	23	25	0	1	0	-	300	0	60	28	23	-	-	-	-	-	
+160615_0935	1	subjects	9	11	1	0	0	0	0.6095637043982575	2	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	20	11	20	999	999	0	-	-	0.7306432755341024	1	2	"Weiﬂ  2"	2	0	29	22	0	1	0	-	360	0	0	28	22	-	-	-	-	-	
+160615_0935	1	subjects	9	12	1	0	0	0	0.810136663173389	3	0	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	4	2	20	999	999	0	-	-	0.1866711709586304	1	2	"Weiﬂ  3"	1	0	30	27	0	1	0	-	360	0	0	28	27	-	-	-	-	-	
+160615_0935	1	subjects	9	13	1	0	0	0	0.8502269922058223	2	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	20	9	20	999	999	0	-	-	0.6861314017726721	1	2	"Blau  2"	0	-41	0	6	0	1	0	-	360	0	0	30	29	-	-	-	-	-	
+160615_0935	1	subjects	9	14	1	0	0	0	0.08655730033598715	1	1	0	6	0	0	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	7	8	20	999	999	0	-	-	0.183017024855603	1	2	"Blau  1"	0	28	0	27	0	1	0	-	360	0	0	29	24	-	-	-	-	-	
+160615_0935	1	subjects	9	15	1	0	0	0	0.9693481013967414	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	1	2	20	999	999	0	-	-	0.4793273641165939	1	3	"Blau  3"	0	30	0	28	0	1	0	-	240	0	120	27	28	-	-	-	-	-	
+160615_0935	1	subjects	9	16	1	0	0	0	0.01788017340837055	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	17	18	20	999	999	0	-	-	0.3823703017003696	1	1	"Blau  1"	0	29	0	26	0	1	0	-	300	0	60	29	23	-	-	-	-	-	
+160615_0935	1	subjects	9	17	1	0	0	0	0.8650613766466553	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	12	8	20	999	999	0	-	-	0.5415025365266495	1	3	"Weiﬂ  2"	2	0	27	25	0	1	0	-	240	0	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	9	18	1	0	0	0	0.2918705429378294	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	5	20	20	999	999	0	-	-	0.5335774046990915	3	3	"Blau  1"	0	29	0	26	0	1	0	-	240	0	120	24	26	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	9	"X"	"Weiﬂ  3"	2	-	119	
+160615_0935	1	contracts	9	"X"	"Weiﬂ  1"	2	-	119	
+160615_0935	1	contracts	9	"X bei mir"	"Weiﬂ  3"	1	-	117	
+160615_0935	1	contracts	9	"Situation X"	"Weiﬂ  1"	3	-	117	
+160615_0935	1	contracts	9	"Situation Y"	"Weiﬂ  2"	3	-	116	
+160615_0935	1	contracts	9	"Bei mir auch"	"Weiﬂ  2"	1	-	111	
+160615_0935	1	contracts	9	"X"	"Weiﬂ  3"	3	-	111	
+160615_0935	1	contracts	9	"y bei mir"	"Weiﬂ  1"	1	-	111	
+160615_0935	1	contracts	9	"Hm"	"Weiﬂ  1"	3	-	108	
+160615_0935	1	contracts	9	"okay, also A"	"Weiﬂ  2"	3	-	104	
+160615_0935	1	contracts	9	"?"	"Weiﬂ  2"	3	-	101	
+160615_0935	1	contracts	9	"nahc meiner Erfahrung haut die Mehrheit (X oder Y) nicht mehr hin"	"Weiﬂ  3"	2	-	101	
+160615_0935	1	contracts	9	"dann w‰hlwn wir a"	"Weiﬂ  1"	1	-	98	
+160615_0935	1	contracts	9	"bei euch ?"	"Weiﬂ  3"	2	-	98	
+160615_0935	1	contracts	9	"X"	"Weiﬂ  2"	2	-	97	
+160615_0935	1	contracts	9	"ok dann X ja?"	"Weiﬂ  3"	1	-	96	
+160615_0935	1	contracts	9	"Geilo "	"Weiﬂ  1"	2	-	94	
+160615_0935	1	contracts	9	"ok A"	"Weiﬂ  3"	3	-	92	
+160615_0935	1	contracts	9	"Jop, w¸rde ich sagen"	"Weiﬂ  1"	3	-	91	
+160615_0935	1	contracts	9	"ja, A"	"Weiﬂ  3"	1	-	89	
+160615_0935	1	contracts	9	"Dann bin ich sowas von f¸r A"	"Weiﬂ  1"	2	-	87	
+160615_0935	1	contracts	9	"Ja, bin auch f¸r A"	"Weiﬂ  2"	1	-	85	
+160615_0935	1	contracts	9	"ok"	"Weiﬂ  3"	2	-	84	
+160615_0935	1	contracts	9	"A"	"Weiﬂ  3"	2	-	83	
+160615_0935	1	contracts	9	"A"	"Weiﬂ  2"	2	-	80	
+160615_0935	1	contracts	9	"Ich habe das Gef¸hl der Computer folgt nicht den angegebeenn statistischen wahrscheinlichkeiten.."	"Weiﬂ  1"	3	-	63	
+160615_0935	1	contracts	9	"Gruﬂ an die Blauen"	"Weiﬂ  3"	2	-	57	
+160615_0935	1	contracts	9	"Oder es ist einfach pech"	"Weiﬂ  1"	3	-	48	
+160615_0935	1	contracts	9	"Das kommt bei mir fast nie hin alles"	"Weiﬂ  1"	3	-	39	
+160615_0935	1	contracts	9	"die hoffentlich gleich auch um 20 Punkte reicher sind"	"Weiﬂ  2"	2	-	38	
+160615_0935	1	contracts	9	"jep"	"Weiﬂ  3"	2	-	25	
+160615_0935	1	contracts	9	"bei mir war immer fast richtig"	"Weiﬂ  3"	3	-	22	
+160615_0935	1	contracts	9	"Mh"	"Weiﬂ  1"	3	-	18	
+160615_0935	1	contracts	9	"Nagut"	"Weiﬂ  1"	3	-	16	
+160615_0935	1	contracts	9	"ein paar runden kommen ja noch wo man gl¸ck haben kann:)"	"Weiﬂ  2"	3	-	12	
+160615_0935	1	contracts	9	"Gl¸ckspilz :D"	"Weiﬂ  1"	3	-	11	
+160615_0935	1	contracts	9	"Nicht das der Computer entscheiden muss, das will ja nun niemand"	"Weiﬂ  1"	2	-	7	
+160615_0935	1	contracts	9	"bei mir hat s bisher nur 3 mal hingehauen"	"Weiﬂ  3"	2	-	6	
+160615_0935	1	contracts	9	"Knarˆstopˆpel"	"Weiﬂ  2"	1	-	2	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	10	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	10	1	1	0	0	0	0.01719203964676337	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	3	5	10	999	999	0	-	-	0.9253886402237176	2	3	"Blau  1"	0	28	0	25	0	2	0	-	0	240	120	22	21	-	-	-	-	-	
+160615_0935	1	subjects	10	2	1	0	0	0	0.6800373558327729	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	1	11	20	999	999	0	-	-	0.09915418741253865	2	1	"Weiﬂ  2"	2	0	29	27	0	2	0	-	0	240	120	23	28	-	-	-	-	-	
+160615_0935	1	subjects	10	3	1	0	0	0	0.9950100141554186	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	20	17	10	999	999	0	-	-	0.2655790668286286	3	1	"Blau  3"	0	26	0	27	0	2	0	-	0	240	120	27	28	-	-	-	-	-	
+160615_0935	1	subjects	10	4	1	0	0	0	0.05065326301877073	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	11	2	20	999	999	0	-	-	0.9451039009471908	2	1	"Weiﬂ  1"	2	0	27	27	0	2	0	-	0	240	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	10	5	1	0	0	0	0.4142699504337599	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	15	20	10	999	999	0	-	-	0.8515164241434617	3	1	"Blau  1"	0	12	0	-4	0	2	0	-	0	240	120	25	14	-	-	-	-	-	
+160615_0935	1	subjects	10	6	1	0	0	0	0.6350569402030935	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	18	2	20	999	999	0	-	-	0.1372801932214201	2	3	"Weiﬂ  3"	2	0	29	26	0	2	0	-	0	240	120	27	28	-	-	-	-	-	
+160615_0935	1	subjects	10	7	1	0	0	0	0.2315874906403886	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	16	19	20	999	999	0	-	-	0.7970871030339446	2	2	"Weiﬂ  2"	2	0	30	30	0	2	0	-	0	240	120	22	29	-	-	-	-	-	
+160615_0935	1	subjects	10	8	1	0	0	0	0.3337396422092522	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	10	7	10	999	999	0	-	-	0.6824523562949395	3	2	"Blau  1"	0	29	0	29	0	2	0	-	0	240	120	24	26	-	-	-	-	-	
+160615_0935	1	subjects	10	9	1	0	0	0	0.7938369246171028	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	14	13	20	999	999	0	-	-	0.7650580032565901	2	1	"Weiﬂ  3"	1	0	25	27	0	2	0	-	0	240	120	20	24	-	-	-	-	-	
+160615_0935	1	subjects	10	10	1	0	0	0	0.3130469272439587	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	20	4	20	999	999	0	-	-	0.1608837769184652	2	2	"Weiﬂ  3"	2	0	27	18	0	2	0	-	0	240	120	20	21	-	-	-	-	-	
+160615_0935	1	subjects	10	11	1	0	0	0	0.5041444750987666	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	6	1	20	999	999	0	-	-	0.176746023435493	2	3	"Weiﬂ  2"	2	0	27	27	0	2	0	-	0	240	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	10	12	1	0	0	0	0.400521443877612	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	2	4	20	999	999	0	-	-	0.0055534704614214	2	3	"Weiﬂ  1"	2	0	29	27	0	2	0	-	0	240	120	26	29	-	-	-	-	-	
+160615_0935	1	subjects	10	13	1	0	0	0	0.7378072513909113	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	17	8	10	999	999	0	-	-	0.6139446243708695	3	3	"Blau  3"	0	30	0	27	0	2	0	-	0	240	120	28	27	-	-	-	-	-	
+160615_0935	1	subjects	10	14	1	0	0	0	0.7583724329054228	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	9	16	10	999	999	0	-	-	0.7189310596878319	3	2	"Blau  3"	0	28	0	28	0	2	0	-	0	240	120	24	25	-	-	-	-	-	
+160615_0935	1	subjects	10	15	1	0	0	0	0.9466103431520101	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	17	3	10	999	999	0	-	-	0.2010538038802584	2	1	"Blau  2"	0	30	0	29	0	2	0	-	0	240	120	27	29	-	-	-	-	-	
+160615_0935	1	subjects	10	16	1	0	0	0	0.5361141471826072	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	15	17	10	999	999	0	-	-	0.3134731498143976	2	2	"Blau  2"	0	28	0	26	0	2	0	-	0	240	120	29	29	-	-	-	-	-	
+160615_0935	1	subjects	10	17	1	0	0	0	0.1621666109013216	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	14	7	20	999	999	0	-	-	0.2842513077353366	2	2	"Weiﬂ  1"	2	0	29	26	0	2	0	-	0	240	120	26	27	-	-	-	-	-	
+160615_0935	1	subjects	10	18	1	0	0	0	0.5342294185116093	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	12	5	10	999	999	0	-	-	0.6123861244937341	3	3	"Blau  2"	0	28	0	26	0	2	0	-	0	240	120	14	27	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	10	"Y"	"Weiﬂ  2"	1	-	119	
+160615_0935	1	contracts	10	"Y"	"Weiﬂ  3"	2	-	119	
+160615_0935	1	contracts	10	"Y hab ich"	"Weiﬂ  2"	2	-	118	
+160615_0935	1	contracts	10	"Y"	"Weiﬂ  1"	3	-	117	
+160615_0935	1	contracts	10	"Situation Y"	"Weiﬂ  3"	3	-	116	
+160615_0935	1	contracts	10	"Sitaution Y"	"Weiﬂ  1"	2	-	116	
+160615_0935	1	contracts	10	"hab Y auch"	"Weiﬂ  1"	1	-	115	
+160615_0935	1	contracts	10	"ich hab x"	"Weiﬂ  3"	1	-	115	
+160615_0935	1	contracts	10	"Y"	"Weiﬂ  2"	3	-	112	
+160615_0935	1	contracts	10	"ok B dann"	"Weiﬂ  2"	2	-	108	
+160615_0935	1	contracts	10	"B?"	"Weiﬂ  3"	2	-	107	
+160615_0935	1	contracts	10	"ja"	"Weiﬂ  1"	2	-	104	
+160615_0935	1	contracts	10	"also b?"	"Weiﬂ  3"	1	-	104	
+160615_0935	1	contracts	10	"B!"	"Weiﬂ  3"	2	-	101	
+160615_0935	1	contracts	10	"Alrighty"	"Weiﬂ  3"	3	-	101	
+160615_0935	1	contracts	10	"Trotdzem B"	"Weiﬂ  3"	3	-	98	
+160615_0935	1	contracts	10	"Eh"	"Weiﬂ  3"	3	-	93	
+160615_0935	1	contracts	10	"Beeeee"	"Weiﬂ  2"	2	-	93	
+160615_0935	1	contracts	10	"A"	"Weiﬂ  3"	3	-	92	
+160615_0935	1	contracts	10	"ja"	"Weiﬂ  1"	3	-	92	
+160615_0935	1	contracts	10	"w¸rdde ich B ja nehmen"	"Weiﬂ  1"	1	-	91	
+160615_0935	1	contracts	10	"Also auch wenn es euch schwer f‰llt, liebe Blauen, w‰hlt bitte B"	"Weiﬂ  2"	3	-	90	
+160615_0935	1	contracts	10	"B"	"Weiﬂ  1"	3	-	89	
+160615_0935	1	contracts	10	"Wollte ich sagen"	"Weiﬂ  3"	3	-	89	
+160615_0935	1	contracts	10	"Dann B? immerhin hat jeder die Chance auf einen Gewinn "	"Weiﬂ  2"	1	-	85	
+160615_0935	1	contracts	10	"Ihr blauen auch!"	"Weiﬂ  3"	2	-	84	
+160615_0935	1	contracts	10	"bitteee"	"Weiﬂ  1"	2	-	83	
+160615_0935	1	contracts	10	"solten wir falsch liegen, bekommen alle nichts. Find ich ganz fair"	"Weiﬂ  2"	1	-	72	
+160615_0935	1	contracts	10	"Also?"	"Weiﬂ  3"	3	-	65	
+160615_0935	1	contracts	10	"bei A haben die Blauen nix"	"Weiﬂ  1"	3	-	58	
+160615_0935	1	contracts	10	"B"	"Weiﬂ  2"	3	-	57	
+160615_0935	1	contracts	10	"ok dann w‰hlen wir b"	"Weiﬂ  3"	1	-	55	
+160615_0935	1	contracts	10	"Gewinn oder Verlust"	"Weiﬂ  1"	1	-	52	
+160615_0935	1	contracts	10	"lieber selber entscheiden"	"Weiﬂ  1"	3	-	50	
+160615_0935	1	contracts	10	"Alles klar"	"Weiﬂ  3"	3	-	48	
+160615_0935	1	contracts	10	"statt Computer"	"Weiﬂ  1"	3	-	47	
+160615_0935	1	contracts	10	"B"	"Weiﬂ  1"	3	-	45	
+160615_0935	1	contracts	10	"ja, B"	"Weiﬂ  2"	3	-	40	
+160615_0935	1	contracts	10	"Dann B"	"Weiﬂ  3"	3	-	39	
+160615_0935	1	contracts	10	"Unsere blauen Freunde"	"Weiﬂ  3"	3	-	27	
+160615_0935	1	contracts	10	"Riskiert es mit uns zusammen :]"	"Weiﬂ  3"	3	-	20	
+160615_0935	1	contracts	10	"wir tragen euch nach Hause"	"Weiﬂ  1"	3	-	4	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	11	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	11	1	1	0	0	0	0.8340416736128002	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	17	18	20	999	999	0	-	-	0.09923133491502671	3	1	"Blau  2"	0	27	0	27	0	1	0	-	300	0	60	23	29	-	-	-	-	-	
+160615_0935	1	subjects	11	2	1	0	0	0	0.7309660994126304	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	9	4	20	999	999	0	-	-	0.1922266269997818	1	1	"Weiﬂ  3"	1	0	28	26	0	1	0	-	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	11	3	1	0	0	0	0.9228732650740413	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	15	1	20	999	999	0	-	-	0.01949029230488944	3	2	"Blau  3"	0	29	0	27	0	1	0	-	300	0	60	28	28	-	-	-	-	-	
+160615_0935	1	subjects	11	4	1	0	0	0	0.9912376468960371	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	15	4	20	999	999	0	-	-	0.2313201801065915	1	2	"Weiﬂ  3"	2	0	27	7	0	1	0	-	300	0	60	25	21	-	-	-	-	-	
+160615_0935	1	subjects	11	5	1	0	0	0	0.932633578280282	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	11	4	20	999	999	0	-	-	0.2478864585272439	1	1	"Blau  3"	0	99999	0	29	0	1	0	-	300	0	60	27	23	-	-	-	-	-	
+160615_0935	1	subjects	11	6	1	0	0	0	0.8652581478772956	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	2	7	20	999	999	0	-	-	0.2304889090501186	1	3	"Weiﬂ  2"	2	0	29	28	0	1	0	-	300	0	60	27	27	-	-	-	-	-	
+160615_0935	1	subjects	11	7	1	0	0	0	0.7384084103342185	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	19	16	20	999	999	0	-	-	0.8270944053433343	1	3	"Weiﬂ  1"	1	0	30	28	0	1	0	-	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	11	8	1	0	0	0	0.8294677966411541	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	17	12	20	999	999	0	-	-	0.08685946934244571	3	3	"Blau  3"	0	29	0	27	0	1	0	-	300	0	60	28	28	-	-	-	-	-	
+160615_0935	1	subjects	11	9	1	0	0	0	0.5724299082404142	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	13	18	20	999	999	0	-	-	0.4743342853497408	1	2	"Weiﬂ  2"	1	0	25	27	0	1	0	-	300	0	60	26	24	-	-	-	-	-	
+160615_0935	1	subjects	11	10	1	0	0	0	0.6215966169822945	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	3	4	20	999	999	0	-	-	0.589167970041357	1	1	"Weiﬂ  2"	1	0	26	29	0	1	0	-	300	0	60	25	27	-	-	-	-	-	
+160615_0935	1	subjects	11	11	1	0	0	0	0.2860676573058905	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	20	16	20	999	999	0	-	-	0.2802551250347193	1	2	"Weiﬂ  1"	1	0	18	28	0	1	0	-	300	0	60	28	28	-	-	-	-	-	
+160615_0935	1	subjects	11	12	1	0	0	0	0.8787508187250936	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	1	15	20	999	999	0	-	-	0.1719064270946693	1	3	"Weiﬂ  3"	1	0	30	27	0	1	0	-	300	0	60	28	25	-	-	-	-	-	
+160615_0935	1	subjects	11	13	1	0	0	0	0.8223542481764938	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	13	20	20	999	999	0	-	-	0.3634050788187446	1	3	"Blau  2"	0	30	0	27	0	1	0	-	300	0	60	26	25	-	-	-	-	-	
+160615_0935	1	subjects	11	14	1	0	0	0	0.7416744063336749	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	7	20	20	999	999	0	-	-	0.5297533620753109	1	2	"Blau  2"	0	24	0	29	0	1	0	-	300	0	60	27	22	-	-	-	-	-	
+160615_0935	1	subjects	11	15	1	0	0	0	0.2845684342480118	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	18	9	20	999	999	0	-	-	0.3215603182658368	1	1	"Blau  1"	0	29	0	25	0	1	0	-	300	0	60	28	28	-	-	-	-	-	
+160615_0935	1	subjects	11	16	1	0	0	0	0.5795691835598876	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	4	13	20	999	999	0	-	-	0.8608105847895194	1	3	"Blau  1"	0	29	0	26	0	1	0	-	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	11	17	1	0	0	0	0.3217472500734717	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	1	16	20	999	999	0	-	-	0.2255659463003119	1	1	"Weiﬂ  1"	2	0	28	25	0	1	0	-	300	0	60	27	27	-	-	-	-	-	
+160615_0935	1	subjects	11	18	1	0	0	0	0.1530829766546762	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	4	20	20	999	999	0	-	-	0.9756706054209129	1	2	"Blau  1"	0	29	0	28	0	1	0	-	300	0	60	24	19	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	11	"Y"	"Weiﬂ  1"	1	-	120	
+160615_0935	1	contracts	11	"X"	"Weiﬂ  3"	3	-	120	
+160615_0935	1	contracts	11	"X"	"Weiﬂ  3"	1	-	120	
+160615_0935	1	contracts	11	"X"	"Weiﬂ  2"	1	-	119	
+160615_0935	1	contracts	11	"Situation "	"Weiﬂ  2"	3	-	117	
+160615_0935	1	contracts	11	"x"	"Weiﬂ  1"	3	-	116	
+160615_0935	1	contracts	11	"bei mir x"	"Weiﬂ  2"	2	-	116	
+160615_0935	1	contracts	11	"Y"	"Weiﬂ  2"	3	-	116	
+160615_0935	1	contracts	11	"x"	"Weiﬂ  1"	2	-	113	
+160615_0935	1	contracts	11	"okay dann A"	"Weiﬂ  1"	1	-	113	
+160615_0935	1	contracts	11	"A?"	"Weiﬂ  2"	1	-	112	
+160615_0935	1	contracts	11	"Dann bin ich auch f¸r A"	"Weiﬂ  3"	1	-	108	
+160615_0935	1	contracts	11	"X"	"Weiﬂ  3"	2	-	106	
+160615_0935	1	contracts	11	"AAAAAA"	"Weiﬂ  2"	1	-	106	
+160615_0935	1	contracts	11	"Dann A?"	"Weiﬂ  2"	3	-	106	
+160615_0935	1	contracts	11	"hoffentlcih X, dann A"	"Weiﬂ  3"	3	-	100	
+160615_0935	1	contracts	11	"dann X, A ok?"	"Weiﬂ  1"	3	-	98	
+160615_0935	1	contracts	11	"20 f¸r alle :-), wenn wir A w‰hlen"	"Weiﬂ  1"	2	-	91	
+160615_0935	1	contracts	11	"Jo, bin dabei"	"Weiﬂ  2"	3	-	90	
+160615_0935	1	contracts	11	"dann haben die blauen Freunde auch was"	"Weiﬂ  3"	3	-	88	
+160615_0935	1	contracts	11	"dann w‰hlen wir a"	"Weiﬂ  2"	2	-	84	
+160615_0935	1	contracts	11	"hoffentlich "	"Weiﬂ  3"	2	-	79	
+160615_0935	1	contracts	11	"habe nur gute Erfahrungen gemacht"	"Weiﬂ  3"	1	-	72	
+160615_0935	1	contracts	11	"Wenn Situation x eintrifft, haben wir alle was davon und das w‰re doch fabulˆs :]"	"Weiﬂ  2"	3	-	56	
+160615_0935	1	contracts	11	"w‰hlt ihr a?"	"Weiﬂ  2"	2	-	53	
+160615_0935	1	contracts	11	"statt den PC entscheiden zu lassen"	"Weiﬂ  3"	3	-	53	
+160615_0935	1	contracts	11	"ja klar"	"Weiﬂ  1"	2	-	48	
+160615_0935	1	contracts	11	"nach 10 Runden kann man wohl schon von Erfahrung sprechen, haha"	"Weiﬂ  3"	1	-	48	
+160615_0935	1	contracts	11	"Ich kann dieses System auch uneingeschr‰nkt weiterempfehlen"	"Weiﬂ  2"	1	-	37	
+160615_0935	1	contracts	11	"geht mir genau so :D"	"Weiﬂ  1"	1	-	28	
+160615_0935	1	contracts	11	"ich auch"	"Weiﬂ  2"	2	-	25	
+160615_0935	1	contracts	11	"ja"	"Weiﬂ  3"	2	-	22	
+160615_0935	1	contracts	11	"6 Ä extra f¸r alle (wenn die runde ausgew‰hlt wird)"	"Weiﬂ  2"	3	-	22	
+160615_0935	1	contracts	11	"nur heute"	"Weiﬂ  3"	3	-	10	
+160615_0935	1	contracts	11	"Ich habe vor kurzem 20 Punkte gemacht. Sie kˆnnen das auch!"	"Weiﬂ  2"	1	-	4	
+160615_0935	1	contracts	11	"f¸r kurze Zeit"	"Weiﬂ  3"	3	-	3	
+160615_0935	1	contracts	11	"sonderangebot"	"Weiﬂ  2"	3	-	1	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	12	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	12	1	1	0	0	0	0.8891971948971958	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	17	3	10	999	999	0	-	-	0.5675975589862082	3	1	"Blau  3"	0	29	0	28	1	3	0	2	0	180	180	20	17	-	-	-	-	-	
+160615_0935	1	subjects	12	2	1	0	0	0	0.7455472511917107	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	6	9	0	999	999	0	-	-	0.03928185209598478	2	1	"Weiﬂ  3"	2	0	30	26	1	3	0	2	0	180	180	26	28	-	-	-	-	-	
+160615_0935	1	subjects	12	3	1	0	0	0	0.04705441279665307	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	7	12	0	999	999	0	-	-	0.1817043964665869	3	2	"Blau  1"	0	30	0	27	1	2	0	2	0	180	180	21	27	-	-	-	-	-	
+160615_0935	1	subjects	12	4	1	0	0	0	0.296014134444303	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	1	3	20	999	999	0	-	-	0.6151619100082488	1	3	"Weiﬂ  2"	1	0	18	28	0	1	0	0	300	0	60	19	27	-	-	-	-	-	
+160615_0935	1	subjects	12	5	1	0	0	0	0.2602347681579342	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	7	4	20	999	999	0	-	-	0.6060319848386719	1	3	"Blau  2"	0	99999	0	26	0	1	0	0	300	0	60	-25	99999	-	-	-	-	-	
+160615_0935	1	subjects	12	6	1	0	0	0	0.8650512163830229	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	2	10	0	999	999	0	-	-	0.07749621108057732	2	2	"Weiﬂ  3"	2	0	29	28	1	2	0	2	0	180	180	18	27	-	-	-	-	-	
+160615_0935	1	subjects	12	7	1	0	0	0	0.7402941872087746	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	8	15	0	999	999	0	-	-	0.4736899186268868	2	1	"Weiﬂ  2"	2	0	29	29	1	3	0	2	0	180	180	17	26	-	-	-	-	-	
+160615_0935	1	subjects	12	8	1	0	0	0	0.4216440280068871	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	20	15	10	999	999	0	-	-	0.003785422539238549	3	1	"Blau  1"	0	29	0	28	1	3	0	3	0	180	180	22	27	-	-	-	-	-	
+160615_0935	1	subjects	12	9	1	0	0	0	0.3594612350498611	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	9	1	0	999	999	0	-	-	0.9057914139264224	2	2	"Weiﬂ  2"	1	0	26	27	1	2	0	3	0	180	180	16	27	-	-	-	-	-	
+160615_0935	1	subjects	12	10	1	0	0	0	0.2636644804215359	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	2	15	0	999	999	0	-	-	0.7079437681045121	2	2	"Weiﬂ  1"	2	0	29	29	1	2	0	2	0	180	180	20	24	-	-	-	-	-	
+160615_0935	1	subjects	12	11	1	0	0	0	0.8253893590650472	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	13	5	20	999	999	0	-	-	0.654055330741245	1	3	"Weiﬂ  3"	1	0	29	28	0	1	0	0	300	0	60	28	23	-	-	-	-	-	
+160615_0935	1	subjects	12	12	1	0	0	0	0.2233030047376189	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	13	18	20	999	999	0	-	-	0.02622150863810513	1	3	"Weiﬂ  1"	2	0	29	28	0	1	0	0	300	0	60	29	28	-	-	-	-	-	
+160615_0935	1	subjects	12	13	1	0	0	0	0.8765570492840172	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	2	18	10	999	999	0	-	-	0.6228439610557836	3	1	"Blau  2"	0	29	0	20	1	3	0	3	0	180	180	20	5	-	-	-	-	-	
+160615_0935	1	subjects	12	14	1	0	0	0	0.4126507790818116	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	11	18	0	999	999	0	-	-	0.478819631263064	3	2	"Blau  2"	0	28	0	27	1	2	0	3	0	180	180	24	16	-	-	-	-	-	
+160615_0935	1	subjects	12	15	1	0	0	0	0.7403219969665269	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	20	9	0	999	999	0	-	-	0.5671222016993548	3	2	"Blau  3"	0	99999	0	27	1	2	0	2	0	180	180	22	28	-	-	-	-	-	
+160615_0935	1	subjects	12	16	1	0	0	0	0.7238496056403264	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	14	4	20	999	999	0	-	-	0.3905461427711631	1	3	"Blau  3"	0	29	0	26	0	1	0	0	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	12	17	1	0	0	0	0.1227036570770217	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	6	1	0	999	999	0	-	-	0.6121738812011545	2	1	"Weiﬂ  1"	1	0	27	26	1	3	0	3	0	180	180	22	26	-	-	-	-	-	
+160615_0935	1	subjects	12	18	1	0	0	0	0.136461996536917	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	18	1	20	999	999	0	-	-	0.8404941725733197	3	3	"Blau  1"	0	27	0	26	0	1	0	0	300	0	60	23	19	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	12	"Y"	"Weiﬂ  1"	3	-	120	
+160615_0935	1	contracts	12	"Y "	"Weiﬂ  3"	1	-	118	
+160615_0935	1	contracts	12	"x"	"Weiﬂ  2"	3	-	117	
+160615_0935	1	contracts	12	"X"	"Weiﬂ  1"	1	-	117	
+160615_0935	1	contracts	12	"Y"	"Weiﬂ  2"	1	-	117	
+160615_0935	1	contracts	12	"Y"	"Weiﬂ  1"	2	-	117	
+160615_0935	1	contracts	12	"Situation Y"	"Weiﬂ  3"	2	-	117	
+160615_0935	1	contracts	12	"X bei mir"	"Weiﬂ  3"	3	-	112	
+160615_0935	1	contracts	12	"x"	"Weiﬂ  2"	2	-	110	
+160615_0935	1	contracts	12	"dann Y"	"Weiﬂ  2"	1	-	109	
+160615_0935	1	contracts	12	"dann A"	"Weiﬂ  1"	3	-	107	
+160615_0935	1	contracts	12	"hmmmm, dann maybe B? "	"Weiﬂ  3"	1	-	107	
+160615_0935	1	contracts	12	"Okay dann B"	"Weiﬂ  1"	1	-	107	
+160615_0935	1	contracts	12	"Hm"	"Weiﬂ  3"	2	-	106	
+160615_0935	1	contracts	12	"und B"	"Weiﬂ  2"	1	-	104	
+160615_0935	1	contracts	12	"B"	"Weiﬂ  1"	2	-	103	
+160615_0935	1	contracts	12	"Ja A"	"Weiﬂ  3"	3	-	103	
+160615_0935	1	contracts	12	"dann also b"	"Weiﬂ  2"	2	-	97	
+160615_0935	1	contracts	12	"Wahrscheinlichkeit f¸r Y ¸berwiegt"	"Weiﬂ  3"	2	-	96	
+160615_0935	1	contracts	12	"Jo"	"Weiﬂ  3"	2	-	94	
+160615_0935	1	contracts	12	"klar A"	"Weiﬂ  2"	3	-	93	
+160615_0935	1	contracts	12	"Wobei"	"Weiﬂ  3"	2	-	92	
+160615_0935	1	contracts	12	"genau"	"Weiﬂ  2"	2	-	89	
+160615_0935	1	contracts	12	"Ich trau dem braten immer nicht"	"Weiﬂ  3"	2	-	85	
+160615_0935	1	contracts	12	"wird schon schiefgehen"	"Weiﬂ  1"	2	-	83	
+160615_0935	1	contracts	12	"A lieber"	"Weiﬂ  3"	2	-	83	
+160615_0935	1	contracts	12	"?"	"Weiﬂ  3"	2	-	80	
+160615_0935	1	contracts	12	"Hoffentlich w‰hlen die Blauen auch A"	"Weiﬂ  3"	3	-	74	
+160615_0935	1	contracts	12	"B"	"Weiﬂ  1"	2	-	69	
+160615_0935	1	contracts	12	"wir sollten b w‰hlen"	"Weiﬂ  2"	2	-	69	
+160615_0935	1	contracts	12	"Dann haben wir alle mehr"	"Weiﬂ  3"	3	-	69	
+160615_0935	1	contracts	12	"nicht dem Zufall ¸berlassen"	"Weiﬂ  1"	3	-	45	
+160615_0935	1	contracts	12	"Ich meine A w‰re cleverer"	"Weiﬂ  3"	2	-	42	
+160615_0935	1	contracts	12	"Ja, B ist n fairer Deal. Immerhin bekommen alle etwas oder eben nichts "	"Weiﬂ  3"	1	-	39	
+160615_0935	1	contracts	12	"genau"	"Weiﬂ  3"	3	-	33	
+160615_0935	1	contracts	12	"123 Teeeeaaaaaam"	"Weiﬂ  3"	1	-	31	
+160615_0935	1	contracts	12	"Lieber o odder 6Ä extra oder 3Ä oder 6Ä extra"	"Weiﬂ  3"	2	-	30	
+160615_0935	1	contracts	12	"B"	"Weiﬂ  1"	2	-	20	
+160615_0935	1	contracts	12	"Bei A gewinnen wir so oder so"	"Weiﬂ  3"	2	-	17	
+160615_0935	1	contracts	12	"12 von 20"	"Weiﬂ  1"	3	-	15	
+160615_0935	1	contracts	12	"genau b"	"Weiﬂ  2"	2	-	13	
+160615_0935	1	contracts	12	"ich liebe die gefahr"	"Weiﬂ  1"	2	-	13	
+160615_0935	1	contracts	12	"Nagut"	"Weiﬂ  3"	2	-	7	
+160615_0935	1	contracts	12	"Mach ich auch B"	"Weiﬂ  3"	2	-	3	
+160615_0935	1	contracts	12	"dauert noch"	"Weiﬂ  2"	3	-	2	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	13	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	13	1	1	0	0	0	0.6505848754432914	3	1	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	1	20	20	999	999	0	-	-	0.603432691471387	3	2	"Blau  3"	0	29	0	29	1	3	0	3	180	0	180	23	18	-	-	-	-	-	
+160615_0935	1	subjects	13	2	1	0	0	0	0.03909490492152744	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	17	16	20	999	999	0	-	-	0.6717367524615194	2	1	"Weiﬂ  2"	2	0	29	27	0	2	0	0	0	240	120	25	17	-	-	-	-	-	
+160615_0935	1	subjects	13	3	1	0	0	0	0.206938079654676	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	2	15	0	999	999	0	-	-	0.4654266747950701	3	3	"Blau  1"	0	30	0	26	0	1	0	0	240	0	120	24	27	-	-	-	-	-	
+160615_0935	1	subjects	13	4	1	0	0	0	0.02825673298363422	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	17	2	20	999	999	0	-	-	0.09241955731642412	2	1	"Weiﬂ  1"	2	0	28	26	0	2	0	0	0	240	120	21	28	-	-	-	-	-	
+160615_0935	1	subjects	13	5	1	0	0	0	0.910911255940288	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	16	5	0	999	999	0	-	-	0.3154666076020648	1	3	"Blau  3"	0	30	0	-9	0	1	0	0	240	0	120	19	17	-	-	-	-	-	
+160615_0935	1	subjects	13	6	1	0	0	0	0.3709210233627451	2	0	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	11	14	0	999	999	0	-	-	0.2994791321919668	1	2	"Weiﬂ  2"	1	0	29	28	1	3	0	3	180	0	180	22	28	-	-	-	-	-	
+160615_0935	1	subjects	13	7	1	0	0	0	0.6859287320105028	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	15	5	10	999	999	0	-	-	0.8323676701785846	1	3	"Weiﬂ  3"	1	0	29	29	0	1	0	0	240	0	120	12	30	-	-	-	-	-	
+160615_0935	1	subjects	13	8	1	0	0	0	0.3866666580488284	1	1	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	15	3	20	999	999	0	-	-	0.4894797073162532	3	2	"Blau  1"	0	29	0	28	1	3	0	3	180	0	180	24	28	-	-	-	-	-	
+160615_0935	1	subjects	13	9	1	0	0	0	0.05813973772252898	1	0	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	15	13	0	999	999	0	-	-	0.8087368858087514	1	2	"Weiﬂ  1"	2	0	22	27	1	3	0	3	180	0	180	16	15	-	-	-	-	-	
+160615_0935	1	subjects	13	10	1	0	0	0	0.3587990004377435	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	11	20	10	999	999	0	-	-	0.8932455596016932	1	3	"Weiﬂ  1"	1	0	29	23	0	1	0	0	240	0	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	13	11	1	0	0	0	0.9778946805642428	3	0	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	9	1	0	999	999	0	-	-	0.7091704940931735	1	2	"Weiﬂ  3"	2	0	27	28	1	3	0	1	180	0	180	19	28	-	-	-	-	-	
+160615_0935	1	subjects	13	12	1	0	0	0	0.63679300324842	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	6	13	10	999	999	0	-	-	0.04727396790276932	1	3	"Weiﬂ  2"	2	0	29	24	0	1	0	0	240	0	120	24	26	-	-	-	-	-	
+160615_0935	1	subjects	13	13	1	0	0	0	0.5392014517165727	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	4	2	10	999	999	0	-	-	0.6135960713092219	3	1	"Blau  1"	0	29	0	28	0	2	0	0	0	240	120	24	17	-	-	-	-	-	
+160615_0935	1	subjects	13	14	1	0	0	0	0.76832770405725	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	11	17	10	999	999	0	-	-	0.4946133366295198	3	1	"Blau  3"	0	27	0	27	0	2	0	0	0	240	120	24	28	-	-	-	-	-	
+160615_0935	1	subjects	13	15	1	0	0	0	0.4337262327008537	2	1	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	10	14	20	999	999	0	-	-	0.6293256295050148	3	2	"Blau  2"	0	99999	0	27	1	3	0	3	180	0	180	25	29	-	-	-	-	-	
+160615_0935	1	subjects	13	16	1	0	0	0	0.6903484220105914	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	12	11	10	999	999	0	-	-	0.8340917503619993	2	1	"Blau  2"	0	29	0	23	0	2	0	0	0	240	120	29	29	-	-	-	-	-	
+160615_0935	1	subjects	13	17	1	0	0	0	0.6506033407759868	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	13	2	20	999	999	0	-	-	0.1647307268179631	2	1	"Weiﬂ  3"	2	0	29	25	0	2	0	0	0	240	120	27	25	-	-	-	-	-	
+160615_0935	1	subjects	13	18	1	0	0	0	0.6301462527504872	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	19	10	0	999	999	0	-	-	0.4261232807422631	3	3	"Blau  2"	0	28	0	22	0	1	0	0	240	0	120	22	25	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	13	"Y"	"Weiﬂ  2"	3	-	120	
+160615_0935	1	contracts	13	"Y"	"Weiﬂ  2"	1	-	119	
+160615_0935	1	contracts	13	"X"	"Weiﬂ  3"	3	-	118	
+160615_0935	1	contracts	13	"Y"	"Weiﬂ  3"	2	-	118	
+160615_0935	1	contracts	13	"Y"	"Weiﬂ  3"	1	-	118	
+160615_0935	1	contracts	13	"X"	"Weiﬂ  1"	3	-	117	
+160615_0935	1	contracts	13	"X"	"Weiﬂ  2"	2	-	115	
+160615_0935	1	contracts	13	"ok A"	"Weiﬂ  2"	3	-	114	
+160615_0935	1	contracts	13	"dann X, A"	"Weiﬂ  3"	3	-	111	
+160615_0935	1	contracts	13	"Y"	"Weiﬂ  1"	1	-	111	
+160615_0935	1	contracts	13	"also B?"	"Weiﬂ  1"	1	-	107	
+160615_0935	1	contracts	13	"Weiﬂ 1?"	"Weiﬂ  2"	2	-	107	
+160615_0935	1	contracts	13	"A"	"Weiﬂ  1"	3	-	107	
+160615_0935	1	contracts	13	"Saves Ding B"	"Weiﬂ  2"	1	-	106	
+160615_0935	1	contracts	13	"bei mir ist y angesagt"	"Weiﬂ  1"	2	-	106	
+160615_0935	1	contracts	13	"B"	"Weiﬂ  3"	1	-	105	
+160615_0935	1	contracts	13	"Puh"	"Weiﬂ  2"	2	-	100	
+160615_0935	1	contracts	13	"W¸rde trotzdem A nehmen"	"Weiﬂ  2"	2	-	95	
+160615_0935	1	contracts	13	"ja, A"	"Weiﬂ  3"	2	-	89	
+160615_0935	1	contracts	13	"Ist imemr die sichere variante"	"Weiﬂ  2"	2	-	82	
+160615_0935	1	contracts	13	"Die blauen werden aber wahreinlich C nehmen"	"Weiﬂ  3"	2	-	74	
+160615_0935	1	contracts	13	"Jo, dann steht ihre stimme gegen snere"	"Weiﬂ  2"	2	-	65	
+160615_0935	1	contracts	13	"*unsere"	"Weiﬂ  2"	2	-	61	
+160615_0935	1	contracts	13	"Muss die auswahl entscheiden"	"Weiﬂ  2"	2	-	57	
+160615_0935	1	contracts	13	"Dann wird leider der PC entscheiden"	"Weiﬂ  3"	2	-	57	
+160615_0935	1	contracts	13	"also b"	"Weiﬂ  1"	2	-	50	
+160615_0935	1	contracts	13	"Ne"	"Weiﬂ  2"	2	-	48	
+160615_0935	1	contracts	13	"ne, A"	"Weiﬂ  3"	2	-	47	
+160615_0935	1	contracts	13	"ich werde A w‰hlen"	"Weiﬂ  2"	2	-	40	
+160615_0935	1	contracts	13	"ich auch"	"Weiﬂ  3"	2	-	36	
+160615_0935	1	contracts	13	"ok a"	"Weiﬂ  1"	2	-	33	
+160615_0935	1	contracts	13	"tum tum"	"Weiﬂ  2"	3	-	29	
+160615_0935	1	contracts	13	"Alles klar"	"Weiﬂ  2"	2	-	27	
+160615_0935	1	contracts	13	"Hey blaue"	"Weiﬂ  2"	2	-	24	
+160615_0935	1	contracts	13	"Vielleicht haben wir ja Situation X"	"Weiﬂ  3"	2	-	18	
+160615_0935	1	contracts	13	"ihr habt bei X dann auch die mˆglichkeit 20 puntke zu bekommen"	"Weiﬂ  2"	2	-	14	
+160615_0935	1	contracts	13	":D"	"Weiﬂ  2"	2	-	13	
+160615_0935	1	contracts	13	"An die Blauen: Jaaaaa, ihr habts nicht leicht ( und das meine ich ernst). Aber w‰hlt doch auch B, dann haben wir immerhin eine Mehrheit und alle bekommen ein paar Taler. Wenn der Computer entscheidet, ist das doch doof"	"Weiﬂ  2"	1	-	3	
+160615_0935	1	contracts	13	"W‰re das nicht tll>?"	"Weiﬂ  2"	2	-	0	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	14	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	14	1	1	0	0	0	0.7933764745450469	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	14	6	20	999	999	0	-	-	0.3359806460030287	3	2	"Blau  3"	0	28	0	27	0	1	0	0	240	0	120	26	27	-	-	-	-	-	
+160615_0935	1	subjects	14	2	1	0	0	0	0.06303776198208227	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	1	18	20	999	999	0	-	-	0.1513225995708828	1	3	"Weiﬂ  1"	2	0	27	28	0	1	0	0	300	0	60	28	28	-	-	-	-	-	
+160615_0935	1	subjects	14	3	1	0	0	0	0.9414021316642883	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	5	8	10	999	999	0	-	-	0.7665225499153708	3	1	"Blau  3"	0	28	0	28	1	3	0	3	0	180	180	23	28	-	-	-	-	-	
+160615_0935	1	subjects	14	4	1	0	0	0	0.2460967540955621	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	1	10	20	999	999	0	-	-	0.3992339183572838	1	3	"Weiﬂ  3"	1	0	28	27	0	1	0	0	300	0	60	27	26	-	-	-	-	-	
+160615_0935	1	subjects	14	5	1	0	0	0	0.2723063445986744	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	14	3	10	999	999	0	-	-	0.3881599262301623	3	1	"Blau  2"	0	-11	0	20	1	3	0	2	0	180	180	23	25	-	-	-	-	-	
+160615_0935	1	subjects	14	6	1	0	0	0	0.1978542870831929	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	13	9	0	999	999	0	-	-	0.2123899903206108	2	1	"Weiﬂ  2"	2	0	29	29	1	3	0	3	0	180	180	19	28	-	-	-	-	-	
+160615_0935	1	subjects	14	7	1	0	0	0	0.9449454964813523	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	15	6	0	999	999	0	-	-	0.6244873849789088	2	1	"Weiﬂ  3"	1	0	29	28	1	3	0	2	0	180	180	20	27	-	-	-	-	-	
+160615_0935	1	subjects	14	8	1	0	0	0	0.2707021279589749	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	11	1	20	999	999	0	-	-	0.6547945969061901	3	3	"Blau  1"	0	29	0	29	0	1	0	0	300	0	60	27	29	-	-	-	-	-	
+160615_0935	1	subjects	14	9	1	0	0	0	4.128552975192924e-005	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	13	14	20	999	999	0	-	-	0.924465830868327	1	2	"Weiﬂ  1"	1	0	21	29	0	1	0	0	240	0	120	25	26	-	-	-	-	-	
+160615_0935	1	subjects	14	10	1	0	0	0	0.4308791344197835	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	13	10	20	999	999	0	-	-	0.2526315163134744	1	2	"Weiﬂ  3"	1	0	27	27	0	1	0	0	240	0	120	28	18	-	-	-	-	-	
+160615_0935	1	subjects	14	11	1	0	0	0	0.1456268816933161	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	8	14	20	999	999	0	-	-	0.009345298637331138	1	3	"Weiﬂ  2"	2	0	28	27	0	1	0	0	300	0	60	26	27	-	-	-	-	-	
+160615_0935	1	subjects	14	12	1	0	0	0	0.1829758874061405	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	5	7	0	999	999	0	-	-	0.3099869044078453	2	1	"Weiﬂ  1"	2	0	24	27	1	3	0	3	0	180	180	23	25	-	-	-	-	-	
+160615_0935	1	subjects	14	13	1	0	0	0	0.7143932416636465	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	11	5	20	999	999	0	-	-	0.9335188078384469	1	3	"Blau  2"	0	29	0	28	0	1	0	0	300	0	60	4	29	-	-	-	-	-	
+160615_0935	1	subjects	14	14	1	0	0	0	0.7856121933020708	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	8	12	20	999	999	0	-	-	0.5684243899623046	1	2	"Blau  2"	0	28	0	28	0	1	0	0	240	0	120	21	22	-	-	-	-	-	
+160615_0935	1	subjects	14	15	1	0	0	0	0.009542387448969477	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	7	2	10	999	999	0	-	-	0.9749383218469743	3	1	"Blau  1"	0	24	0	27	1	3	0	3	0	180	180	25	20	-	-	-	-	-	
+160615_0935	1	subjects	14	16	1	0	0	0	0.9206963330137992	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	7	13	20	999	999	0	-	-	0.4698349151154211	1	3	"Blau  3"	0	29	0	27	0	1	0	0	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	14	17	1	0	0	0	0.2456281493630391	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	15	5	20	999	999	0	-	-	0.1514592921135292	1	2	"Weiﬂ  2"	1	0	28	25	0	1	0	0	240	0	120	25	27	-	-	-	-	-	
+160615_0935	1	subjects	14	18	1	0	0	0	0.6906646064904819	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	19	20	20	999	999	0	-	-	0.2531328938217521	3	2	"Blau  1"	0	27	0	28	0	1	0	0	240	0	120	25	26	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	14	"Y"	"Weiﬂ  1"	3	-	119	
+160615_0935	1	contracts	14	""	"Weiﬂ  3"	2	-	118	
+160615_0935	1	contracts	14	"X"	"Weiﬂ  2"	2	-	118	
+160615_0935	1	contracts	14	"X"	"Weiﬂ  3"	1	-	118	
+160615_0935	1	contracts	14	"Situation Y"	"Weiﬂ  2"	1	-	117	
+160615_0935	1	contracts	14	"Y"	"Weiﬂ  1"	1	-	117	
+160615_0935	1	contracts	14	"X"	"Weiﬂ  2"	3	-	117	
+160615_0935	1	contracts	14	"X"	"Weiﬂ  3"	3	-	116	
+160615_0935	1	contracts	14	"x bei mir"	"Weiﬂ  1"	2	-	114	
+160615_0935	1	contracts	14	"dann B"	"Weiﬂ  1"	1	-	113	
+160615_0935	1	contracts	14	"x"	"Weiﬂ  3"	2	-	111	
+160615_0935	1	contracts	14	"nehmen wir bitte A"	"Weiﬂ  3"	3	-	108	
+160615_0935	1	contracts	14	"ja B"	"Weiﬂ  3"	1	-	108	
+160615_0935	1	contracts	14	"all in?"	"Weiﬂ  2"	1	-	107	
+160615_0935	1	contracts	14	"Jop, dann A"	"Weiﬂ  1"	3	-	106	
+160615_0935	1	contracts	14	"Also A w‰hlen - bitte auch ihr Blauen"	"Weiﬂ  2"	3	-	103	
+160615_0935	1	contracts	14	"Okidoki"	"Weiﬂ  2"	1	-	102	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	101	
+160615_0935	1	contracts	14	"all in :D"	"Weiﬂ  1"	1	-	101	
+160615_0935	1	contracts	14	"alo A"	"Weiﬂ  2"	2	-	100	
+160615_0935	1	contracts	14	"also a"	"Weiﬂ  1"	2	-	100	
+160615_0935	1	contracts	14	"fullhouse"	"Weiﬂ  1"	1	-	90	
+160615_0935	1	contracts	14	"straﬂe"	"Weiﬂ  3"	1	-	86	
+160615_0935	1	contracts	14	"Blaue Menschen, es w‰re fantastishc, wenn ihr dabei w‰rt. Dann gewinnen oder verleiren wir halt zusammen :)"	"Weiﬂ  2"	1	-	78	
+160615_0935	1	contracts	14	"Ihr wollt doch auch 20 Punkte habe, liebe Blauen ;-)"	"Weiﬂ  2"	3	-	54	
+160615_0935	1	contracts	14	"W‰r voll toll, damit wir eine Mehrheit bekommen. Das der Computer entscheidet, mˆchte doch keiner :)"	"Weiﬂ  1"	3	-	45	
+160615_0935	1	contracts	14	"Ich weiﬂ, C ist verlockend, aber ich empfinde B als fairer "	"Weiﬂ  2"	1	-	44	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	37	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	34	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	32	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	29	
+160615_0935	1	contracts	14	"a"	"Weiﬂ  1"	2	-	29	
+160615_0935	1	contracts	14	"richtig"	"Weiﬂ  3"	3	-	28	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	26	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	24	
+160615_0935	1	contracts	14	"find ik auch :D aber bisher sind die auf C gegangen bei Y ^^"	"Weiﬂ  3"	1	-	24	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  2"	2	-	22	
+160615_0935	1	contracts	14	"A"	"Weiﬂ  3"	2	-	21	
+160615_0935	1	contracts	14	"also oft.."	"Weiﬂ  3"	1	-	16	
+160615_0935	1	contracts	14	"Ja, irgendwie immer bei mir, aber es w‰re halt wirkich schˆn"	"Weiﬂ  2"	1	-	4	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	15	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	15	1	1	0	0	0	0.6018804691740687	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	18	6	20	999	999	0	-	-	0.319430323000732	3	3	"Blau  2"	0	27	0	28	0	1	0	0	240	0	120	25	18	-	-	-	-	-	
+160615_0935	1	subjects	15	2	1	0	0	0	0.2960904134884898	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	16	9	20	999	999	0	-	-	0.4470036711762677	1	2	"Weiﬂ  2"	1	0	29	28	0	1	0	0	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	15	3	1	0	0	0	0.01457705675371786	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	14	4	10	999	999	0	-	-	0.7784014403719461	3	1	"Blau  1"	0	25	0	27	1	3	0	3	0	180	180	25	28	-	-	-	-	-	
+160615_0935	1	subjects	15	4	1	0	0	0	0.3691889691954428	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	15	10	20	999	999	0	-	-	0.5054207898235976	1	3	"Weiﬂ  1"	1	0	28	25	0	1	0	0	240	0	120	27	28	-	-	-	-	-	
+160615_0935	1	subjects	15	5	1	0	0	0	0.959005267805888	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	6	20	10	999	999	0	-	-	0.7668401681663656	3	1	"Blau  3"	0	26	0	28	1	3	0	2	0	180	180	22	24	-	-	-	-	-	
+160615_0935	1	subjects	15	6	1	0	0	0	0.5199032889306094	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	4	13	0	999	999	0	-	-	0.08111699255235354	2	1	"Weiﬂ  3"	2	0	30	28	1	3	0	3	0	180	180	25	28	-	-	-	-	-	
+160615_0935	1	subjects	15	7	1	0	0	0	0.3376061601273744	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	15	20	0	999	999	0	-	-	0.8544853403486709	2	1	"Weiﬂ  2"	2	0	29	28	1	3	0	2	0	180	180	16	30	-	-	-	-	-	
+160615_0935	1	subjects	15	8	1	0	0	0	0.196939364633029	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	8	19	20	999	999	0	-	-	0.5283296744005427	3	3	"Blau  1"	0	29	0	29	0	1	0	0	240	0	120	28	29	-	-	-	-	-	
+160615_0935	1	subjects	15	9	1	0	0	0	0.9870634046322961	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	2	7	20	999	999	0	-	-	0.3332938274058019	1	2	"Weiﬂ  3"	1	0	29	28	0	1	0	0	300	0	60	27	27	-	-	-	-	-	
+160615_0935	1	subjects	15	10	1	0	0	0	0.001536013559222228	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	15	10	20	999	999	0	-	-	0.1302269958566069	1	2	"Weiﬂ  1"	1	0	30	28	0	1	0	0	300	0	60	25	27	-	-	-	-	-	
+160615_0935	1	subjects	15	11	1	0	0	0	0.4364679010754767	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	12	8	20	999	999	0	-	-	0.08128996616289484	1	3	"Weiﬂ  2"	1	0	29	21	0	1	0	0	240	0	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	15	12	1	0	0	0	0.3257953842756317	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	12	10	0	999	999	0	-	-	0.8866169140146193	2	1	"Weiﬂ  1"	2	0	25	28	1	3	0	2	0	180	180	27	27	-	-	-	-	-	
+160615_0935	1	subjects	15	13	1	0	0	0	0.08486218894126928	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	4	8	10	999	999	0	-	-	0.2104217378471148	3	1	"Blau  2"	0	-5	0	26	1	3	0	3	0	180	180	18	29	-	-	-	-	-	
+160615_0935	1	subjects	15	14	1	0	0	0	0.7451746872370945	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	7	12	20	999	999	0	-	-	0.05792191021978944	1	2	"Blau  3"	0	25	0	27	0	1	0	0	300	0	60	27	29	-	-	-	-	-	
+160615_0935	1	subjects	15	15	1	0	0	0	0.8050454085716258	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	2	14	20	999	999	0	-	-	0.7907014595301363	1	3	"Blau  3"	0	26	0	28	0	1	0	0	240	0	120	26	21	-	-	-	-	-	
+160615_0935	1	subjects	15	16	1	0	0	0	0.06261666913638668	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	13	19	20	999	999	0	-	-	0.1043922883013227	1	2	"Blau  1"	0	30	0	26	0	1	0	0	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	15	17	1	0	0	0	0.8067785565772926	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	4	7	20	999	999	0	-	-	0.5122914251462982	1	3	"Weiﬂ  3"	1	0	28	27	0	1	0	0	240	0	120	27	27	-	-	-	-	-	
+160615_0935	1	subjects	15	18	1	0	0	0	0.6570312951957021	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	13	12	20	999	999	0	-	-	0.5538911677682266	3	2	"Blau  2"	0	28	0	26	0	1	0	0	300	0	60	25	21	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	15	"X"	"Weiﬂ  2"	2	-	120	
+160615_0935	1	contracts	15	"Y"	"Weiﬂ  1"	1	-	119	
+160615_0935	1	contracts	15	"X"	"Weiﬂ  3"	3	-	119	
+160615_0935	1	contracts	15	"Y"	"Weiﬂ  2"	1	-	119	
+160615_0935	1	contracts	15	"X"	"Weiﬂ  1"	3	-	117	
+160615_0935	1	contracts	15	"X"	"Weiﬂ  3"	2	-	116	
+160615_0935	1	contracts	15	"Y"	"Weiﬂ  3"	1	-	114	
+160615_0935	1	contracts	15	"X"	"Weiﬂ  1"	2	-	113	
+160615_0935	1	contracts	15	"x"	"Weiﬂ  2"	3	-	112	
+160615_0935	1	contracts	15	"ok a"	"Weiﬂ  1"	3	-	109	
+160615_0935	1	contracts	15	":)"	"Weiﬂ  1"	1	-	107	
+160615_0935	1	contracts	15	"NICEEEE"	"Weiﬂ  2"	2	-	107	
+160615_0935	1	contracts	15	"dann bitte diesmal alle B"	"Weiﬂ  2"	1	-	105	
+160615_0935	1	contracts	15	"A"	"Weiﬂ  1"	2	-	105	
+160615_0935	1	contracts	15	"ja"	"Weiﬂ  2"	3	-	105	
+160615_0935	1	contracts	15	"A "	"Weiﬂ  3"	3	-	103	
+160615_0935	1	contracts	15	"super also a"	"Weiﬂ  3"	2	-	103	
+160615_0935	1	contracts	15	"Dann nehmen wir doch A"	"Weiﬂ  2"	2	-	102	
+160615_0935	1	contracts	15	"auch die Blauen :D"	"Weiﬂ  2"	1	-	96	
+160615_0935	1	contracts	15	"Das geht jedes mal schief^^"	"Weiﬂ  3"	1	-	96	
+160615_0935	1	contracts	15	"Super Gruppe "	"Weiﬂ  2"	2	-	94	
+160615_0935	1	contracts	15	"stimme zu"	"Weiﬂ  1"	1	-	88	
+160615_0935	1	contracts	15	"60 sek Chat h‰tten gereicht."	"Weiﬂ  1"	2	-	87	
+160615_0935	1	contracts	15	"die Blauen"	"Weiﬂ  1"	1	-	83	
+160615_0935	1	contracts	15	"gut f¸r alle"	"Weiﬂ  2"	3	-	81	
+160615_0935	1	contracts	15	"nicht dem Zufall ¸berlassen"	"Weiﬂ  1"	1	-	75	
+160615_0935	1	contracts	15	"Also B? oder doch lieber sicherheit mit A?"	"Weiﬂ  3"	1	-	66	
+160615_0935	1	contracts	15	"Supigruppe. Ihr seid die BESTEN!"	"Weiﬂ  1"	2	-	58	
+160615_0935	1	contracts	15	"dann haben Blauen nichts"	"Weiﬂ  1"	1	-	55	
+160615_0935	1	contracts	15	"bitte ihr blauen auch a w‰hlen"	"Weiﬂ  1"	3	-	47	
+160615_0935	1	contracts	15	"B optimal"	"Weiﬂ  1"	1	-	46	
+160615_0935	1	contracts	15	"Die werden eh C w‰hlen"	"Weiﬂ  3"	1	-	44	
+160615_0935	1	contracts	15	"Ihr auch"	"Weiﬂ  3"	2	-	38	
+160615_0935	1	contracts	15	"B!!!"	"Weiﬂ  2"	1	-	38	
+160615_0935	1	contracts	15	"zusammen lieber B"	"Weiﬂ  1"	1	-	36	
+160615_0935	1	contracts	15	"wir machen das zusammen"	"Weiﬂ  1"	1	-	29	
+160615_0935	1	contracts	15	"Meh"	"Weiﬂ  3"	1	-	25	
+160615_0935	1	contracts	15	"ist nur einmal im Leben"	"Weiﬂ  1"	1	-	16	
+160615_0935	1	contracts	15	"Ja, nagut. Geht dann ja nicht anders."	"Weiﬂ  3"	1	-	16	
+160615_0935	1	contracts	15	"Wir verlierne aber schon wieder"	"Weiﬂ  3"	1	-	11	
+160615_0935	1	contracts	15	"genau :D"	"Weiﬂ  1"	1	-	4	
+160615_0935	1	contracts	15	"ist echt jedes mal kacke geworden"	"Weiﬂ  3"	1	-	3	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	16	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	16	1	1	0	0	0	0.8579002511025873	3	1	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	12	8	10	999	999	0	-	-	0.4295839320074692	2	3	"Blau  3"	0	25	0	28	0	2	0	-	0	300	60	25	28	-	-	-	-	-	
+160615_0935	1	subjects	16	2	1	0	0	0	0.3200669886172129	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	13	8	10	999	999	0	-	-	0.0577785899200377	1	1	"Weiﬂ  2"	1	0	30	27	0	1	0	-	240	0	120	23	24	-	-	-	-	-	
+160615_0935	1	subjects	16	3	1	0	0	0	0.7713368180074435	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	16	5	0	999	999	0	-	-	0.8437654137815188	3	1	"Blau  3"	0	30	0	27	0	1	0	-	240	0	120	26	24	-	-	-	-	-	
+160615_0935	1	subjects	16	4	1	0	0	0	0.0977315311775224	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	18	17	10	999	999	0	-	-	0.724730818404225	1	1	"Weiﬂ  1"	2	0	29	27	0	1	0	-	240	0	120	24	28	-	-	-	-	-	
+160615_0935	1	subjects	16	5	1	0	0	0	0.7723722247278189	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	6	10	0	999	999	0	-	-	0.005805640018454585	1	2	"Blau  2"	0	-10	0	28	0	1	0	-	300	0	60	18	26	-	-	-	-	-	
+160615_0935	1	subjects	16	6	1	0	0	0	0.5736821063671643	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	12	1	10	999	999	0	-	-	0.2546961872161814	1	2	"Weiﬂ  2"	2	0	27	29	0	1	0	-	300	0	60	27	24	-	-	-	-	-	
+160615_0935	1	subjects	16	7	1	0	0	0	0.04736587919637834	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	14	11	10	999	999	0	-	-	0.5925776034559019	1	2	"Weiﬂ  1"	1	0	30	28	0	1	0	-	300	0	60	22	30	-	-	-	-	-	
+160615_0935	1	subjects	16	8	1	0	0	0	0.3609190859649885	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	18	11	0	999	999	0	-	-	0.8154395342876387	3	1	"Blau  1"	0	29	0	28	0	1	0	-	240	0	120	27	26	-	-	-	-	-	
+160615_0935	1	subjects	16	9	1	0	0	0	0.6768125294134079	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	4	15	10	999	999	0	-	-	0.04452891184227956	1	2	"Weiﬂ  3"	1	0	29	27	0	1	0	-	300	0	60	23	29	-	-	-	-	-	
+160615_0935	1	subjects	16	10	1	0	0	0	0.765703215154681	2	0	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	2	7	20	999	999	0	-	-	0.906555680514572	2	3	"Weiﬂ  2"	2	0	29	26	0	2	0	-	0	300	60	28	28	-	-	-	-	-	
+160615_0935	1	subjects	16	11	1	0	0	0	0.8429092326401311	3	0	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	19	15	20	999	999	0	-	-	0.09999360847286583	2	3	"Weiﬂ  3"	2	0	27	27	0	2	0	-	0	300	60	27	29	-	-	-	-	-	
+160615_0935	1	subjects	16	12	1	0	0	0	0.9622640171843879	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	1	8	10	999	999	0	-	-	0.2588043512119	1	1	"Weiﬂ  3"	2	0	29	24	0	1	0	-	240	0	120	24	19	-	-	-	-	-	
+160615_0935	1	subjects	16	13	1	0	0	0	0.7307320403543915	2	1	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	12	1	10	999	999	0	-	-	0.1467019068760341	3	3	"Blau  2"	0	29	0	22	0	2	0	-	0	300	60	27	27	-	-	-	-	-	
+160615_0935	1	subjects	16	14	1	0	0	0	0.5201008932292931	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	7	14	0	999	999	0	-	-	0.4923447922302153	1	1	"Blau  2"	0	29	0	26	0	1	0	-	240	0	120	24	21	-	-	-	-	-	
+160615_0935	1	subjects	16	15	1	0	0	0	0.2467375538529537	1	1	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	8	9	10	999	999	0	-	-	0.09225277234439401	2	3	"Blau  1"	0	28	0	27	0	2	0	-	0	300	60	27	30	-	-	-	-	-	
+160615_0935	1	subjects	16	16	1	0	0	0	0.4900376752438199	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	19	2	0	999	999	0	-	-	0.1602089335956652	1	2	"Blau  1"	0	28	0	26	0	1	0	-	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	16	17	1	0	0	0	0.3591130708153886	1	0	0	0	5	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	11	19	20	999	999	0	-	-	0.8389230132284216	2	3	"Weiﬂ  1"	2	0	29	27	0	2	0	-	0	300	60	27	26	-	-	-	-	-	
+160615_0935	1	subjects	16	18	1	0	0	0	0.875882581284215	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	7	4	0	999	999	0	-	-	0.6735825332224288	3	2	"Blau  3"	0	28	0	27	0	1	0	-	300	0	60	23	22	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	16	"Y"	"Weiﬂ  3"	1	-	120	
+160615_0935	1	contracts	16	"X"	"Weiﬂ  2"	1	-	120	
+160615_0935	1	contracts	16	"Y"	"Weiﬂ  1"	3	-	119	
+160615_0935	1	contracts	16	"X"	"Weiﬂ  1"	2	-	119	
+160615_0935	1	contracts	16	"Y=B"	"Weiﬂ  2"	3	-	116	
+160615_0935	1	contracts	16	"X"	"Weiﬂ  1"	1	-	116	
+160615_0935	1	contracts	16	"x"	"Weiﬂ  3"	2	-	116	
+160615_0935	1	contracts	16	"Y"	"Weiﬂ  2"	2	-	113	
+160615_0935	1	contracts	16	"Y"	"Weiﬂ  3"	3	-	109	
+160615_0935	1	contracts	16	"Also A"	"Weiﬂ  2"	2	-	109	
+160615_0935	1	contracts	16	"Ich w¸rde A empfehlen"	"Weiﬂ  2"	1	-	108	
+160615_0935	1	contracts	16	"go for X"	"Weiﬂ  1"	2	-	106	
+160615_0935	1	contracts	16	"yea A"	"Weiﬂ  3"	2	-	98	
+160615_0935	1	contracts	16	"okay, also auf jeden fall B"	"Weiﬂ  1"	3	-	98	
+160615_0935	1	contracts	16	"Dann kˆnnen wir im besten Fall alel Zusammen gewinnen :]"	"Weiﬂ  2"	2	-	96	
+160615_0935	1	contracts	16	"ja, dann lasst uns B w‰hlen"	"Weiﬂ  3"	3	-	95	
+160615_0935	1	contracts	16	"die Analysten empfehlen A"	"Weiﬂ  3"	1	-	95	
+160615_0935	1	contracts	16	"und A "	"Weiﬂ  1"	2	-	92	
+160615_0935	1	contracts	16	"zugreifen"	"Weiﬂ  3"	1	-	90	
+160615_0935	1	contracts	16	"logisch"	"Weiﬂ  2"	3	-	90	
+160615_0935	1	contracts	16	"die Aktie ist sichere Anlage"	"Weiﬂ  3"	1	-	83	
+160615_0935	1	contracts	16	"ich nehme gern A"	"Weiﬂ  1"	1	-	83	
+160615_0935	1	contracts	16	"hoffentlich ist einer der Blauen auch mutig genug daf¸r"	"Weiﬂ  3"	3	-	82	
+160615_0935	1	contracts	16	"Chancen steheh besser f¸r X , liebe Blaue "	"Weiﬂ  2"	2	-	67	
+160615_0935	1	contracts	16	"genau!"	"Weiﬂ  2"	3	-	60	
+160615_0935	1	contracts	16	"das sind 3Ä mehr dann als ihr bei C bei Sit X h‰ttet"	"Weiﬂ  2"	2	-	53	
+160615_0935	1	contracts	16	":]"	"Weiﬂ  2"	2	-	45	
+160615_0935	1	contracts	16	"w‰re gut f¸r alle, weil von uns Alern wird nie jemand C w‰hlen"	"Weiﬂ  3"	3	-	38	
+160615_0935	1	contracts	16	"das sollte eigentlich jedem klar sein^^"	"Weiﬂ  1"	2	-	20	
+160615_0935	1	contracts	16	"sicher nicht"	"Weiﬂ  2"	3	-	15	
+160615_0935	1	contracts	16	"Ich weiﬂ ja nicht"	"Weiﬂ  2"	2	-	14	
+160615_0935	1	contracts	16	"guys in blue nehmt doch auch A dann haben wir eine Mehrheit und der Pc hat verloren"	"Weiﬂ  2"	1	-	6	
+160615_0935	1	contracts	16	"a"	"Weiﬂ  3"	2	-	6	
+160615_0935	1	contracts	16	"Manchmal habe ich das gef¸hl wird aus prinzip C gedr¸ckt"	"Weiﬂ  2"	2	-	6	
+160615_0935	1	contracts	16	"ja sitmmt"	"Weiﬂ  1"	2	-	2	
+160615_0935	1	contracts	16	"nur um usn abzufucken"	"Weiﬂ  2"	2	-	2	
+160615_0935	1	contracts	16	"AAAA"	"Weiﬂ  1"	2	-	0	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	17	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	17	1	1	0	0	0	0.5640408273618859	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	4	17	10	999	999	0	-	-	0.9670778135615763	2	2	"Blau  3"	0	29	0	27	0	2	0	0	0	240	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	17	2	1	0	0	0	0.7382973785224825	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	12	3	20	999	999	0	-	-	0.5605070281589902	2	2	"Weiﬂ  3"	2	0	30	22	0	2	0	0	0	240	120	28	29	-	-	-	-	-	
+160615_0935	1	subjects	17	3	1	0	0	0	0.2317193645200317	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	14	10	0	999	999	0	-	-	0.0802500043438049	3	3	"Blau  2"	0	29	0	27	0	1	0	0	300	0	60	26	22	-	-	-	-	-	
+160615_0935	1	subjects	17	4	1	0	0	0	0.415667472600782	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	9	6	0	999	999	0	-	-	0.3646742577500056	2	1	"Weiﬂ  2"	2	0	30	26	1	3	0	2	0	180	180	22	28	-	-	-	-	-	
+160615_0935	1	subjects	17	5	1	0	0	0	0.5109056977140278	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	14	18	20	999	999	0	-	-	0.2444621633014	3	1	"Blau  1"	0	29	0	29	1	3	0	3	0	180	180	26	27	-	-	-	-	-	
+160615_0935	1	subjects	17	6	1	0	0	0	0.9752326342161897	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	4	2	10	999	999	0	-	-	0.4496416228123203	1	3	"Weiﬂ  3"	2	0	29	27	0	1	0	0	300	0	60	26	27	-	-	-	-	-	
+160615_0935	1	subjects	17	7	1	0	0	0	0.8355432398782778	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	18	10	10	999	999	0	-	-	0.6755786066295479	1	3	"Weiﬂ  1"	1	0	29	27	0	1	0	0	300	0	60	24	26	-	-	-	-	-	
+160615_0935	1	subjects	17	8	1	0	0	0	0.4332808565503363	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	12	15	10	999	999	0	-	-	0.1591985259015106	3	2	"Blau  2"	0	25	0	29	0	2	0	0	0	240	120	24	29	-	-	-	-	-	
+160615_0935	1	subjects	17	9	1	0	0	0	0.7994967870411914	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	8	2	0	999	999	0	-	-	0.6022859823900676	2	1	"Weiﬂ  3"	2	0	27	28	1	3	0	3	0	180	180	16	26	-	-	-	-	-	
+160615_0935	1	subjects	17	10	1	0	0	0	0.04632496649693929	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	5	10	0	999	999	0	-	-	0.7022275206177624	2	1	"Weiﬂ  1"	2	0	23	27	1	3	0	2	0	180	180	22	26	-	-	-	-	-	
+160615_0935	1	subjects	17	11	1	0	0	0	0.2019316014842743	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	11	15	20	999	999	0	-	-	0.3423292531363337	2	2	"Weiﬂ  1"	1	0	29	28	0	2	0	0	0	240	120	28	28	-	-	-	-	-	
+160615_0935	1	subjects	17	12	1	0	0	0	0.8409895225618917	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	19	6	10	999	999	0	-	-	0.3454607722095497	1	3	"Weiﬂ  2"	1	0	29	26	0	1	0	0	300	0	60	29	16	-	-	-	-	-	
+160615_0935	1	subjects	17	13	1	0	0	0	0.8556546437813224	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	13	2	20	999	999	0	-	-	0.6573966977453776	3	1	"Blau  3"	0	28	0	27	1	3	0	3	0	180	180	28	28	-	-	-	-	-	
+160615_0935	1	subjects	17	14	1	0	0	0	0.08088352767791764	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	17	6	10	999	999	0	-	-	0.5864957727428972	3	2	"Blau  1"	0	29	0	27	0	2	0	0	0	240	120	24	29	-	-	-	-	-	
+160615_0935	1	subjects	17	15	1	0	0	0	0.5040993259773121	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	14	15	0	999	999	0	-	-	0.4437959042581711	1	3	"Blau  3"	0	30	0	28	0	1	0	0	300	0	60	24	29	-	-	-	-	-	
+160615_0935	1	subjects	17	16	1	0	0	0	0.1424998013034928	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	3	4	0	999	999	0	-	-	0.8874032543447815	1	3	"Blau  1"	0	29	0	27	0	1	0	0	300	0	60	25	28	-	-	-	-	-	
+160615_0935	1	subjects	17	17	1	0	0	0	0.5910680599469077	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	8	10	18	20	999	999	0	-	-	0.1267546066673261	2	2	"Weiﬂ  2"	2	0	29	27	0	2	0	0	0	240	120	27	27	-	-	-	-	-	
+160615_0935	1	subjects	17	18	1	0	0	0	0.7920614796653677	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	15	13	20	999	999	0	-	-	0.7701559098298456	3	1	"Blau  2"	0	28	0	28	1	3	0	3	0	180	180	20	27	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	17	"X"	"Weiﬂ  2"	3	-	120	
+160615_0935	1	contracts	17	"X"	"Weiﬂ  1"	2	-	120	
+160615_0935	1	contracts	17	"X"	"Weiﬂ  1"	3	-	119	
+160615_0935	1	contracts	17	"Y"	"Weiﬂ  2"	2	-	119	
+160615_0935	1	contracts	17	"Y"	"Weiﬂ  3"	2	-	117	
+160615_0935	1	contracts	17	"diesmal y"	"Weiﬂ  3"	1	-	116	
+160615_0935	1	contracts	17	"Y"	"Weiﬂ  1"	1	-	116	
+160615_0935	1	contracts	17	"Y"	"Weiﬂ  3"	3	-	115	
+160615_0935	1	contracts	17	"y"	"Weiﬂ  2"	1	-	113	
+160615_0935	1	contracts	17	"Alles kalr"	"Weiﬂ  3"	3	-	113	
+160615_0935	1	contracts	17	"A"	"Weiﬂ  2"	3	-	111	
+160615_0935	1	contracts	17	"Also A?"	"Weiﬂ  3"	3	-	109	
+160615_0935	1	contracts	17	"dann A "	"Weiﬂ  1"	3	-	108	
+160615_0935	1	contracts	17	"also b"	"Weiﬂ  3"	1	-	108	
+160615_0935	1	contracts	17	"jupi"	"Weiﬂ  2"	1	-	104	
+160615_0935	1	contracts	17	"Wunderb‰rchen"	"Weiﬂ  3"	3	-	103	
+160615_0935	1	contracts	17	"hmmmm klingt nach B"	"Weiﬂ  1"	1	-	99	
+160615_0935	1	contracts	17	":D"	"Weiﬂ  2"	3	-	99	
+160615_0935	1	contracts	17	"Buchstabenvergleich"	"Weiﬂ  2"	3	-	93	
+160615_0935	1	contracts	17	"also B?"	"Weiﬂ  2"	2	-	85	
+160615_0935	1	contracts	17	"Wollen wir B wagen oder A und den PC entscheiden lassen?"	"Weiﬂ  1"	2	-	81	
+160615_0935	1	contracts	17	"wolllen wir es wagen?"	"Weiﬂ  3"	1	-	79	
+160615_0935	1	contracts	17	"logen"	"Weiﬂ  1"	1	-	70	
+160615_0935	1	contracts	17	"Dann B? jeder bekommt etwas und im Fall der F‰lle halt alle nichts. "	"Weiﬂ  3"	2	-	65	
+160615_0935	1	contracts	17	"W‰re cool, wenn die blauen auch mit im Boot w‰ren."	"Weiﬂ  3"	3	-	59	
+160615_0935	1	contracts	17	"denke auch"	"Weiﬂ  2"	2	-	57	
+160615_0935	1	contracts	17	"Na gut. In der Hoffnung, dass die Bler mitmachen"	"Weiﬂ  1"	2	-	48	
+160615_0935	1	contracts	17	"Wenn dann X eintritt, gewinnen wir alle viel"	"Weiﬂ  3"	3	-	46	
+160615_0935	1	contracts	17	":]"	"Weiﬂ  3"	3	-	37	
+160615_0935	1	contracts	17	"Also Bler, wir riskieren auch etwas!"	"Weiﬂ  1"	2	-	19	
+160615_0935	1	contracts	17	"Klar, unsere Blauen sind doch die Besten "	"Weiﬂ  3"	2	-	18	
+160615_0935	1	contracts	17	"in diesem Fall denke ich die blauen w¸rden C nehmen, da die alternativ gut f¸r sie ist"	"Weiﬂ  2"	1	-	16	
+160615_0935	1	contracts	17	"genau :)"	"Weiﬂ  2"	2	-	9	
+160615_0935	1	contracts	17	"Schleimer :-P"	"Weiﬂ  1"	2	-	5	
+160615_0935	1	contracts	17	"aber wir weiﬂen bitte B w‰hlen"	"Weiﬂ  2"	1	-	4	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	18	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	18	1	1	0	0	0	0.8819037861572131	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	18	12	0	999	999	0	-	-	0.4839539795573586	1	1	"Blau  2"	0	28	0	28	0	1	0	0	300	0	60	23	26	-	-	-	-	-	
+160615_0935	1	subjects	18	2	1	0	0	0	0.4689254092373538	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	6	19	16	10	999	999	0	-	-	0.6263421199407159	1	1	"Weiﬂ  2"	2	0	30	26	0	1	0	0	300	0	60	28	29	-	-	-	-	-	
+160615_0935	1	subjects	18	3	1	0	0	0	0.2990104673891377	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	4	11	0	999	999	0	-	-	0.3013216789352343	3	2	"Blau  2"	0	29	0	26	0	1	0	0	240	0	120	27	24	-	-	-	-	-	
+160615_0935	1	subjects	18	4	1	0	0	0	0.9611567896609925	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	1	14	10	999	999	0	-	-	0.9288820498291786	1	2	"Weiﬂ  3"	2	0	29	25	0	1	0	0	240	0	120	16	22	-	-	-	-	-	
+160615_0935	1	subjects	18	5	1	0	0	0	0.9078550743441354	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	17	5	0	999	999	0	-	-	0.9637061515654001	1	1	"Blau  3"	0	14	0	26	0	1	0	0	300	0	60	24	29	-	-	-	-	-	
+160615_0935	1	subjects	18	6	1	0	0	0	0.8336309650138165	3	0	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	3	13	0	999	999	0	-	-	0.840700052138744	1	3	"Weiﬂ  3"	2	0	29	28	1	3	0	1	180	0	180	26	28	-	-	-	-	-	
+160615_0935	1	subjects	18	7	1	0	0	0	0.8356289872134239	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	5	6	10	999	999	0	-	-	0.2573885215713589	1	2	"Weiﬂ  1"	1	0	30	28	0	1	0	0	240	0	120	22	24	-	-	-	-	-	
+160615_0935	1	subjects	18	8	1	0	0	0	0.4144447662003547	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	17	7	0	999	999	0	-	-	0.1599275247007271	3	2	"Blau  3"	0	30	0	29	0	1	0	0	240	0	120	25	29	-	-	-	-	-	
+160615_0935	1	subjects	18	9	1	0	0	0	0.9941036961945257	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	10	11	10	999	999	0	-	-	0.8348528462624424	1	1	"Weiﬂ  3"	1	0	27	29	0	1	0	0	300	0	60	25	27	-	-	-	-	-	
+160615_0935	1	subjects	18	10	1	0	0	0	0.7480213068183611	2	0	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	2	10	0	999	999	0	-	-	0.9333121189537049	1	3	"Weiﬂ  2"	2	0	29	28	1	3	0	3	180	0	180	26	28	-	-	-	-	-	
+160615_0935	1	subjects	18	11	1	0	0	0	0.07059914109790658	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	4	3	10	999	999	0	-	-	0.6851712021441996	1	1	"Weiﬂ  1"	1	0	29	28	0	1	0	0	300	0	60	27	29	-	-	-	-	-	
+160615_0935	1	subjects	18	12	1	0	0	0	0.3832411986697657	1	0	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	13	8	0	999	999	0	-	-	0.3171276079104876	1	3	"Weiﬂ  1"	2	0	28	28	1	3	0	3	180	0	180	28	27	-	-	-	-	-	
+160615_0935	1	subjects	18	13	1	0	0	0	0.2733796240172254	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	16	3	0	999	999	0	-	-	0.2197356877009085	1	2	"Blau  1"	0	28	0	10	0	1	0	0	240	0	120	26	29	-	-	-	-	-	
+160615_0935	1	subjects	18	14	1	0	0	0	0.5547428780955928	3	1	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	12	10	11	20	999	999	0	-	-	0.9740366707435049	3	3	"Blau  3"	0	29	0	28	1	3	0	3	180	0	180	25	26	-	-	-	-	-	
+160615_0935	1	subjects	18	15	1	0	0	0	0.1996168951502149	1	1	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	2	6	20	999	999	0	-	-	0.5810945171774805	3	3	"Blau  1"	0	30	0	29	1	3	0	1	180	0	180	26	29	-	-	-	-	-	
+160615_0935	1	subjects	18	16	1	0	0	0	0.4646105931441349	2	1	0	3	0	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	13	14	17	20	999	999	0	-	-	0.645776295869507	3	3	"Blau  2"	0	29	0	28	1	3	0	3	180	0	180	27	29	-	-	-	-	-	
+160615_0935	1	subjects	18	17	1	0	0	0	0.8682633539979641	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	3	14	10	999	999	0	-	-	0.2863283596403563	1	2	"Weiﬂ  2"	2	0	28	28	0	1	0	0	240	0	120	26	26	-	-	-	-	-	
+160615_0935	1	subjects	18	18	1	0	0	0	0.4328574242223321	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	5	11	0	999	999	0	-	-	0.3207404754686823	3	1	"Blau  1"	0	29	0	25	0	1	0	0	300	0	60	23	25	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	18	"Y"	"Weiﬂ  1"	3	-	120	
+160615_0935	1	contracts	18	"Y"	"Weiﬂ  2"	1	-	120	
+160615_0935	1	contracts	18	"X"	"Weiﬂ  1"	1	-	119	
+160615_0935	1	contracts	18	"Y"	"Weiﬂ  2"	2	-	119	
+160615_0935	1	contracts	18	"Y"	"Weiﬂ  2"	3	-	117	
+160615_0935	1	contracts	18	"x"	"Weiﬂ  3"	1	-	116	
+160615_0935	1	contracts	18	"X"	"Weiﬂ  3"	3	-	114	
+160615_0935	1	contracts	18	"X"	"Weiﬂ  1"	2	-	112	
+160615_0935	1	contracts	18	"B"	"Weiﬂ  1"	3	-	112	
+160615_0935	1	contracts	18	"B"	"Weiﬂ  2"	3	-	107	
+160615_0935	1	contracts	18	"Wegen der unsicherheit w¸rde ich auf A gehen"	"Weiﬂ  3"	3	-	106	
+160615_0935	1	contracts	18	"a?"	"Weiﬂ  3"	1	-	106	
+160615_0935	1	contracts	18	"Dann A und hoffentlich haben alle20"	"Weiﬂ  1"	1	-	105	
+160615_0935	1	contracts	18	"Ne"	"Weiﬂ  3"	3	-	104	
+160615_0935	1	contracts	18	"Finde ich nicht"	"Weiﬂ  3"	3	-	100	
+160615_0935	1	contracts	18	"Ich empfehle A "	"Weiﬂ  2"	1	-	99	
+160615_0935	1	contracts	18	"X"	"Weiﬂ  3"	2	-	96	
+160615_0935	1	contracts	18	"ich nehme a"	"Weiﬂ  3"	1	-	91	
+160615_0935	1	contracts	18	"dann A"	"Weiﬂ  2"	2	-	89	
+160615_0935	1	contracts	18	"genau wegen dieser kacke hab ich st‰ndig 0 in den Runden"	"Weiﬂ  3"	3	-	89	
+160615_0935	1	contracts	18	"blauen machen nicht mit"	"Weiﬂ  1"	3	-	85	
+160615_0935	1	contracts	18	"ja A"	"Weiﬂ  1"	2	-	84	
+160615_0935	1	contracts	18	"klaro"	"Weiﬂ  3"	2	-	81	
+160615_0935	1	contracts	18	"A und bitte, liebe Blauen, macht mit"	"Weiﬂ  1"	1	-	80	
+160615_0935	1	contracts	18	"dann entscheidet der PC"	"Weiﬂ  1"	3	-	78	
+160615_0935	1	contracts	18	"wenn wir A w‰hlen"	"Weiﬂ  1"	3	-	73	
+160615_0935	1	contracts	18	"sollte endlich mal klappen.."	"Weiﬂ  1"	2	-	70	
+160615_0935	1	contracts	18	"pp persˆnliches Pech, ich bin damit bisher super gefahren"	"Weiﬂ  2"	3	-	65	
+160615_0935	1	contracts	18	"Bei B doch genausowenig"	"Weiﬂ  3"	3	-	65	
+160615_0935	1	contracts	18	"Die werden C w‰hlen no matter what"	"Weiﬂ  3"	3	-	52	
+160615_0935	1	contracts	18	"Zweimal X- damit bin ich bisher gut gefahren "	"Weiﬂ  2"	1	-	44	
+160615_0935	1	contracts	18	"wir wollen alle mit viel Geld nach Hause gehen"	"Weiﬂ  1"	1	-	41	
+160615_0935	1	contracts	18	"und mit A , wenn es denn gew‰hlt wird, gewinnen wir so oder so"	"Weiﬂ  3"	3	-	31	
+160615_0935	1	contracts	18	"lasst mal testen ? und A w‰hlen ?"	"Weiﬂ  1"	3	-	25	
+160615_0935	1	contracts	18	"dann eben A, da sind die aber genausowenig dabei"	"Weiﬂ  2"	3	-	23	
+160615_0935	1	contracts	18	"ok Leute"	"Weiﬂ  1"	3	-	13	
+160615_0935	1	contracts	18	"A"	"Weiﬂ  1"	3	-	12	
+160615_0935	1	contracts	18	"Alles klar, A"	"Weiﬂ  3"	3	-	11	
+160615_0935	1	contracts	18	"A"	"Weiﬂ  2"	3	-	8	
+160615_0935	1	contracts	18	"habt ihr blauen das gehˆrt"	"Weiﬂ  2"	3	-	0	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	19	20	0	20	3	10	18	3	2	0	20	1	1	0	1	0.7000000000000001	1	2	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	19	1	1	0	0	0	0.9584199157349858	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	19	14	20	999	999	0	-	-	0.5352376422543254	3	1	"Blau  3"	0	28	0	27	0	1	0	-	240	0	120	26	8	-	-	-	-	-	
+160615_0935	1	subjects	19	2	1	0	0	0	0.7220776117043931	3	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	11	5	20	999	999	0	-	-	0.2738452406012664	1	3	"Weiﬂ  3"	1	0	28	25	0	1	0	-	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	19	3	1	0	0	0	0.440463447217114	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	7	8	20	999	999	0	-	-	0.6523474565019587	3	2	"Blau  2"	0	28	0	27	0	1	0	-	240	0	120	28	22	-	-	-	-	-	
+160615_0935	1	subjects	19	4	1	0	0	0	0.252376319492411	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	14	6	20	999	999	0	-	-	0.003701428418840015	1	2	"Weiﬂ  1"	1	0	29	27	0	1	0	-	240	0	120	29	17	-	-	-	-	-	
+160615_0935	1	subjects	19	5	1	0	0	0	0.1038965029194469	1	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	1	14	13	20	999	999	0	-	-	0.5157828482407065	3	3	"Blau  1"	0	30	0	28	0	1	0	-	300	0	60	25	25	-	-	-	-	-	
+160615_0935	1	subjects	19	6	1	0	0	0	0.5591371998000597	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	18	7	15	20	999	999	0	-	-	0.6702600683412794	1	2	"Weiﬂ  3"	1	0	29	27	0	1	0	-	240	0	120	28	28	-	-	-	-	-	
+160615_0935	1	subjects	19	7	1	0	0	0	0.1635237579064089	2	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	15	5	20	999	999	0	-	-	0.3077506419772983	1	3	"Weiﬂ  2"	1	0	29	26	0	1	0	-	300	0	60	28	30	-	-	-	-	-	
+160615_0935	1	subjects	19	8	1	0	0	0	0.244812660498923	2	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	20	14	20	999	999	0	-	-	0.6280360979158599	3	1	"Blau  2"	0	29	0	28	0	1	0	-	240	0	120	27	29	-	-	-	-	-	
+160615_0935	1	subjects	19	9	1	0	0	0	0.2996837903278339	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	1	18	20	999	999	0	-	-	0.8229620628165836	1	1	"Weiﬂ  2"	1	0	27	26	0	1	0	-	240	0	120	26	28	-	-	-	-	-	
+160615_0935	1	subjects	19	10	1	0	0	0	0.2822447718504094	2	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	5	3	20	999	999	0	-	-	0.2412385005695925	1	2	"Weiﬂ  2"	1	0	29	27	0	1	0	-	240	0	120	22	23	-	-	-	-	-	
+160615_0935	1	subjects	19	11	1	0	0	0	0.05754901192036877	1	0	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	19	16	20	999	999	0	-	-	0.6130271342643663	1	3	"Weiﬂ  1"	1	0	29	27	0	1	0	-	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	19	12	1	0	0	0	0.2869082993301136	1	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	9	2	16	20	999	999	0	-	-	0.3657921260994823	1	1	"Weiﬂ  1"	2	0	21	20	0	1	0	-	240	0	120	21	24	-	-	-	-	-	
+160615_0935	1	subjects	19	13	1	0	0	0	0.2262433456379191	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	1	5	20	999	999	0	-	-	0.9251302918070603	1	1	"Blau  1"	0	9	0	14	0	1	0	-	240	0	120	28	8	-	-	-	-	-	
+160615_0935	1	subjects	19	14	1	0	0	0	0.4530289491885476	3	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	7	15	20	999	999	0	-	-	0.2612706205161617	1	2	"Blau  3"	0	28	0	27	0	1	0	-	240	0	120	25	28	-	-	-	-	-	
+160615_0935	1	subjects	19	15	1	0	0	0	0.646935069769125	3	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	8	7	20	999	999	0	-	-	0.6994599251539726	1	3	"Blau  3"	0	29	0	27	0	1	0	-	300	0	60	28	27	-	-	-	-	-	
+160615_0935	1	subjects	19	16	1	0	0	0	0.3437991330138404	2	1	0	5	0	1	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	19	18	20	999	999	0	-	-	0.3650397124537452	1	3	"Blau  2"	0	27	0	27	0	1	0	-	300	0	60	29	29	-	-	-	-	-	
+160615_0935	1	subjects	19	17	1	0	0	0	0.31343201050229	3	0	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	17	19	20	999	999	0	-	-	0.7033713258352928	1	1	"Weiﬂ  3"	1	0	28	26	0	1	0	-	240	0	120	27	27	-	-	-	-	-	
+160615_0935	1	subjects	19	18	1	0	0	0	0.1282170233913777	1	1	0	4	0	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	10	1	5	20	999	999	0	-	-	0.2127447208448987	3	2	"Blau  1"	0	24	0	15	0	1	0	-	240	0	120	26	23	-	-	-	-	-	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	19	"Y"	"Weiﬂ  1"	1	-	120	
+160615_0935	1	contracts	19	"X"	"Weiﬂ  3"	2	-	120	
+160615_0935	1	contracts	19	"X"	"Weiﬂ  3"	3	-	119	
+160615_0935	1	contracts	19	"X"	"Weiﬂ  2"	3	-	119	
+160615_0935	1	contracts	19	"X"	"Weiﬂ  3"	1	-	119	
+160615_0935	1	contracts	19	""	"Weiﬂ  3"	1	-	118	
+160615_0935	1	contracts	19	"X"	"Weiﬂ  1"	2	-	118	
+160615_0935	1	contracts	19	"Situation X"	"Weiﬂ  1"	3	-	117	
+160615_0935	1	contracts	19	"X"	"Weiﬂ  2"	2	-	116	
+160615_0935	1	contracts	19	"x"	"Weiﬂ  2"	1	-	116	
+160615_0935	1	contracts	19	"Also A?"	"Weiﬂ  3"	2	-	112	
+160615_0935	1	contracts	19	"A"	"Weiﬂ  2"	2	-	110	
+160615_0935	1	contracts	19	"A?"	"Weiﬂ  3"	1	-	108	
+160615_0935	1	contracts	19	"A"	"Weiﬂ  1"	1	-	107	
+160615_0935	1	contracts	19	"a"	"Weiﬂ  2"	1	-	105	
+160615_0935	1	contracts	19	"genau"	"Weiﬂ  1"	2	-	105	
+160615_0935	1	contracts	19	"Gute Gruppe - ich sage A"	"Weiﬂ  3"	3	-	105	
+160615_0935	1	contracts	19	"Gut dann A "	"Weiﬂ  1"	3	-	103	
+160615_0935	1	contracts	19	"Gut :]"	"Weiﬂ  3"	2	-	99	
+160615_0935	1	contracts	19	"ja A"	"Weiﬂ  2"	3	-	96	
+160615_0935	1	contracts	19	"Hoffentlich lassen sich unsere Blauen auch davon ¸berzeugen"	"Weiﬂ  1"	3	-	79	
+160615_0935	1	contracts	19	"Dreimal X , das ist doch ne sichere Bank "	"Weiﬂ  3"	3	-	77	
+160615_0935	1	contracts	19	"Gute wahrscheinlichkeit , dass alle mit 20 punkten gl¸cklich werden :)"	"Weiﬂ  3"	2	-	73	
+160615_0935	1	contracts	19	"Denke ich auch"	"Weiﬂ  1"	3	-	68	
+160615_0935	1	contracts	19	"was anderes: Wer spielt heute bei der EM?"	"Weiﬂ  2"	2	-	64	
+160615_0935	1	contracts	19	"Russland"	"Weiﬂ  3"	2	-	58	
+160615_0935	1	contracts	19	"und?"	"Weiﬂ  3"	2	-	56	
+160615_0935	1	contracts	19	"eben hatten wir 3x X und es wurde Y.."	"Weiﬂ  2"	3	-	53	
+160615_0935	1	contracts	19	"Hab nur gehˆrt, dass sich heute entscheidet ob Russland rausfliegt, wenn es wieder unruhen gibt wegen den hools"	"Weiﬂ  3"	2	-	31	
+160615_0935	1	contracts	19	"dann ist die Wahrscheinlichkeit jetzt doch hˆher, dass es stimmt :-)"	"Weiﬂ  1"	3	-	31	
+160615_0935	1	contracts	19	"ich freu mich auf morgen"	"Weiﬂ  1"	2	-	29	
+160615_0935	1	contracts	19	"das passiert dir nicht 2 Mal"	"Weiﬂ  1"	3	-	22	
+160615_0935	1	contracts	19	"es muss dieses Mal X sein :D"	"Weiﬂ  2"	3	-	19	
+160615_0935	1	contracts	19	"Psychologisch klug Weiﬂ 2 :D haha"	"Weiﬂ  3"	3	-	12	
+160615_0935	1	contracts	19	"AAAAAAAAAA"	"Weiﬂ  3"	2	-	0	
+160615_0935	1	globals	Period	NumPeriods	RepeatTreatment	Rounds	PointsToEuro	ShowUp	TotalSubjects	GroupsizePlay	GroupsizeInformed	NumPracPeriods	TotalPeriods	FirstPeriod	repeatTreatment	INFORMEDTYPE	UNINFORMEDTYPE	QualInfo	CorrectState	WrongState	StateA	StateB	policyA	policyB	policyC	s	t	u	AuctionStop	AuctionNoStop	
+160615_0935	1	globals	20	20	0	20	3	10	18	3	2	0	20	1	0	0	1	0.7000000000000001	2	1	1	2	1	2	3	0	10	20	0	0	
+160615_0935	1	points	Period	Subject	points	
+160615_0935	1	points	1	1	20	
+160615_0935	1	points	1	2	20	
+160615_0935	1	points	1	3	20	
+160615_0935	1	points	1	4	20	
+160615_0935	1	points	1	5	20	
+160615_0935	1	points	1	6	20	
+160615_0935	1	points	1	7	20	
+160615_0935	1	points	1	8	20	
+160615_0935	1	points	1	9	20	
+160615_0935	1	points	1	10	20	
+160615_0935	1	points	1	11	20	
+160615_0935	1	points	1	12	20	
+160615_0935	1	points	1	13	20	
+160615_0935	1	points	1	14	20	
+160615_0935	1	points	1	15	20	
+160615_0935	1	points	1	16	20	
+160615_0935	1	points	1	17	20	
+160615_0935	1	points	1	18	20	
+160615_0935	1	points	2	1	10	
+160615_0935	1	points	2	2	0	
+160615_0935	1	points	2	3	20	
+160615_0935	1	points	2	4	0	
+160615_0935	1	points	2	5	10	
+160615_0935	1	points	2	6	0	
+160615_0935	1	points	2	7	20	
+160615_0935	1	points	2	8	0	
+160615_0935	1	points	2	9	20	
+160615_0935	1	points	2	10	0	
+160615_0935	1	points	2	11	0	
+160615_0935	1	points	2	12	0	
+160615_0935	1	points	2	13	20	
+160615_0935	1	points	2	14	0	
+160615_0935	1	points	2	15	20	
+160615_0935	1	points	2	16	0	
+160615_0935	1	points	2	17	20	
+160615_0935	1	points	2	18	10	
+160615_0935	1	points	3	1	0	
+160615_0935	1	points	3	2	20	
+160615_0935	1	points	3	3	20	
+160615_0935	1	points	3	4	20	
+160615_0935	1	points	3	5	20	
+160615_0935	1	points	3	6	0	
+160615_0935	1	points	3	7	0	
+160615_0935	1	points	3	8	20	
+160615_0935	1	points	3	9	20	
+160615_0935	1	points	3	10	20	
+160615_0935	1	points	3	11	20	
+160615_0935	1	points	3	12	0	
+160615_0935	1	points	3	13	0	
+160615_0935	1	points	3	14	0	
+160615_0935	1	points	3	15	20	
+160615_0935	1	points	3	16	20	
+160615_0935	1	points	3	17	20	
+160615_0935	1	points	3	18	20	
+160615_0935	1	points	4	1	20	
+160615_0935	1	points	4	2	20	
+160615_0935	1	points	4	3	20	
+160615_0935	1	points	4	4	20	
+160615_0935	1	points	4	5	20	
+160615_0935	1	points	4	6	20	
+160615_0935	1	points	4	7	20	
+160615_0935	1	points	4	8	20	
+160615_0935	1	points	4	9	20	
+160615_0935	1	points	4	10	20	
+160615_0935	1	points	4	11	20	
+160615_0935	1	points	4	12	20	
+160615_0935	1	points	4	13	20	
+160615_0935	1	points	4	14	20	
+160615_0935	1	points	4	15	20	
+160615_0935	1	points	4	16	20	
+160615_0935	1	points	4	17	20	
+160615_0935	1	points	4	18	20	
+160615_0935	1	points	5	1	20	
+160615_0935	1	points	5	2	10	
+160615_0935	1	points	5	3	0	
+160615_0935	1	points	5	4	0	
+160615_0935	1	points	5	5	10	
+160615_0935	1	points	5	6	10	
+160615_0935	1	points	5	7	20	
+160615_0935	1	points	5	8	0	
+160615_0935	1	points	5	9	20	
+160615_0935	1	points	5	10	10	
+160615_0935	1	points	5	11	0	
+160615_0935	1	points	5	12	0	
+160615_0935	1	points	5	13	10	
+160615_0935	1	points	5	14	20	
+160615_0935	1	points	5	15	20	
+160615_0935	1	points	5	16	0	
+160615_0935	1	points	5	17	20	
+160615_0935	1	points	5	18	10	
+160615_0935	1	points	6	1	20	
+160615_0935	1	points	6	2	20	
+160615_0935	1	points	6	3	10	
+160615_0935	1	points	6	4	20	
+160615_0935	1	points	6	5	10	
+160615_0935	1	points	6	6	20	
+160615_0935	1	points	6	7	0	
+160615_0935	1	points	6	8	10	
+160615_0935	1	points	6	9	20	
+160615_0935	1	points	6	10	20	
+160615_0935	1	points	6	11	20	
+160615_0935	1	points	6	12	0	
+160615_0935	1	points	6	13	20	
+160615_0935	1	points	6	14	20	
+160615_0935	1	points	6	15	10	
+160615_0935	1	points	6	16	10	
+160615_0935	1	points	6	17	0	
+160615_0935	1	points	6	18	10	
+160615_0935	1	points	7	1	20	
+160615_0935	1	points	7	2	20	
+160615_0935	1	points	7	3	0	
+160615_0935	1	points	7	4	20	
+160615_0935	1	points	7	5	20	
+160615_0935	1	points	7	6	0	
+160615_0935	1	points	7	7	0	
+160615_0935	1	points	7	8	20	
+160615_0935	1	points	7	9	20	
+160615_0935	1	points	7	10	20	
+160615_0935	1	points	7	11	20	
+160615_0935	1	points	7	12	0	
+160615_0935	1	points	7	13	20	
+160615_0935	1	points	7	14	20	
+160615_0935	1	points	7	15	20	
+160615_0935	1	points	7	16	0	
+160615_0935	1	points	7	17	20	
+160615_0935	1	points	7	18	0	
+160615_0935	1	points	8	1	0	
+160615_0935	1	points	8	2	10	
+160615_0935	1	points	8	3	10	
+160615_0935	1	points	8	4	20	
+160615_0935	1	points	8	5	10	
+160615_0935	1	points	8	6	10	
+160615_0935	1	points	8	7	10	
+160615_0935	1	points	8	8	0	
+160615_0935	1	points	8	9	10	
+160615_0935	1	points	8	10	10	
+160615_0935	1	points	8	11	20	
+160615_0935	1	points	8	12	10	
+160615_0935	1	points	8	13	0	
+160615_0935	1	points	8	14	10	
+160615_0935	1	points	8	15	0	
+160615_0935	1	points	8	16	0	
+160615_0935	1	points	8	17	20	
+160615_0935	1	points	8	18	0	
+160615_0935	1	points	9	1	20	
+160615_0935	1	points	9	2	20	
+160615_0935	1	points	9	3	20	
+160615_0935	1	points	9	4	20	
+160615_0935	1	points	9	5	20	
+160615_0935	1	points	9	6	20	
+160615_0935	1	points	9	7	20	
+160615_0935	1	points	9	8	20	
+160615_0935	1	points	9	9	20	
+160615_0935	1	points	9	10	20	
+160615_0935	1	points	9	11	20	
+160615_0935	1	points	9	12	20	
+160615_0935	1	points	9	13	20	
+160615_0935	1	points	9	14	20	
+160615_0935	1	points	9	15	20	
+160615_0935	1	points	9	16	20	
+160615_0935	1	points	9	17	20	
+160615_0935	1	points	9	18	20	
+160615_0935	1	points	10	1	10	
+160615_0935	1	points	10	2	20	
+160615_0935	1	points	10	3	10	
+160615_0935	1	points	10	4	20	
+160615_0935	1	points	10	5	10	
+160615_0935	1	points	10	6	20	
+160615_0935	1	points	10	7	20	
+160615_0935	1	points	10	8	10	
+160615_0935	1	points	10	9	20	
+160615_0935	1	points	10	10	20	
+160615_0935	1	points	10	11	20	
+160615_0935	1	points	10	12	20	
+160615_0935	1	points	10	13	10	
+160615_0935	1	points	10	14	10	
+160615_0935	1	points	10	15	10	
+160615_0935	1	points	10	16	10	
+160615_0935	1	points	10	17	20	
+160615_0935	1	points	10	18	10	
+160615_0935	1	points	11	1	20	
+160615_0935	1	points	11	2	20	
+160615_0935	1	points	11	3	20	
+160615_0935	1	points	11	4	20	
+160615_0935	1	points	11	5	20	
+160615_0935	1	points	11	6	20	
+160615_0935	1	points	11	7	20	
+160615_0935	1	points	11	8	20	
+160615_0935	1	points	11	9	20	
+160615_0935	1	points	11	10	20	
+160615_0935	1	points	11	11	20	
+160615_0935	1	points	11	12	20	
+160615_0935	1	points	11	13	20	
+160615_0935	1	points	11	14	20	
+160615_0935	1	points	11	15	20	
+160615_0935	1	points	11	16	20	
+160615_0935	1	points	11	17	20	
+160615_0935	1	points	11	18	20	
+160615_0935	1	points	12	1	10	
+160615_0935	1	points	12	2	0	
+160615_0935	1	points	12	3	0	
+160615_0935	1	points	12	4	20	
+160615_0935	1	points	12	5	20	
+160615_0935	1	points	12	6	0	
+160615_0935	1	points	12	7	0	
+160615_0935	1	points	12	8	10	
+160615_0935	1	points	12	9	0	
+160615_0935	1	points	12	10	0	
+160615_0935	1	points	12	11	20	
+160615_0935	1	points	12	12	20	
+160615_0935	1	points	12	13	10	
+160615_0935	1	points	12	14	0	
+160615_0935	1	points	12	15	0	
+160615_0935	1	points	12	16	20	
+160615_0935	1	points	12	17	0	
+160615_0935	1	points	12	18	20	
+160615_0935	1	points	13	1	20	
+160615_0935	1	points	13	2	20	
+160615_0935	1	points	13	3	0	
+160615_0935	1	points	13	4	20	
+160615_0935	1	points	13	5	0	
+160615_0935	1	points	13	6	0	
+160615_0935	1	points	13	7	10	
+160615_0935	1	points	13	8	20	
+160615_0935	1	points	13	9	0	
+160615_0935	1	points	13	10	10	
+160615_0935	1	points	13	11	0	
+160615_0935	1	points	13	12	10	
+160615_0935	1	points	13	13	10	
+160615_0935	1	points	13	14	10	
+160615_0935	1	points	13	15	20	
+160615_0935	1	points	13	16	10	
+160615_0935	1	points	13	17	20	
+160615_0935	1	points	13	18	0	
+160615_0935	1	points	14	1	20	
+160615_0935	1	points	14	2	20	
+160615_0935	1	points	14	3	10	
+160615_0935	1	points	14	4	20	
+160615_0935	1	points	14	5	10	
+160615_0935	1	points	14	6	0	
+160615_0935	1	points	14	7	0	
+160615_0935	1	points	14	8	20	
+160615_0935	1	points	14	9	20	
+160615_0935	1	points	14	10	20	
+160615_0935	1	points	14	11	20	
+160615_0935	1	points	14	12	0	
+160615_0935	1	points	14	13	20	
+160615_0935	1	points	14	14	20	
+160615_0935	1	points	14	15	10	
+160615_0935	1	points	14	16	20	
+160615_0935	1	points	14	17	20	
+160615_0935	1	points	14	18	20	
+160615_0935	1	points	15	1	20	
+160615_0935	1	points	15	2	20	
+160615_0935	1	points	15	3	10	
+160615_0935	1	points	15	4	20	
+160615_0935	1	points	15	5	10	
+160615_0935	1	points	15	6	0	
+160615_0935	1	points	15	7	0	
+160615_0935	1	points	15	8	20	
+160615_0935	1	points	15	9	20	
+160615_0935	1	points	15	10	20	
+160615_0935	1	points	15	11	20	
+160615_0935	1	points	15	12	0	
+160615_0935	1	points	15	13	10	
+160615_0935	1	points	15	14	20	
+160615_0935	1	points	15	15	20	
+160615_0935	1	points	15	16	20	
+160615_0935	1	points	15	17	20	
+160615_0935	1	points	15	18	20	
+160615_0935	1	points	16	1	10	
+160615_0935	1	points	16	2	10	
+160615_0935	1	points	16	3	0	
+160615_0935	1	points	16	4	10	
+160615_0935	1	points	16	5	0	
+160615_0935	1	points	16	6	10	
+160615_0935	1	points	16	7	10	
+160615_0935	1	points	16	8	0	
+160615_0935	1	points	16	9	10	
+160615_0935	1	points	16	10	20	
+160615_0935	1	points	16	11	20	
+160615_0935	1	points	16	12	10	
+160615_0935	1	points	16	13	10	
+160615_0935	1	points	16	14	0	
+160615_0935	1	points	16	15	10	
+160615_0935	1	points	16	16	0	
+160615_0935	1	points	16	17	20	
+160615_0935	1	points	16	18	0	
+160615_0935	1	points	17	1	10	
+160615_0935	1	points	17	2	20	
+160615_0935	1	points	17	3	0	
+160615_0935	1	points	17	4	0	
+160615_0935	1	points	17	5	20	
+160615_0935	1	points	17	6	10	
+160615_0935	1	points	17	7	10	
+160615_0935	1	points	17	8	10	
+160615_0935	1	points	17	9	0	
+160615_0935	1	points	17	10	0	
+160615_0935	1	points	17	11	20	
+160615_0935	1	points	17	12	10	
+160615_0935	1	points	17	13	20	
+160615_0935	1	points	17	14	10	
+160615_0935	1	points	17	15	0	
+160615_0935	1	points	17	16	0	
+160615_0935	1	points	17	17	20	
+160615_0935	1	points	17	18	20	
+160615_0935	1	points	18	1	0	
+160615_0935	1	points	18	2	10	
+160615_0935	1	points	18	3	0	
+160615_0935	1	points	18	4	10	
+160615_0935	1	points	18	5	0	
+160615_0935	1	points	18	6	0	
+160615_0935	1	points	18	7	10	
+160615_0935	1	points	18	8	0	
+160615_0935	1	points	18	9	10	
+160615_0935	1	points	18	10	0	
+160615_0935	1	points	18	11	10	
+160615_0935	1	points	18	12	0	
+160615_0935	1	points	18	13	0	
+160615_0935	1	points	18	14	20	
+160615_0935	1	points	18	15	20	
+160615_0935	1	points	18	16	20	
+160615_0935	1	points	18	17	10	
+160615_0935	1	points	18	18	0	
+160615_0935	1	points	19	1	20	
+160615_0935	1	points	19	2	20	
+160615_0935	1	points	19	3	20	
+160615_0935	1	points	19	4	20	
+160615_0935	1	points	19	5	20	
+160615_0935	1	points	19	6	20	
+160615_0935	1	points	19	7	20	
+160615_0935	1	points	19	8	20	
+160615_0935	1	points	19	9	20	
+160615_0935	1	points	19	10	20	
+160615_0935	1	points	19	11	20	
+160615_0935	1	points	19	12	20	
+160615_0935	1	points	19	13	20	
+160615_0935	1	points	19	14	20	
+160615_0935	1	points	19	15	20	
+160615_0935	1	points	19	16	20	
+160615_0935	1	points	19	17	20	
+160615_0935	1	points	19	18	20	
+160615_0935	1	points	20	1	10	
+160615_0935	1	points	20	2	0	
+160615_0935	1	points	20	3	10	
+160615_0935	1	points	20	4	20	
+160615_0935	1	points	20	5	20	
+160615_0935	1	points	20	6	20	
+160615_0935	1	points	20	7	0	
+160615_0935	1	points	20	8	10	
+160615_0935	1	points	20	9	20	
+160615_0935	1	points	20	10	20	
+160615_0935	1	points	20	11	0	
+160615_0935	1	points	20	12	20	
+160615_0935	1	points	20	13	10	
+160615_0935	1	points	20	14	20	
+160615_0935	1	points	20	15	10	
+160615_0935	1	points	20	16	20	
+160615_0935	1	points	20	17	20	
+160615_0935	1	points	20	18	10	
+160615_0935	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RndNum	Rank	GroupInformed	amountabstain	amountPolicyA	amountPolicyB	amountPolicyC	amountAll	RedA	GreenA	BlueA	RedB	GreenB	BlueB	RedC	GreenC	BlueC	selected[1]	selected[2]	selected[3]	points	exp_lying1	exp_lying2	show_question	TimeIchHabeDieInstruktionenGelesenUndVerstandenReadingInstructionsOK	TimeWeiterSetTypeInfoTypeOK	rnd	policy	GroupPlay	PlayerName	InfoStateGiven	TimeOKInfoStageOK	TimeWeiterInfoStageOK	TimeWeiterVotingProcedureOK	Tie	Resultmajority	noOne	ResultmajorityTemp	angleA	angleB	angleC	TimeWeiterVotingResultPlotPolicyImplementOK	TimeWeiterAuszahlungOK	emailaddress	TimeWeiterBeliefElicitationOK	ProfitEuro	FinalProfit	TimeWeiterLosOK	
+160615_0935	1	subjects	20	1	1	23.33333333333334	23.33333333333334	1	0.977047380980592	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	7	12	17	10	74	10	1	-	-	0.6565250552522601	2	2	"Blau  3"	0	25	0	28	0	2	0	0	0	240	120	26	28	"friedlhochhaeuser@gmail.com"	-26	13.33333333333333	23.33333333333334	-3	
+160615_0935	1	subjects	20	2	1	26.66666666666667	26.66666666666667	1	0.5004153873307702	2	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	16	17	7	0	999	4	0	-	-	0.9403940224742489	2	1	"Weiﬂ  2"	1	0	25	26	1	3	0	2	0	180	180	28	30	"lea.wandscher@web.de"	-4	16.66666666666667	26.66666666666667	9	
+160615_0935	1	subjects	20	3	1	16.66666666666667	16.66666666666667	1	0.9449688782659215	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	15	13	6	10	21	0	1	-	-	0.2166036247353086	3	2	"Blau  2"	0	29	0	27	0	2	0	0	0	240	120	25	29	"j_slowikow@hotmail.com"	-20	6.666666666666667	16.66666666666667	18	
+160615_0935	1	subjects	20	4	1	30	30	1	0.8489630826976909	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	6	10	20	999	2	0	-	-	0.2951403904217949	2	2	"Weiﬂ  3"	2	0	29	26	0	2	0	0	0	240	120	26	11	"quynh_mai192@yahoo.com"	-18	20	30	6	
+160615_0935	1	subjects	20	5	1	23.33333333333334	23.33333333333334	1	0.6846026427506482	2	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	5	15	1	20	63	0	1	-	-	0.3039183231554545	3	1	"Blau  2"	0	30	0	29	1	3	0	3	0	180	180	25	26	"jafred@web.de"	-10	13.33333333333333	23.33333333333334	12	
+160615_0935	1	subjects	20	6	1	23.33333333333334	23.33333333333334	1	0.1792202508911585	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	19	1	3	20	999	2	0	-	-	0.765590840841453	2	2	"Weiﬂ  1"	2	0	29	28	0	2	0	0	0	240	120	27	29	"livia.p.wittke@gmx.de"	-18	13.33333333333333	23.33333333333334	18	
+160615_0935	1	subjects	20	7	1	20	20	1	0.561836429667583	3	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	12	16	0	999	0	0	-	-	0.4888131644059034	2	1	"Weiﬂ  3"	2	0	28	29	1	3	0	3	0	180	180	25	29	"kevin.kao@hotmail.de"	-24	10	20	19	
+160615_0935	1	subjects	20	8	1	23.33333333333334	23.33333333333334	1	0.6190446403897575	3	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	13	11	10	28	0	1	-	-	0.1327641923598779	3	3	"Blau  3"	0	29	0	29	0	2	0	0	0	240	120	26	28	"tay.anastasia.l@googlemail.com"	-33	13.33333333333333	23.33333333333334	15	
+160615_0935	1	subjects	20	9	1	20	20	1	0.5975920411746912	3	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	16	5	20	999	0	0	-	-	0.8422547005313703	2	3	"Weiﬂ  3"	1	0	28	28	0	2	0	0	0	240	120	27	28	"Patrick.Mohr@studium.uni-hamburg.de"	-21	10	20	3	
+160615_0935	1	subjects	20	10	1	26.66666666666667	26.66666666666667	1	0.6261464937711817	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	4	3	8	20	999	2	0	-	-	0.7071012760079938	2	2	"Weiﬂ  2"	2	0	15	27	0	2	0	0	0	240	120	28	14	"thomasrost88@gmx.net"	-15	16.66666666666667	26.66666666666667	-10	
+160615_0935	1	subjects	20	11	1	30	30	1	0.01400384586956531	1	0	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	17	15	6	0	999	4	0	-	-	0.4747966385794788	2	1	"Weiﬂ  1"	2	0	29	29	1	3	0	2	0	180	180	24	26	"vivien.metelmann@gmail.com"	-24	20	30	24	
+160615_0935	1	subjects	20	12	1	16.66666666666667	16.66666666666667	1	0.2272905703761105	1	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	7	5	20	999	1	0	-	-	0.7795150637531257	2	3	"Weiﬂ  1"	2	0	29	25	0	2	0	0	0	240	120	26	25	"sharpmann@outlook.de"	-14	6.666666666666667	16.66666666666667	22	
+160615_0935	1	subjects	20	13	1	26.66666666666667	26.66666666666667	1	0.5134022759801719	2	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	14	10	11	10	84	3	1	-	-	0.3988088008010801	3	3	"Blau  2"	0	30	0	27	0	2	0	0	0	240	120	26	24	"jennifer_wegnerski@live.de"	-41	16.66666666666667	26.66666666666667	-13	
+160615_0935	1	subjects	20	14	1	26.66666666666667	26.66666666666667	1	0.2363316646014953	1	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	19	10	20	84	0	1	-	-	0.4581607703390349	3	1	"Blau  1"	0	30	0	26	1	3	0	3	0	180	180	25	19	"anastasia.izotova@web.de"	-24	16.66666666666667	26.66666666666667	22	
+160615_0935	1	subjects	20	15	1	26.66666666666667	26.66666666666667	1	0.01886189077927819	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	3	18	14	10	76	1	1	-	-	0.2285058816096307	2	3	"Blau  1"	0	30	0	27	0	2	0	0	0	240	120	28	27	"nazan-atac@hotmail.de"	-24	16.66666666666667	26.66666666666667	-3	
+160615_0935	1	subjects	20	16	1	30	30	1	0.8265019849997489	3	1	0	0	3	3	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	11	9	19	20	88	0	1	-	-	0.6903971888545888	3	1	"Blau  3"	0	29	0	28	1	3	0	3	0	180	180	22	28	"tthn96@yahoo.de"	-31	20	30	6	
+160615_0935	1	subjects	20	17	1	30	30	1	0.381998568019829	2	0	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	2	8	9	20	999	1	0	-	-	0.1036091573087541	2	3	"Weiﬂ  2"	2	0	27	27	0	2	0	0	0	240	120	28	26	"mariecarolin.siems@web.de"	-20	20	30	12	
+160615_0935	1	subjects	20	18	1	20	20	1	0.853646109278149	1	1	0	0	4	2	6	0.3700000000000001	0.6100000000000001	0.89	0.46	0.8200000000000001	0.36	0.76	0.22	0.25	20	13	3	10	56	5	1	-	-	0.5055530790731092	3	2	"Blau  1"	0	29	0	27	0	2	0	0	0	240	120	23	28	"dannyhahn89@web.de"	-26	10	20	9	
+160615_0935	1	summary	Period	
+160615_0935	1	summary	1	
+160615_0935	1	summary	2	
+160615_0935	1	summary	3	
+160615_0935	1	summary	4	
+160615_0935	1	summary	5	
+160615_0935	1	summary	6	
+160615_0935	1	summary	7	
+160615_0935	1	summary	8	
+160615_0935	1	summary	9	
+160615_0935	1	summary	10	
+160615_0935	1	summary	11	
+160615_0935	1	summary	12	
+160615_0935	1	summary	13	
+160615_0935	1	summary	14	
+160615_0935	1	summary	15	
+160615_0935	1	summary	16	
+160615_0935	1	summary	17	
+160615_0935	1	summary	18	
+160615_0935	1	summary	19	
+160615_0935	1	summary	20	
+160615_0935	1	contracts	Period	chat	PlayerName	GroupPlay		TimeInfoPayoffStructureChatMessage	
+160615_0935	1	contracts	20	"Y"	"Weiﬂ  2"	3	-	118	
+160615_0935	1	contracts	20	"Y"	"Weiﬂ  2"	2	-	118	
+160615_0935	1	contracts	20	"Y"	"Weiﬂ  1"	3	-	118	
+160615_0935	1	contracts	20	"X"	"Weiﬂ  2"	1	-	118	
+160615_0935	1	contracts	20	"x"	"Weiﬂ  3"	3	-	118	
+160615_0935	1	contracts	20	"X"	"Weiﬂ  1"	2	-	118	
+160615_0935	1	contracts	20	"hab Ypsilon :D"	"Weiﬂ  3"	1	-	115	
+160615_0935	1	contracts	20	"B"	"Weiﬂ  1"	3	-	114	
+160615_0935	1	contracts	20	"B"	"Weiﬂ  2"	3	-	110	
+160615_0935	1	contracts	20	"y"	"Weiﬂ  3"	2	-	107	
+160615_0935	1	contracts	20	"B"	"Weiﬂ  3"	3	-	103	
+160615_0935	1	contracts	20	"Y"	"Weiﬂ  1"	1	-	101	
+160615_0935	1	contracts	20	"Also?"	"Weiﬂ  1"	2	-	96	
+160615_0935	1	contracts	20	"Hmmmmm. Bin f¸r B"	"Weiﬂ  2"	2	-	92	
+160615_0935	1	contracts	20	"B"	"Weiﬂ  3"	2	-	91	
+160615_0935	1	contracts	20	"B?"	"Weiﬂ  1"	1	-	89	
+160615_0935	1	contracts	20	"ok dann B "	"Weiﬂ  3"	1	-	86	
+160615_0935	1	contracts	20	"Ich nehme sonst immer gerne die sichere variante A"	"Weiﬂ  1"	2	-	81	
+160615_0935	1	contracts	20	"is mir auch recht"	"Weiﬂ  2"	2	-	70	
+160615_0935	1	contracts	20	"Und hˆheres Risiko eingehen? Alles oder nichts :-D"	"Weiﬂ  1"	1	-	66	
+160615_0935	1	contracts	20	"blau ausnahmsweise auch mal? ^^"	"Weiﬂ  3"	1	-	64	
+160615_0935	1	contracts	20	"Bitte liebe Blauen, w‰hlt solidarisch auch B"	"Weiﬂ  1"	1	-	54	
+160615_0935	1	contracts	20	"Oder wieﬂt du"	"Weiﬂ  1"	2	-	49	
+160615_0935	1	contracts	20	"bitte ihr Blauen, lassen uns entweder etwas gewinnen oder auch zsm verlieren"	"Weiﬂ  3"	2	-	49	
+160615_0935	1	contracts	20	"Letzte runde"	"Weiﬂ  1"	2	-	46	
+160615_0935	1	contracts	20	"BBBBBBBBBBBBBBBBB - sonst bekommen wir keine Mehrheit"	"Weiﬂ  2"	1	-	44	
+160615_0935	1	contracts	20	"schade dass Blau nicht schreiben kann.."	"Weiﬂ  3"	1	-	43	
+160615_0935	1	contracts	20	"2 1 Risiko"	"Weiﬂ  1"	2	-	42	
+160615_0935	1	contracts	20	"liebe blaue t‰ubchen"	"Weiﬂ  2"	1	-	37	
+160615_0935	1	contracts	20	"B dann"	"Weiﬂ  1"	2	-	35	
+160615_0935	1	contracts	20	"Okay B"	"Weiﬂ  2"	2	-	27	
+160615_0935	1	contracts	20	"Weiﬂ 3?"	"Weiﬂ  1"	2	-	12	
+160615_0935	1	contracts	20	"B?"	"Weiﬂ  1"	2	-	10	
+160615_0935	1	contracts	20	"tsch¸ﬂ ecuh"	"Weiﬂ  3"	2	-	7	
+160615_0935	1	contracts	20	"Ok 1-2-3 Team Seid die Besten"	"Weiﬂ  2"	1	-	3	
+160615_0935	1	contracts	20	"Hoffentlich liegen wir richtig"	"Weiﬂ  1"	1	-	2	
+160615_0935	1	contracts	20	"Schˆnes leben"	"Weiﬂ  1"	2	-	0	
+160615_0935	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	
+160615_0935	1	session	1	23.33333333333334	0	0	0	23.33333333333334	23.33333333333334	
+160615_0935	1	session	2	26.66666666666667	0	0	0	26.66666666666667	26.66666666666667	
+160615_0935	1	session	3	16.66666666666667	0	0	0	16.66666666666667	16.66666666666667	
+160615_0935	1	session	4	30	0	0	0	30	30	
+160615_0935	1	session	5	23.33333333333334	0	0	0	23.33333333333334	23.33333333333334	
+160615_0935	1	session	6	23.33333333333334	0	0	0	23.33333333333334	23.33333333333334	
+160615_0935	1	session	7	20	0	0	0	20	20	
+160615_0935	1	session	8	23.33333333333334	0	0	0	23.33333333333334	23.33333333333334	
+160615_0935	1	session	9	20	0	0	0	20	20	
+160615_0935	1	session	10	26.66666666666667	0	0	0	26.66666666666667	26.66666666666667	
+160615_0935	1	session	11	30	0	0	0	30	30	
+160615_0935	1	session	12	16.66666666666667	0	0	0	16.66666666666667	16.66666666666667	
+160615_0935	1	session	13	26.66666666666667	0	0	0	26.66666666666667	26.66666666666667	
+160615_0935	1	session	14	26.66666666666667	0	0	0	26.66666666666667	26.66666666666667	
+160615_0935	1	session	15	26.66666666666667	0	0	0	26.66666666666667	26.66666666666667	
+160615_0935	1	session	16	30	0	0	0	30	30	
+160615_0935	1	session	17	30	0	0	0	30	30	
+160615_0935	1	session	18	20	0	0	0	20	20	

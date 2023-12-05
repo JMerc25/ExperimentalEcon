@@ -1,0 +1,480 @@
+Period	chat	PlayerName	GroupPlay	TimeInfoPayoffStructureChatMessage	Dimension1_C	Dimension2_C	Dimension3_C	Dimension4_C	Dimension5_C	Dimension6_C	Dimension7_C	Dimension8_C	Dimension9_C	Dimension10_C	Dimension1_H	Dimension2_H	Dimension3_H	Dimension4_H	Dimension5_H	Dimension6_H	Dimension7_H	Dimension8_H	Dimension9_H	Dimension10_H	lie_c	lie_h	lie	rep_maj_sig_Y
+1	es ist situation x also alternative a 	Weiﬂ  3	1	49	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+1	b	Weiﬂ  2	2	47	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+1	bei uns hieﬂ es 2x situation x	Weiﬂ  3	2	37	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+1	also b	Weiﬂ  2	2	36	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+1	also a	Weiﬂ  3	2	35	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+1	a	Weiﬂ  2	2	18	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+1	tendiere auch zu a	Weiﬂ  1	2	17	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+1	wir drei weiﬂen haben X  vorgeschlagen bekommen und nehmen alle A	Weiﬂ  2	3	41	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+1	Ja, dass  stimmt, A  	Weiﬂ  1	3	15	10	1	1	3	3	1	3	0	4	0	10	1	1	1	3	1	3	0	4	0	0	0	0	.
+1	genau	Weiﬂ  3	3	15	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+1	protifieren alle	Weiﬂ  3	3	3	3	1	1	3	3	1	2	0	3	0	3	4	1	3	9	4	2	0	4	0	0	0	0	.
+1	2 haben x, 1 hat y	Weiﬂ  3	4	52	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+1	also 2 wurde angzeigt das x vorliegtun dmir y 	Weiﬂ  2	4	49	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+1	was ist wahrscheinˆlicher?	Weiﬂ  2	4	43	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+1	X deutlich	Weiﬂ  3	4	38	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	0
+1	ok	Weiﬂ  2	4	36	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+1	also 	Weiﬂ  2	4	35	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+1	x a ?	Weiﬂ  2	4	29	10	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0	.
+1	von daher w‰re A eine win-win situation f¸r alle	Weiﬂ  1	4	23	3	1	1	3	3	1	2	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+1	jep	Weiﬂ  2	4	20	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+1	lass uns das machen :))	Weiﬂ  2	4	17	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+1	vor der auslosung ist die wahrscheinlichkeit, dass 2 leute ein richtiges und 1 ein falsches kriegt 44,5 prozent und dass 2 leute ein falsches und 1 das richtige kriegt 18%	Weiﬂ  3	4	9	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+1	es kann nat¸rlich sein, dass zweimal X mit einer wahrscheinlichkeit von 30 prozent angeziegt wurde 	Weiﬂ  1	4	1	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+2		Weiﬂ  2	1	60				3				1										1			0	0	0	.
+2	Es ist wieder Situation X	Weiﬂ  1	1	51	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+2	haben 2 mal x also f¸r a stimmen	Weiﬂ  2	1	46	1	4	1	3	9	4	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+2	wir haben 2x, 1y. vor der info w‰re die wahrscheinlichkeit, dass 2 richtige infos bekommen haben und 1 falsche 45% und dass 2 falsche info und 1 richtige info bei 18%	Weiﬂ  3	1	22	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+2	also wir hatten zwei mal x, einmal y	Weiﬂ  3	2	53	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+2	wir hatten zwei mal x und einmal y	Weiﬂ  1	2	53	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+2	also x is ganz sicher -> alternative a	Weiﬂ  1	2	39	10	1	1	3	3	1	3	0	4	0	8	1	1	3	8	2	3	0	4	0	0	0	0	0
+2	ich w¸rde trotzdem voschlagen, wir w‰hlen A	Weiﬂ  2	2	31	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+2	dann kˆnnen alle 6 20 punkte machen	Weiﬂ  3	2	17	3	1	1	3	3	1	2	0	3	0	8	4	1	3	9	4	2	0	4	0	0	0	0	.
+2	denn x ist am wahrscheinlichsten	Weiﬂ  3	2	9	10	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0	.
+2	 B	Weiﬂ  3	3	59	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+2	c	Weiﬂ  2	3	45	10	3	1	3	5	1	3	0	4	0	10	3	1	3	5	1	3	0	4	0	0	0	0	.
+2	b	Weiﬂ  1	3	14	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+2	B!	Weiﬂ  3	3	9	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+2	ja	Weiﬂ  1	3	3	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+2	jo x 	Weiﬂ  3	4	59	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+2	zwein von uns wurde x angezeigt	Weiﬂ  3	4	50	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+2	und das iost f¸r uns alle am besten 	Weiﬂ  3	4	44	3	4	1	3	9	4	2	0	3	0	3	4	1	3	9	4	3	0	4	0	0	0	0	.
+2	zwei wurden X angezeigt, einer person y. haben uns f¸r X entschieden	Weiﬂ  1	4	41	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+2	also x  und dann a :)	Weiﬂ  3	4	39	10	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0	0
+2	genau also alternative A 	Weiﬂ  2	4	29	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+2	tut mir voll leid das ihrnicht mitschreiben kˆnnt :P	Weiﬂ  3	4	12				3				1			10	4	3	3	9	4	3	0	3	0	0	0	0	.
+2	haha ja denke ich mir auch schon 	Weiﬂ  2	4	5				3				1			10	4	4	1	9	4	3	0	3	0	0	0	0	.
+2	die armen 	Weiﬂ  2	4	0				3				1			10	4	1	3	9	4	3	0	3	0	0	0	0	.
+3	also a?	Weiﬂ  2	1	56	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+3	Ok A!	Weiﬂ  1	1	51	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+3	gut	Weiﬂ  2	1	48	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+3	:P	Weiﬂ  2	1	46	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+3	nummer 3?	Weiﬂ  2	1	34	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0	.
+3	ok	Weiﬂ  3	1	31	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+3	AAAAAAAAAAAAAAA	Weiﬂ  1	1	26	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+3	l‰uft	Weiﬂ  2	1	26	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+3	:DD	Weiﬂ  2	1	14	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+3		Weiﬂ  1	1	5				3				1										1			0	0	0	.
+3	zwei wurden y angezeigt und einer person x	Weiﬂ  2	2	51	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+3	Wir nehmen a 	Weiﬂ  3	2	44	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+3	oder weiﬂ 1?	Weiﬂ  2	2	36	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0	.
+3	ich nehme auch A	Weiﬂ  2	2	29	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+3	ich w¸rde b nehmen.	Weiﬂ  1	2	11	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+3	sonst haben die blauen nix.	Weiﬂ  1	2	2	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	1	0	3	0	0	0	0	.
+3	wir hatten 2X, 1Y	Weiﬂ  1	3	37	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+3	am wahrscheinlichsten ist Situation X	Weiﬂ  1	3	25	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+3	A am besten	Weiﬂ  1	3	1	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+3	hey, wir haben alle 3 Y 	Weiﬂ  1	4	51	1	2	1	3	4	2	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+3	es ist y also w¸rden wir B w‰hlen	Weiﬂ  3	4	40	10	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+3	und werden sicherlich B abstimmen 	Weiﬂ  1	4	35	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+4	zweimal x, einmal y	Weiﬂ  1	1	53	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+4	2 von 3 haben X	Weiﬂ  2	1	53	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+4	also x sehr wahrscheinlich	Weiﬂ  1	1	46	1	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+4	alternative a	Weiﬂ  1	1	43	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+4	ja, er hat Recht 	Weiﬂ  2	1	25	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+4	Richtig	Weiﬂ  3	1	17	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+4	dann hhaben wir 20 P	Weiﬂ  2	1	9	3	4	1	3	9	4	2	0	3	0	8	4	1	3	9	4	2	0	4	0	0	0	0	.
+4	wir haben zweimal x und einmal y.	Weiﬂ  2	2	55	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+4	nehmen also A	Weiﬂ  2	2	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+4	also sry letztesmal vergessen zu sagen welcje alternative vorliegt 	Weiﬂ  3	2	49	10	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+4		Weiﬂ  3	2	49				3				1										1			0	0	0	.
+4	wir entscheiden uns f¸r x	Weiﬂ  3	2	44	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	0
+4	und a	Weiﬂ  3	2	43	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+4	jo	Weiﬂ  3	2	39	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+4	jop	Weiﬂ  1	2	33	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+4	enn ihr einverstanden seid tippt nichts :D	Weiﬂ  3	2	9	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+4	haha	Weiﬂ  2	2	1	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+4	A	Weiﬂ  2	3	55	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+4	haben 3 mal x also a	Weiﬂ  3	3	53	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+4	genau a	Weiﬂ  1	3	42	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+4	super!	Weiﬂ  2	3	42	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+4	aber wiso hat eine von uns gar nichts?	Weiﬂ  2	3	18	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0	.
+5	nehmen wir a	Weiﬂ  3	1	51	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+5	also was nun?	Weiﬂ  1	1	50	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+5	nein, b.	Weiﬂ  2	1	40	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+5	A passt mir	Weiﬂ  1	1	40	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+5	warum denn jetzt a?	Weiﬂ  2	1	32	3	4	1	3	9	4	1	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+5	Denkt mal auch an die blauen.	Weiﬂ  2	1	25	3	4	1	3	9	4	1	0	3	0	3	4	2	3	9	4	3	0	3	0	0	0	0	.
+5	weil ich Y habe	Weiﬂ  1	1	21	10	2	1	3	4	2	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+5	hmmm	Weiﬂ  1	1	11	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+5	gut dann b	Weiﬂ  3	1	9	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+5	ja, haben 2 mal y	Weiﬂ  2	1	8	1	2	1	3	4	2	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+5	f¸r die lauen	Weiﬂ  3	1	5	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	3	0	0	0	0	.
+5		Weiﬂ  2	2	60				3				1										1			0	0	0	.
+5	es lag 2 X, 1 Y vor	Weiﬂ  1	2	54	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+5	ich w‰hle A	Weiﬂ  1	2	45	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+5	ja	Weiﬂ  3	2	40	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+5	vor der wahl ist die wahrscheinlichkeit, dass 2 die richtige und 1 die falsche info erh‰lt 45%, dass 1 die richtige und 2 die falsche erhalten 18%	Weiﬂ  1	2	12	2	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	1	0	0	.
+5	stimmt nicht,, wir haben 3 mal Y, wir m¸ssen alle B w‰hlen , denn etweder bekommt ihr 10 Punkten, oder 0 	Weiﬂ  2	2	7	1	4	1	3	9	4	3	0	4	0	8	2	1	3	4	1	1	0	4	0	0	0	0	1
+5	macht also B	Weiﬂ  2	2	3	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+5	wir haben zweimal y und enimal x	Weiﬂ  1	3	52	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+5	also situation y ist wahrscheinlicher daher dachten wir kˆnnten alle von alternative B profitieren	Weiﬂ  2	3	43	10	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+5	genau	Weiﬂ  1	3	35	10	2	1	3	4	2	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+5	ja 	Weiﬂ  3	3	33	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+5	also w¸rden wir B nehmen	Weiﬂ  3	3	20	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+5	haben zweimal x, einmal y	Weiﬂ  1	4	50	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+5	Also X => Alt. A	Weiﬂ  3	4	38	10	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0	0
+5	also x am wahrscheinlichsten => a	Weiﬂ  1	4	36	10	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0	0
+6	Also ich habe X	Weiﬂ  3	1	50	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	A	Weiﬂ  1	1	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+6	und w¸rde A nehmen 	Weiﬂ  3	1	41	10	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	wir haben 2X, 1Y	Weiﬂ  2	1	41	1	4	1	3	9	4	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	0
+6	ich w‰hle A	Weiﬂ  2	1	38	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+6	ich habe Y	Weiﬂ  1	1	34	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	A	Weiﬂ  1	1	23	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+6	3 von uns w‰hlen A , 70%  2 von 3 	Weiﬂ  3	1	20	3	1	1	3	3	1	2	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+6	so haben wir dann alle 20 P 	Weiﬂ  3	1	13	3	1	1	3	3	1	2	0	3	0	3	4	1	3	9	4	2	0	4	0	0	0	0	.
+6	A passt perfekt 	Weiﬂ  1	1	11	3	1	1	3	3	1	2	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+6	macht Sinn	Weiﬂ  3	1	11	3	1	1	3	3	1	2	0	3	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+6	Supi!	Weiﬂ  1	1	1	3	1	1	3	3	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	1 mal X, 2 mal Y	Weiﬂ  1	2	46	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+6	wir hatten zweimal y und einmal x	Weiﬂ  2	2	44	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+6	daher dachten wir B sei f¸r blau und weiﬂ eine win-win-situatin	Weiﬂ  2	2	33	1	2	1	3	4	2	3	0	4	0	3	2	1	3	4	1	3	0	3	0	0	0	0	.
+6	*situation	Weiﬂ  2	2	29	1	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	wir haben zweimal y und einmal x und nehmen alle B	Weiﬂ  1	4	52	1	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+6	haben 2 mal y also b	Weiﬂ  3	4	52	1	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+6	wir nehmen b	Weiﬂ  2	4	46	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+6	bei B profitieren wir alle	Weiﬂ  1	4	38	3	2	1	3	4	1	2	0	3	0	3	2	1	3	4	1	3	0	4	0	0	0	0	.
+6	stimmt	Weiﬂ  2	4	31	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+6	richtig	Weiﬂ  3	4	24	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+6	total	Weiﬂ  2	4	17	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	einverstanden	Weiﬂ  1	4	16	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	sowas von	Weiﬂ  1	4	12	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	dito	Weiﬂ  3	4	9	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	auf jeden	Weiﬂ  2	4	9	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	haha	Weiﬂ  1	4	4	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+6	hih	Weiﬂ  2	4	1	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	wir haben zweimal y und einmal x	Weiﬂ  1	1	54	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+7	wir haben 2 Y 1 X	Weiﬂ  3	1	54	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+7	wir nehmen B, ne?	Weiﬂ  1	1	41	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+7	klar	Weiﬂ  2	1	36	10	2	1	3	4	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	gut!	Weiﬂ  1	1	31	10	2	1	3	4	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	wir stimmen mit B, ha 	Weiﬂ  3	1	31	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+7	ja	Weiﬂ  3	1	29	10	2	1	3	4	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	dann profitieren wir alle davon!	Weiﬂ  1	1	22	3	2	1	3	4	1	2	0	3	0	3	4	1	3	9	4	2	0	4	0	0	0	0	.
+7	ich finde, dass sollte blau auch machen	Weiﬂ  2	1	18	3	2	1	3	4	1	2	0	3	0	10	4	3	3	9	4	3	0	3	0	0	0	0	.
+7	jede Gruppe hat dann mindestens 10 Punkten 	Weiﬂ  3	1	4	3	2	1	3	4	1	2	0	3	0	8	4	1	3	9	4	1	0	4	0	0	0	0	.
+7	w‰re fair	Weiﬂ  3	1	1	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	f¸r die ehrlichkeit	Weiﬂ  2	1	1	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	ich hab x	Weiﬂ  1	2	54	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	.
+7	sowie eben	Weiﬂ  2	2	44	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	w‰hlen also wieder b 	Weiﬂ  2	2	39	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+7	jede runde eine neue konstellation	Weiﬂ  1	2	34	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	h‰?? hatte gerade y 	Weiﬂ  2	2	22	8	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	instruktionen 2 seite	Weiﬂ  1	2	12	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	und weiss 3 doch auch? 	Weiﬂ  2	2	11	8	4	1	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0	1
+7	unter rollenverteilung	Weiﬂ  1	2	8	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	?	Weiﬂ  2	2	2	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	b	Weiﬂ  2	2	1	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+7	kontrollfrage 2..	Weiﬂ  3	2	1	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	A	Weiﬂ  2	4	57	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+7	hallo?	Weiﬂ  2	4	21	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	A?	Weiﬂ  2	4	12	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+7	warum hallo?	Weiﬂ  3	4	9	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+7	ja 	Weiﬂ  3	4	8	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	haben zweimal x, einmal y	Weiﬂ  1	1	54	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+8	wir haben zweimal x und einmal y und nehmen A	Weiﬂ  3	1	51	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+8	also x wahrscheinlicher -> alternative a	Weiﬂ  1	1	44	10	1	1	3	3	1	3	0	4	0	8	1	1	3	8	2	3	0	4	0	0	0	0	0
+8	A	Weiﬂ  2	1	42	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+8	jo	Weiﬂ  1	1	41	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	2 mal Y	Weiﬂ  2	2	55	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+8	wir haben 2 Y 1 X	Weiﬂ  1	2	54	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+8	und nehmen B	Weiﬂ  1	2	47	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+8	Am besten nehmen wir alle B, dann hat jeder garantiert Punkte in der Runde	Weiﬂ  2	2	31	10	2	1	3	4	2	3	0	4	0	3	2	1	3	4	1	1	0	4	0	0	0	0	.
+8	es w‰re f¸r beide Gruppe profitabel dann 	Weiﬂ  1	2	30	3	2	1	3	4	1	2	0	3	0	3	4	1	3	9	4	1	0	4	0	0	0	0	.
+8	d'accord	Weiﬂ  3	2	21	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	Auch A	Weiﬂ  2	3	56	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+8	Alternative A	Weiﬂ  3	3	55	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+8	okay finde ich gut 	Weiﬂ  1	3	50	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+8	dann sind wir f¸r uns sicher	Weiﬂ  2	3	29	10	1	1	3	3	1	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0	.
+8	haben wir alle gleiche situation gehabt?	Weiﬂ  2	3	15	10	4	1	3	9	4	3	0	4	0	10	4	2	3	9	4	3	0	4	0	0	0	0	.
+8	oder noch nicht?	Weiﬂ  2	3	4	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	weiﬂ 2 du quatschkopf 	Weiﬂ  3	3	0	10	4	4	2	9	4	3	0	4	0	10	4	4	2	9	4	3	0	4	0	0	0	0	.
+8	wir nehmen a 	Weiﬂ  2	4	55	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+8	x und a	Weiﬂ  3	4	54	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	.
+8	haben 2 mal x also a	Weiﬂ  1	4	54	1	1	1	3	3	1	3	0	3	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+8	leute es ist scheisse wenn eine grupp eimmer 0 kriegt	Weiﬂ  3	4	36	3	4	1	3	9	4	3	0	3	0	3	4	1	2	9	4	1	0	4	0	0	0	0	.
+8	lass mal sozial sein	Weiﬂ  3	4	33	3	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	10 und 20 ist doch voll ok	Weiﬂ  3	4	29	3	4	1	3	9	4	3	0	3	0	8	4	1	3	9	4	1	0	4	0	0	0	0	.
+8	a ist doch f¸r beide 20?!	Weiﬂ  1	4	19	10	4	1	3	9	4	3	0	3	0	10	1	1	3	3	1	2	0	4	0	0	0	0	.
+8	genu	Weiﬂ  2	4	13	10	4	1	3	9	4	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	ja aber die letzten male	Weiﬂ  3	4	9	3	4	1	3	9	4	3	0	3	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	a	Weiﬂ  2	4	7	10	4	1	3	9	4	3	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+8	wir haben jetzt 2 mal 0 punkte	Weiﬂ  3	4	4	10	4	1	3	9	4	3	0	3	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+8	haben situation x	Weiﬂ  1	4	0	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+9	B	Weiﬂ  2	1	54	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+9	oder?	Weiﬂ  2	1	52	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	ist f¸r alle eine win-win-situation 	Weiﬂ  2	1	38	3	2	1	3	4	1	2	0	3	0	3	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	jo	Weiﬂ  3	1	23	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	k	Weiﬂ  1	1	19	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	wird wahrscheinlich y	Weiﬂ  3	1	16	1	2	1	3	4	1	2	0	3	0	8	4	1	3	9	4	3	0	4	0	0	0	0	1
+9	wissen es aber nich genau 	Weiﬂ  1	1	4	3	2	1	3	4	1	2	0	3	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	noch mal B?	Weiﬂ  3	2	45	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+9	oder A?	Weiﬂ  3	2	35	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+9	Also es ist wohl Y	Weiﬂ  1	2	27	3	2	1	3	4	1	2	0	3	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+9	Bin f¸r B	Weiﬂ  1	2	21	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+9	ok B	Weiﬂ  3	2	14	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+9	Dann hat jeder eine Auszahlung	Weiﬂ  1	2	14	3	2	1	3	4	1	2	0	3	0	8	4	1	3	9	4	2	0	4	0	0	0	0	.
+9	jap	Weiﬂ  2	2	11	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	B	Weiﬂ  2	2	10	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+9	x und a	Weiﬂ  1	3	58	1	1	1	3	3	1	3	0	3	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+9	2 mal x also a w‰hlen	Weiﬂ  2	3	56	1	1	1	3	3	1	3	0	3	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+9	wir haben 2 mal X und einmal Y	Weiﬂ  3	3	51	1	1	1	3	3	1	3	0	3	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+9	wahrscheinlich w‰re A	Weiﬂ  3	3	41	10	1	1	3	3	1	3	0	3	0	8	1	1	3	3	1	3	0	4	0	0	0	0	.
+9	jetzt haben wir das alle schˆn zusammengefasst :D	Weiﬂ  2	3	21	10	1	1	3	3	1	3	0	3	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+9	xD	Weiﬂ  3	3	11	10	1	1	3	3	1	3	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+9	wahrscheinlich ‰re x und a ist sicher wenn wir das alle nehnen	Weiﬂ  1	3	9	10	1	1	3	3	1	3	0	3	0	8	1	1	3	8	2	3	0	4	0	0	0	0	.
+9	also 2 Y 1 X und nehmen B 	Weiﬂ  3	4	55	1	2	1	3	4	2	3	0	3	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+9	wir weren b nehmen	Weiﬂ  2	4	52	10	2	1	3	4	2	3	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+9	zweimal y und einmal x, nehmen also Y und B	Weiﬂ  1	4	46	10	2	1	3	4	2	3	0	3	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+9	dann haben alle seine Punkte 	Weiﬂ  3	4	46	10	2	1	3	4	2	1	0	3	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+9	genau	Weiﬂ  1	4	40	10	2	1	3	4	2	3	0	3	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+9	stimmt	Weiﬂ  2	4	33	10	2	1	3	4	2	3	0	3	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+10	2 x also a w‰hlen	Weiﬂ  1	1	53	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+10	wir haben 2 mal X und 1 mal Y 	Weiﬂ  3	1	52	1	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+10	also w‰re A gut	Weiﬂ  3	1	46	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+10	X	Weiﬂ  2	1	43	10	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+10	A	Weiﬂ  2	1	36	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+10		Weiﬂ  3	2	60				3				1										1			0	0	0	.
+10	also 	Weiﬂ  3	2	57	2	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	1	0	1	.
+10	wir haben alle X 	Weiﬂ  3	2	36	2	1	1	3	3	1	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+10	und w‰hlen A	Weiﬂ  3	2	30	2	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	1	0	0	.
+10	jo	Weiﬂ  2	2	2	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+10	wir nehmen a	Weiﬂ  1	3	53	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+10	Hallo. Es ist wohl X. Also bitte A. Danke.	Weiﬂ  3	3	51	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+10	lol	Weiﬂ  2	3	27	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+10	xD	Weiﬂ  1	3	22	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+10	also x zweimal und y einmal	Weiﬂ  2	3	22	1	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+10	wir entscheiden uns f¸r x und f¸r a	Weiﬂ  2	3	15	10	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0	0
+10	wir haben zweimal y und einmal x und nehmen B.	Weiﬂ  1	4	42	10	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+10	jo	Weiﬂ  3	4	34	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+10	so profitieren wir alle davon	Weiﬂ  1	4	33	3	2	1	3	4	1	2	0	3	0	3	4	1	3	9	4	2	0	4	0	0	0	0	.
+10		Weiﬂ  2	4	20				3				1										1			0	0	0	.
+11	haben alle x	Weiﬂ  2	1	58	2	1	1	3	3	1	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+11	wir haen 3 mal x also Alternative A	Weiﬂ  1	1	52	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+11	also endlich mal wieder ne gute runde	Weiﬂ  2	1	49	2	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	1	0	1	.
+11	B	Weiﬂ  3	2	55	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+11	wir w‰hlen B 	Weiﬂ  2	2	44	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+11	oder	Weiﬂ  3	2	42	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	ja	Weiﬂ  1	2	33	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	wenn es doch x ist	Weiﬂ  3	2	29	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	dann A	Weiﬂ  3	2	23	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+11	he	Weiﬂ  2	2	19	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	was 	Weiﬂ  2	2	17	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	ich dachte B w‰re gekl‰rt	Weiﬂ  1	2	9	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+11	wir m¸sssen alle B w‰hlen	Weiﬂ  2	2	6	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+11	sonst 0 	Weiﬂ  2	2	4	10	2	1	3	4	1	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	Punkte 	Weiﬂ  2	2	2	10	2	1	3	4	1	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	wir nehmen x und a	Weiﬂ  3	3	50	2	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	1	0	1	0
+11	leute es war jetzt 6 mal x und 4 mal y 	Weiﬂ  1	3	47	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	ja 	Weiﬂ  1	3	45	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	anders herum	Weiﬂ  3	3	35	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	wahrscheinlicghekti ist hˆher dass das eintrifft 	Weiﬂ  1	3	34	7	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	sry dann andersherum :=	Weiﬂ  1	3	28	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	:)	Weiﬂ  1	3	26	7	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	habe mitgeschrieben	Weiﬂ  3	3	19	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	also x meinst du	Weiﬂ  2	3	15	10	4	1	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0	0
+11	jio	Weiﬂ  1	3	12	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	ja!	Weiﬂ  3	3	10	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	also a nehmen	Weiﬂ  2	3	7	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+11	a	Weiﬂ  2	3	5	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+11	jo	Weiﬂ  1	3	5	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	hah	Weiﬂ  3	3	4	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	haben 3 Y	Weiﬂ  2	4	55	1	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	0	1	0	1
+11	ich w‰hle B, dann geht keiner mit leeren h‰nden nach hause	Weiﬂ  2	4	45	10	2	1	3	4	2	3	0	4	0	3	2	1	3	4	1	1	0	4	0	0	0	0	.
+11	genau	Weiﬂ  3	4	36	10	2	1	3	4	2	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+11	richtig	Weiﬂ  1	4	36	10	2	1	3	4	2	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+11	und ich kann meinen kindern was zu essen auf den tisch stellen	Weiﬂ  2	4	19	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+11	ist das fairste	Weiﬂ  1	4	17	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+11	hahaha	Weiﬂ  1	4	3	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+12		Weiﬂ  2	1	60				3				1										1			0	0	0	.
+12	b	Weiﬂ  3	1	57	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+12	haben 3 Y	Weiﬂ  1	1	50	1	2	1	3	4	2	3	0	4	0	2	4	1	3	9	4	3	0	4	0	0	1	0	1
+12	wir haben Y und nehmen B 	Weiﬂ  2	1	44	1	2	1	3	4	2	3	0	4	0	10	2	1	3	8	2	3	0	4	0	0	0	0	1
+12	ja dreimal y	Weiﬂ  3	1	42	1	2	1	3	4	2	3	0	4	0	2	4	1	3	9	4	3	0	4	0	0	1	0	1
+12	ich w‰hle B, so kriegt wenigstens keiner 0	Weiﬂ  1	1	37	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	1	0	4	0	0	0	0	.
+12	so geht niemand mit leeren H‰nden nach Hause	Weiﬂ  2	1	34	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+12	kann sich jeder nen nachtisch in der mensa gˆnnen	Weiﬂ  1	1	4	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+12	sicher	Weiﬂ  3	1	2	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+12	zweimal x und einmal y, nehmen also a	Weiﬂ  2	3	59	1	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	0	1	0	0
+12	jo 	Weiﬂ  1	3	54	1	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+12	2 mal y also b	Weiﬂ  2	4	48	1	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+12	A	Weiﬂ  3	4	48	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+12	ok	Weiﬂ  3	4	41	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+12	b	Weiﬂ  3	4	40	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+12	1?	Weiﬂ  3	4	24	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0	.
+12	jo	Weiﬂ  1	4	19	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+12	wie 2 eben meinte, alle haben was oder keiner	Weiﬂ  1	4	9	10	4	4	3	9	4	3	0	4	0	10	4	4	3	9	4	1	0	4	0	0	0	0	.
+13	alle	Weiﬂ  1	1	60	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	haben 2 y	Weiﬂ  2	1	56	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+13	ich w‰hle b	Weiﬂ  2	1	49	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+13	wir haben 2Y und nehmen B da hat jeder was davon	Weiﬂ  1	1	39	1	2	1	3	4	2	1	0	4	0	1	2	1	3	4	1	1	0	4	0	0	0	0	1
+13	ZAHLTAG: haben 3X	Weiﬂ  3	2	56	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+13	hatten drei mal X	Weiﬂ  1	2	52	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+13	ich bin auf A	Weiﬂ  3	2	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+13	moinsen	Weiﬂ  2	3	58	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	wir haben alle X	Weiﬂ  1	3	55	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+13	also dreimal X deswegen w‰hlen wir A	Weiﬂ  2	3	50	10	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+13	udn w‰hle A	Weiﬂ  1	3	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+13	wir haben alle drei x erhalten. also nehmen wir a. in allen bisherigen 12 runden war es immer die situation mit den meisten buchstaben wurde es dann auch. Also solltet ihr blauen auch A machen	Weiﬂ  3	3	32	10	1	1	3	3	1	3	0	4	0	1	1	3	3	8	2	3	0	4	0	0	0	0	0
+13	macht f¸r uns alle Sinn	Weiﬂ  2	3	31	10	1	1	3	3	1	3	0	4	0	3	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	dann gibts 20 auf beiden Seiten	Weiﬂ  2	3	20	10	1	1	3	3	1	3	0	4	0	8	4	1	3	9	4	2	0	4	0	0	0	0	.
+13	ou	Weiﬂ  1	3	20	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	si si	Weiﬂ  3	3	13	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	2 mal x	Weiﬂ  3	4	57	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+13	ich habe Y	Weiﬂ  3	4	47	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	wir haben x und werden a w‰hlen	Weiﬂ  2	4	44	10	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	.
+13	A	Weiﬂ  3	4	38	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+13	gut	Weiﬂ  2	4	33	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+13	wabt ihr x?	Weiﬂ  3	4	7	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+14	a	Weiﬂ  2	1	56	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	3mal x nehmen a 	Weiﬂ  3	1	54	2	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	1	0	1	0
+14	A	Weiﬂ  1	1	50	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	vor der wahl ist die wahrscheinlichkeit bei 3 gleichen infos 45%, dass es stimmt und 18% dass es falsch ist	Weiﬂ  1	1	19	2	1	1	3	3	1	3	0	4	0	8	4	1	3	9	4	3	0	4	0	1	0	0	.
+14	a	Weiﬂ  2	2	56	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	dreimal x, also nehmen wir a	Weiﬂ  3	2	53	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+14	also wir haben alle drei x und deswegen w‰hlen wir a	Weiﬂ  1	2	47	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+14	A	Weiﬂ  3	3	59	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	a	Weiﬂ  2	3	58	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	wir haben 3x 	Weiﬂ  1	3	55	10	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+14	und nehmen A	Weiﬂ  1	3	52	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	genau	Weiﬂ  2	3	48	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+14		Weiﬂ  3	3	18				3				1										1			0	0	0	.
+14	A	Weiﬂ  3	3	13	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+14	hallo alle 3 haben X	Weiﬂ  3	4	57	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+14	sicherer zahltag, drei mal x	Weiﬂ  1	4	54	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+14	w‰hlen also A und 20 P	Weiﬂ  3	4	51	10	1	1	3	3	1	1	0	4	0	10	1	1	3	3	1	2	0	4	0	0	0	0	.
+15	alle 3 X	Weiﬂ  1	1	58	1	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+15	AAAAAAAAAA	Weiﬂ  3	1	57	1	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+15	haben 3X, w‰hlen A	Weiﬂ  2	1	56	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+15	also A	Weiﬂ  1	1	56	1	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+15	ich mˆchte essen	Weiﬂ  3	1	34				3				1										1			0	0	0	.
+15	hunger	Weiﬂ  3	1	31				3				1										1			0	0	0	.
+15	:)))	Weiﬂ  3	1	26				3				1										1			0	0	0	.
+15	wem sagst du das	Weiﬂ  2	1	25				3				1										1			0	0	0	.
+15	aber jetzt mit A sollte ein festmahl mˆglich sein	Weiﬂ  2	1	15	10	1	1	3	3	1	3	0	4	0								1			0	0	0	.
+15	dem Computer 	Weiﬂ  1	1	11	10	4	1	3	9	4	3	0	4	0								1			0	0	0	.
+15	machen hier den groﬂen reibach	Weiﬂ  2	1	10	10	4	1	3	9	4	2	0	4	0								1			0	0	0	.
+15	ooo	Weiﬂ  1	1	3	10	4	1	3	9	4	3	0	4	0								1			0	0	0	.
+15	wir haben 3x also A	Weiﬂ  1	2	54	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+15	jo	Weiﬂ  2	2	53	2	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	1	0	1	.
+15	wir haben dreimal x und nehmen a	Weiﬂ  3	2	52	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+15	haben 3 x und nehmen a	Weiﬂ  3	3	53	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+15	wir haben dreimal x	Weiﬂ  2	3	51	1	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+15	und w‰hlen a	Weiﬂ  2	3	46	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+15	w‰re schˆn, wenn wir kooperieren kˆnnten 	Weiﬂ  1	3	35	9	1	3	3	3	1	3	0	1	0	3	4	1	3	9	4	3	0	4	0	0	0	0	.
+15	stimme ich zu	Weiﬂ  2	3	25	10	4	1	3	9	4	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+15	sicherer zahltag, haben dreimal x	Weiﬂ  1	4	53	1	1	1	3	3	1	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+15	======================================================================================> A	Weiﬂ  3	4	33	10	1	1	3	3	1	3	0	4	0	10	1	1	3	8	2	3	0	4	0	0	0	0	.
+16	B	Weiﬂ  3	1	58	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+16	2 y	Weiﬂ  2	1	54	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+16	also b	Weiﬂ  2	1	50	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+16	haben alle was davon oder gehen alle leer aus	Weiﬂ  2	1	36	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+16	klingt fair, oder?	Weiﬂ  2	1	30	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+16	wenn 2 mal x ist dann	Weiﬂ  3	1	18	8	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	ist die runde ist X	Weiﬂ  3	1	10	8	4	1	3	9	4	3	0	4	0	7	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	ne 	Weiﬂ  1	1	7	8	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	B 	Weiﬂ  1	1	3	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+16	dannn bekommst du auch 20	Weiﬂ  3	1	3	8	2	1	3	4	1	2	0	3	0	8	4	4	3	9	4	2	0	4	0	0	0	0	.
+16	ahtten 2X	Weiﬂ  1	2	56	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+16	haben zweimal x, einmal y	Weiﬂ  3	2	54	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+16	also alle a	Weiﬂ  3	2	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+16	jop	Weiﬂ  2	2	41	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	hoffentlich ein weiterer zahltag :)	Weiﬂ  3	2	18	10	1	1	3	3	1	3	0	4	0	9	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	a	Weiﬂ  2	3	60	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+16	w‰hlen	Weiﬂ  2	3	54	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	Wir sollten A nehmen.	Weiﬂ  1	3	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+16	A ist eine gute Wahl	Weiﬂ  2	3	34	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+16	Mit A kann jeder zufrieden sein.	Weiﬂ  1	3	16	3	1	1	3	3	1	2	0	3	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+16	jo	Weiﬂ  3	3	15	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	jepp	Weiﬂ  2	3	0	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+16	haben 3x und nehmen A	Weiﬂ  3	4	54	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+17	B	Weiﬂ  1	1	60	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+17	Y	Weiﬂ  3	1	55	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+17	B ist f¸r alle da. 	Weiﬂ  3	1	46	3	2	1	3	4	1	2	0	3	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+17	Dann kann sich jeder die Taschen f¸llen.	Weiﬂ  3	1	34	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	2	0	4	0	0	0	0	.
+17	B	Weiﬂ  1	1	27	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+17	ja	Weiﬂ  2	1	24	10	2	1	3	4	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+17	dann guckt keiner in die rˆhre	Weiﬂ  2	1	19	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+17	und muss auf das Feierabendbierchen verzichten	Weiﬂ  2	1	7	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	1	0	4	0	0	0	0	.
+17	wir haben 3 mal x 	Weiﬂ  3	2	57	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+17	also a 	Weiﬂ  3	2	55	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+17	jop	Weiﬂ  1	2	41	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+17	genau a w‰hlen	Weiﬂ  2	2	39	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+17	ich muss	Weiﬂ  1	2	14				3				1										1			0	0	0	.
+17	haben 3x und nehmen A	Weiﬂ  3	3	57	2	1	1	3	3	1	3	0	4	0	2	1	1	3	3	1	3	0	4	0	1	1	1	0
+17	sicherer zahltag, hatten dreimal x	Weiﬂ  2	3	55	2	1	1	3	3	1	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+17	so sieht er aus	Weiﬂ  1	3	28	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+17	2 mal y und sind f¸r b	Weiﬂ  1	4	49	1	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+17	dann bekommen alle was oder nix	Weiﬂ  1	4	11	3	2	1	3	4	1	2	0	3	0	8	4	1	3	9	4	1	0	4	0	0	0	0	.
+18	3X, A	Weiﬂ  2	1	55	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+18	wir hatten 3 mal x	Weiﬂ  3	1	54	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+18	und wollten auf A gehen	Weiﬂ  3	1	46	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+18	sichere entscheidung	Weiﬂ  1	1	38	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+18	jop	Weiﬂ  3	1	23	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+18	wir w‰hlen A	Weiﬂ  3	2	53	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+18	A	Weiﬂ  2	2	49	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+18	wir haben 3mal x	Weiﬂ  3	2	39	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+18	ja	Weiﬂ  1	2	36	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+18	nein ich habe Y 	Weiﬂ  2	2	11	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+18	echt	Weiﬂ  3	2	3	10	4	1	3	9	4	3	0	4	0	10	4	4	3	9	4	3	0	4	0	0	0	0	.
+18	Aber trotzdem A	Weiﬂ  2	2	2	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+18	alle 3 x 	Weiﬂ  2	3	58	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+18	X	Weiﬂ  1	3	56	10	1	1	3	3	1	3	0	4	0	2	4	1	3	9	4	3	0	4	0	0	1	1	.
+18	wir haben alle 3 X und w‰hlen A	Weiﬂ  3	3	54	10	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	0	1	1	0
+18	jeder hat seine 20 P 	Weiﬂ  3	3	39	10	1	1	3	3	1	2	0	4	0	8	4	1	3	9	4	2	0	4	0	0	0	0	.
+18	x 	Weiﬂ  1	4	59	1	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	0	1	0	.
+18	und a	Weiﬂ  1	4	58	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+18	haben 3x und nehmen A	Weiﬂ  3	4	54	1	1	1	3	3	1	3	0	4	0	1	1	1	3	8	2	3	0	4	0	0	0	0	0
+18	jup	Weiﬂ  2	4	31	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	haben 2 y und nehmen b	Weiﬂ  1	1	50	1	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+19	wir w‰hlen b	Weiﬂ  2	1	50	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+19	und wir appellieren an eurer fairness: alle bekommen was oder alle gehen leer aus...	Weiﬂ  1	1	18	3	2	1	3	4	1	2	0	3	0	10	4	3	3	9	4	1	0	3	0	0	0	0	.
+19	jo	Weiﬂ  2	1	1	3	2	1	3	4	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	B?	Weiﬂ  1	2	51	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+19	wir haben zweimal y und einmal x	Weiﬂ  2	2	40	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+19	ja	Weiﬂ  1	2	35	1	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	B	Weiﬂ  1	2	28	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+19	bisher hat es immer gestimmt mit dem PC, dass er die mit den meisten gezeigten buchstaben nimmt	Weiﬂ  2	2	14	7	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	B	Weiﬂ  1	2	12	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+19	B	Weiﬂ  1	2	4	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+19	also wir d es bestimmt y	Weiﬂ  2	2	0	10	2	1	3	4	2	3	0	4	0	9	4	1	3	9	4	3	0	4	0	0	0	0	1
+19	wir haben 3 mal X 	Weiﬂ  2	3	46	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+19	und stimmen mit A ab 	Weiﬂ  2	3	31	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+19	jio	Weiﬂ  3	3	26	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	jo	Weiﬂ  3	3	25	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	jeder  bekommt 20 Punkten 	Weiﬂ  2	3	16	10	1	1	3	3	1	3	0	4	0	8	4	1	3	9	4	2	0	4	0	0	0	0	.
+19	fair 	Weiﬂ  2	3	11	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	hatten dreimal x, also sicheres a	Weiﬂ  3	4	52	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+19	jop	Weiﬂ  1	4	45	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	ist die beste lˆsung f¸r alle beteiligten denke ich 	Weiﬂ  2	4	29	3	1	1	3	3	1	2	0	3	0	3	4	1	3	9	4	3	0	4	0	0	0	0	.
+19	auf alle f‰lle :)	Weiﬂ  3	4	16	3	1	1	3	3	1	2	0	3	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	B	Weiﬂ  3	1	59	10	2	1	3	4	1	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+20	alle 3 haben X	Weiﬂ  1	1	56	2	4	1	3	9	4	3	0	4	0	2	4	1	3	9	4	3	0	4	0	1	1	1	0
+20	hatten dreimal x, also alle a	Weiﬂ  2	1	51	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+20	sicherer zahltag	Weiﬂ  2	1	36	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	Wir habe 2 mal Y und ein mal x	Weiﬂ  3	1	33	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	1
+20	he, wieso B, wir haben alle X doch 	Weiﬂ  1	1	31	2	4	1	3	9	4	3	0	4	1	2	1	4	3	8	2	3	0	4	0	1	1	1	.
+20	nein	Weiﬂ  3	1	21	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	doch 	Weiﬂ  1	1	19	10	4	1	3	9	4	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	wir haben 2 mal y und ein mal x	Weiﬂ  3	1	12	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	du hast es bestimmt verwechselt mit der letzen Runde	Weiﬂ  1	1	7	10	4	1	3	9	4	3	0	4	1	10	4	4	3	9	4	3	0	4	0	0	0	0	.
+20	wir hatt 3 X	Weiﬂ  1	1	3	2	4	1	3	9	4	3	0	4	1	2	4	1	3	9	4	3	0	4	0	1	1	1	.
+20	glaub mir	Weiﬂ  1	1	0	10	4	1	3	9	4	3	0	4	1	10	4	4	3	9	4	3	0	4	0	0	0	0	.
+20	aber f¸r blaue alle x	Weiﬂ  3	1	0	2	4	1	3	9	4	3	0	4	1	2	4	3	3	9	4	3	0	4	0	1	1	1	0
+20	 haben 3 y und w‰hlen b damit alle was davon haben	Weiﬂ  3	2	42	1	2	1	3	4	2	3	0	4	0	1	2	1	3	8	2	3	0	4	0	0	0	0	1
+20	jo	Weiﬂ  1	2	29	10	2	1	3	4	2	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	w‰hlt b	Weiﬂ  2	2	25	10	2	1	3	4	2	3	0	4	0	10	2	1	3	4	1	3	0	4	0	0	0	0	.
+20	haben 3 mal X und nehmen also A :)	Weiﬂ  1	3	47	2	1	1	3	3	1	3	0	4	0	2	1	1	3	8	2	3	0	4	0	1	1	1	0
+20	A	Weiﬂ  2	3	45	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+20		Weiﬂ  2	4	60				3				1										1			0	0	0	.
+20	2 mal x einmal y	Weiﬂ  2	4	53	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+20	2X, 1Y	Weiﬂ  1	4	53	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+20	wir haben zweimal x und einmal y.	Weiﬂ  3	4	51	1	4	1	3	9	4	3	0	4	0	1	4	1	3	9	4	3	0	4	0	0	0	0	0
+20	A	Weiﬂ  1	4	50	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+20	genau	Weiﬂ  2	4	45	10	1	1	3	3	1	3	0	4	0	10	4	1	1	9	4	3	0	4	0	0	0	0	.
+20	bisher hat der PC immer die situation ausgew‰hlt, die er am anfang am meisten ausgew‰hlt hat	Weiﬂ  3	4	32	8	4	1	3	9	4	3	0	4	0	8	4	1	3	9	4	3	0	4	0	0	0	0	.
+20	hoffen auf ITA heute abend, damit schland revanche nehmen kann :D	Weiﬂ  1	4	17				3				1										1			0	0	0	.
+20	also A	Weiﬂ  3	4	10	10	1	1	3	3	1	3	0	4	0	10	1	1	3	3	1	3	0	4	0	0	0	0	.
+20	oh ja	Weiﬂ  3	4	0	10	1	1	3	3	1	3	0	4	0	10	4	1	3	9	4	3	0	4	0	0	0	0	.
