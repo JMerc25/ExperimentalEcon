@@ -600,7 +600,7 @@ by alpha: signrank dissipation=eq_dissipation if lottery==1
 *******************
 ******TABLE 4******
 *******************
-
+do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
 
 *Period >10 & Period >30
 keep if contestperiod==1
@@ -633,11 +633,11 @@ by alpha: signrank x2hat=x12hat if lottery==1
 ****WITHIN SESSION TREATMENT (25 VS. 75) COMPARISONS****
 ********************************************************
 
-
+do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
 *Period >10 & Period >30
 keep if contestperiod==1
-drop if part==3 & Period<=10
-drop if part==4 & Period<=30
+*drop if part==3 & Period<=10
+*drop if part==4 & Period<=30
 
 ********************************************************
 ********FIRST CREATE PAIRED OBSERVATIONS DATASET********
@@ -759,8 +759,8 @@ est store E
 *reg x12 d75 inv f75 if Type==1  &  contest=="Lottery", vce(cluster subjectid)
 *est store F
 
-esttab A B D E using table.txt, se r2 keep(_cons d75 inv first20 _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01) 
-esttab A B D E using table.tex, se r2 keep(_cons d75 inv first20 _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01)
+esttab A B D E using table5.doc, se r2 keep(_cons d75 inv first20 _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01) 
+esttab A B D E using table5.doc, se r2 keep(_cons d75 inv first20 _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01)
 
 *******************
 ******TABLE 6******
