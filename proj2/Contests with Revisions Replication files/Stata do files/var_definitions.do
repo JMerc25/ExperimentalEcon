@@ -1,6 +1,7 @@
+clear
 
-
-
+*load dataset
+use "Contests with Revisions Replication files\Stata dataset to use for analysis\revisionscontestdata.dta"
 
 gen typea=1 if Type==1
 replace typea=0 if Type==2
