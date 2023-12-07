@@ -561,7 +561,15 @@ by alpha: signrank changehat=0 if lottery==1
 *******************
 ******TABLE 3******
 *******************
+
+*******************
+** Flexibility 1 **
+*******************
 do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
+
+******FLEXIBILITY*******
+
+do flexibility.do
 
 *Period >10 & Period >30
 keep if contestperiod==1
@@ -569,15 +577,17 @@ drop if Type==2
 *drop if part==3 & Period<=10
 *drop if part==4 & Period<=30
 
+gen flexibility = flexibility1
+
 sort contest alpha
-by contest alpha: sum x1hat x2hat x12hat changehat flexibility dissipation
+by contest alpha: sum x1hat x2hat x12hat changehat flexibility 
 
 ***********************************************
 ****WITHIN SESSION EQUILIBRIUM COMPARISONS*****
 ***********************************************
 
 sort contest lottery alpha sessionid
-collapse x1hat x2hat x12hat flexibility dissipation x1eq x2eq x12eq x12eq_expost changehat eq_flexibility eq_dissipation, by(contest lottery alpha sessionid)
+collapse x1hat x2hat x12hat flexibility x1eq x2eq x12eq x12eq_expost changehat eq_flexibility , by(contest lottery alpha sessionid)
 
 sort alpha
 *ALL PAY*
@@ -587,7 +597,7 @@ by alpha: signrank x12hat=x12eq if lottery==0
 by alpha: signrank x12hat=x12eq_expost if lottery==0
 by alpha: signrank changehat=1 if lottery==0
 by alpha: signrank flexibility=eq_flexibility if lottery==0
-by alpha: signrank dissipation=eq_dissipation if lottery==0
+
 *LOTTERY*
 by alpha: signrank x1hat=x1eq if lottery==1
 by alpha: signrank x2hat=x2eq if lottery==1
@@ -595,7 +605,101 @@ by alpha: signrank x12hat=x12eq if lottery==1
 by alpha: signrank x12hat=x12eq_expost if lottery==1
 by alpha: signrank changehat=0 if lottery==1
 by alpha: signrank flexibility=eq_flexibility if lottery==1
-by alpha: signrank dissipation=eq_dissipation if lottery==1
+
+
+
+*******************
+** Flexibility 2 **
+*******************
+do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
+
+******FLEXIBILITY*******
+
+do flexibility.do
+
+*Period >10 & Period >30
+keep if contestperiod==1
+drop if Type==2
+*drop if part==3 & Period<=10
+*drop if part==4 & Period<=30
+
+gen flexibility = flexibility2
+
+sort contest alpha
+by contest alpha: sum x1hat x2hat x12hat changehat flexibility 
+
+***********************************************
+****WITHIN SESSION EQUILIBRIUM COMPARISONS*****
+***********************************************
+
+sort contest lottery alpha sessionid
+collapse x1hat x2hat x12hat flexibility x1eq x2eq x12eq x12eq_expost changehat eq_flexibility, by(contest lottery alpha sessionid)
+
+sort alpha
+*ALL PAY*
+by alpha: signrank x1hat=x1eq if lottery==0
+by alpha: signrank x2hat=x2eq if lottery==0
+by alpha: signrank x12hat=x12eq if lottery==0
+by alpha: signrank x12hat=x12eq_expost if lottery==0
+by alpha: signrank changehat=1 if lottery==0
+by alpha: signrank flexibility=eq_flexibility if lottery==0
+
+*LOTTERY*
+by alpha: signrank x1hat=x1eq if lottery==1
+by alpha: signrank x2hat=x2eq if lottery==1
+by alpha: signrank x12hat=x12eq if lottery==1
+by alpha: signrank x12hat=x12eq_expost if lottery==1
+by alpha: signrank changehat=0 if lottery==1
+by alpha: signrank flexibility=eq_flexibility if lottery==1
+
+
+
+*******************
+** Flexibility 3 **
+*******************
+
+do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
+
+******FLEXIBILITY*******
+
+do flexibility.do
+
+*Period >10 & Period >30
+keep if contestperiod==1
+drop if Type==2
+*drop if part==3 & Period<=10
+*drop if part==4 & Period<=30
+
+gen flexibility = flexibility3
+
+sort contest alpha
+by contest alpha: sum x1hat x2hat x12hat changehat flexibility 
+
+***********************************************
+****WITHIN SESSION EQUILIBRIUM COMPARISONS*****
+***********************************************
+
+sort contest lottery alpha sessionid
+collapse x1hat x2hat x12hat flexibility x1eq x2eq x12eq x12eq_expost changehat eq_flexibility, by(contest lottery alpha sessionid)
+
+sort alpha
+*ALL PAY*
+by alpha: signrank x1hat=x1eq if lottery==0
+by alpha: signrank x2hat=x2eq if lottery==0
+by alpha: signrank x12hat=x12eq if lottery==0
+by alpha: signrank x12hat=x12eq_expost if lottery==0
+by alpha: signrank changehat=1 if lottery==0
+by alpha: signrank flexibility=eq_flexibility if lottery==0
+
+*LOTTERY*
+by alpha: signrank x1hat=x1eq if lottery==1
+by alpha: signrank x2hat=x2eq if lottery==1
+by alpha: signrank x12hat=x12eq if lottery==1
+by alpha: signrank x12hat=x12eq_expost if lottery==1
+by alpha: signrank changehat=0 if lottery==1
+by alpha: signrank flexibility=eq_flexibility if lottery==1
+
+
 
 *******************
 ******TABLE 4******
@@ -1152,9 +1256,9 @@ ranksum dissipation if alpha==0.75, by(contest)
 ****************************************
 *****************EXTENSION**************
 ****************************************
-*.do file that came with dataset
-do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
 
+*Adding detailed Risk Prefrences 
+do mergeriskpref.do
 
 *label changes
 label var xjow "Joy of winning"
