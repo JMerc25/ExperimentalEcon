@@ -1,5 +1,5 @@
 
-*expected payoff of 1 if B can win round 1
+*expected payoff of 1 relative to the optimal payoff in a one round all payer auction.
 gen flexibility1 = (Prize - x1hat)*(1-alpha) + (Prize-x12hat)*alpha if x1hat > x2hat
 replace flexibility1 = -x1hat*(1-alpha) + (Prize-x12hat)*alpha if x1hat < x2hat 
 

@@ -1,4 +1,5 @@
 clear all 
+
 /*desktop directory
 cd "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2"
 */
@@ -7,6 +8,9 @@ cd "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2"
 
 *school computer directory
 
+
+*start log
+log using Replication.log, replace
 *Start
 do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
 
@@ -795,7 +799,6 @@ merge 1:1 sessionid using "bid25_2.dta"
 drop _merge
 save bid25.dta, replace
 
-log using nonpara, replace
 
 ********************************/
 ********SECOND RUN TESTS********
@@ -902,6 +905,7 @@ rename x_sd_med x_med1
 rename x_med_sd x_sd1
 save cv_type1, replace
 clear
+
 use cv_tests
 keep if alpha==0.75
 rename x_med_sd x_sd2
@@ -916,7 +920,8 @@ by lottery Type: signrank x_med1=x_med2
 by lottery Type: signrank x_sd1=x_sd2
 
 *Compare Types*
-save cv_tests, replace
+clear
+use cv_tests
 
 keep if Type==1
 rename x_med_sd x_sd1
@@ -937,7 +942,8 @@ by lottery alpha: signrank x_med1=x_med2
 by lottery alpha: signrank x_sd1=x_sd2
 
 *Compare Contests*
-
+clear
+use cv_tests
 sort alpha Type lottery
 *H_s measure = SD of the median
 by alpha Type: ranksum x_sd_med, by(lottery)
@@ -1010,7 +1016,7 @@ re i(subjectid) vce(cluster sessionid)
 margins, dydx(*) post
 est store C
 *****************************************
-esttab A B C using table.tex, se r2 keep(adist1 adist1_sq ahead d75 inv f75 ///
+esttab A B C using table.tex, se r2 keep(adist1 adist1_sq ahead d75 inv ///
 RiskLineSwitchToB LossLineSwitchToB xjow female) ///
 replace f starlevels(* 0.1 ** 0.05 *** 0.01)
 ****************************************************************
@@ -1018,7 +1024,7 @@ replace f starlevels(* 0.1 ** 0.05 *** 0.01)
 *******************
 ******TABLE 8******
 *******************
-
+clear
 do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
 
 *keep if changehat==1
@@ -1083,182 +1089,21 @@ gen xbr75_rev=_b[x2hat]*x2hat+_b[sqrtx2hat]*sqrtx2hat
 *gen xbr75=_b[_cons]+_b[x2hat]*x2hat+_b[x2hatsq]*x2hatsq
 
 
-esttab A B C D using table.tex, ///
+esttab A B C D using table8.doc, ///
 se keep(x2hat sqrtx2hat inv _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01) stats(N r2)
-esttab A B C D using table.txt, ///
+esttab A B C D using table8.doc, ///
 se keep(x2hat sqrtx2hat inv _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01) stats(N r2)
 *se keep(x2hat  x2hatsq inv _cons) replace f starlevels(* 0.1 ** 0.05 *** 0.01) stats(N r2)
+log cl
 
-*******************
-******TABLE 9******
-*******************
-
-do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
-*Period >10 & Period >30
-keep if contestperiod==1
-
-sort contest alpha
-by contest alpha: sum won_contest1 if Type==1 & Round==1
-by contest alpha: sum won_contest2 if Type==1 & Round==2
-by contest alpha: sum Profit if Type==1
-by contest alpha: sum Profit if Type==2
-by contest alpha: sum flexibility if Type==1
-by contest alpha: sum dissipation if Type==1
-
-
-********************************************************
-********FIRST CREATE PAIRED OBSERVATIONS DATASET********
-********************************************************
-
-*******************
-****alpha=0.25*****
-*******************
-
-do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
-*Period >10 & Period >30
-keep if contestperiod==1
-
-keep if alpha==0.25
-
-sort contest alpha sessionid Type
-collapse Profit payoff1 eq_flexibility dissipation eq_dissipation probwin1 probwin12, by(contest alpha sessionid Type)
-save profit.dta, replace
-
-clear
-use profit.dta
-
-keep if Type==1
-gen profittype1=Profit
-gen profittype1_25=Profit
-gen profit1type1=payoff1
-gen diss_25=dissipation
-gen probwin1_25=probwin1
-gen probwin12_25=probwin12
-drop Profit payoff1
-sort sessionid
-save profit1.dta, replace
-
-clear
-use profit.dta
-
-keep if Type==2
-gen profittype2=Profit
-gen profit1type2=payoff1
-gen profittype2_25=Profit
-gen diss_25=dissipation
-drop Profit payoff1
-sort sessionid
-save profit2.dta, replace
-
-clear
-use profit1.dta
-merge 1:1 sessionid using "profit2.dta"
-drop _merge
-save profit25.dta, replace
-
-sort contest sessionid
-by contest: signrank profittype1=profittype2
-by contest: signrank profit1type1=profit1type2
-
-
-*******************
-****alpha=0.75*****
-*******************
-
-do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
-*Period >10 & Period >30
-keep if contestperiod==1
-
-keep if alpha==0.75
-
-sort contest alpha sessionid Type
-collapse Profit payoff1 eq_flexibility dissipation eq_dissipation probwin1 probwin12, by(contest alpha sessionid Type)
-save profit.dta, replace
-
-clear
-use profit.dta
-
-keep if Type==1
-gen profittype1=Profit
-gen profittype1_75=Profit
-gen profit1type1=payoff1
-gen probwin1_75=probwin1
-gen probwin12_75=probwin12
-gen diss_75=dissipation
-drop Profit payoff1
-sort sessionid
-save profit1.dta, replace
-
-clear
-use profit.dta
-
-keep if Type==2
-gen profittype2=Profit
-gen profittype2_75=Profit
-gen profit1type2=payoff1
-gen diss_75=dissipation
-drop Profit payoff1
-sort sessionid
-save profit2.dta, replace
-
-clear
-use profit1.dta
-merge 1:1 sessionid using "profit2.dta"
-drop _merge
-save profit75.dta, replace
-
-****CREATE AND USE DATASET WITH BOTH ALPHA'S****
-
-merge 1:1 sessionid using "profit25.dta"
-drop _merge
-save profit_alpha.dta, replace
-
-clear
-use profit_alpha.dta
-
-gen diff25=profittype1_25-profittype2_25
-gen diff75=profittype1_75-profittype2_75
-
-sort contest
-by contest: signrank diff25=diff75
-by contest: signrank diss_25=diss_75 if Type==1
-
-by contest: signrank probwin1_25=probwin1_75 if Type==1
-by contest: signrank probwin12_25=probwin12_75 if Type==1
-by contest: signrank profittype1_25=profittype1_75 if Type==1
-by contest: signrank profittype2_25=profittype2_75 if Type==1
-
-***or***
-append using profit25.dta
-save profit_all.dta, replace
-
-clear
-use profit_all.dta
-
-sort contest alpha sessionid
-by contest alpha: signrank profittype1=profittype2
-by contest alpha: signrank profit1type1=profit1type2
-
-gen obs_flexibility=profittype1-profittype2
-by contest alpha: sum obs_flexibility eq_flexibility 
-by contest alpha: signrank obs_flexibility=eq_flexibility
-by contest alpha: signrank dissipation=eq_dissipation
-sort contest
-ranksum obs_flexibility if alpha==0.25, by(contest)
-ranksum obs_flexibility if alpha==0.75, by(contest)
-ranksum dissipation if alpha==0.25, by(contest)
-ranksum dissipation if alpha==0.75, by(contest)
-
-
-
-
-
+log using Extension.log, replace
 ****************************************
 *****************EXTENSION**************
 ****************************************
-
 *Adding detailed Risk Prefrences 
 do mergeriskpref.do
+
+cd "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2"
 
 *label changes
 label var xjow "Joy of winning"
@@ -1279,9 +1124,6 @@ replace dalpha=1 if alpha==0.75
 gen first20=0
 replace first20=1 if part==3
 
-gen change=.
-replace change=0 if Type==1 & x12==.
-replace change=1 if Type==1 & x12~=.
 
 gen reduce=0
 replace reduce=1 if Type==1 & x12hat<x1hat
@@ -1316,6 +1158,54 @@ label var rationalrev "Revising is rational"
 label var changehat "Subject revised"
 label var irr_nochange "No change even though was rational"
 
-** Gender differences in risk preferences
+** Non-monotonic risk preferences
 
-gen felit= female * lottery
+gen nonmonr= 0
+replace nonmonr = 1 if RiskLine1>RiskLine2 | RiskLine2>RiskLine3 | RiskLine3>RiskLine4 | RiskLine4>RiskLine5 | RiskLine5>RiskLine6
+replace nonmonr = 1 if RiskLine6>RiskLine7 | RiskLine7>RiskLine8 | RiskLine8>RiskLine9 | RiskLine9>RiskLine10 | RiskLine10>RiskLine11
+replace nonmonr = 1 if RiskLine11>RiskLine12 | RiskLine12>RiskLine13 | RiskLine13>RiskLine14 | RiskLine14>RiskLine15 | RiskLine15>RiskLine16
+replace nonmonr = 1 if RiskLine16>RiskLine17 | RiskLine17>RiskLine18 | RiskLine18>RiskLine19 | RiskLine19>RiskLine20
+
+**Table 2     EXCLUDED
+keep if Type ==2
+
+reg x1hat nonmonr if lottery == 0
+outreg2 using Table2.doc, replace ctitle(x1hat)
+reg x2hat nonmonr if lottery == 0
+outreg2 using Table2.doc, append ctitle(x2hat)
+reg x12hat nonmonr if lottery == 0
+outreg2 using Table2.doc, append ctitle(x12hat)
+
+
+
+reg x1hat nonmonr if lottery == 1
+outreg2 using Table2.doc, append ctitle(x1hat)
+reg x2hat nonmonr if lottery == 1
+outreg2 using Table2.doc, append ctitle(x2hat)
+reg x12hat nonmonr if lottery == 1
+outreg2 using Table2.doc, append ctitle(x12hat)
+
+
+gen Risklott = RiskLineSwitchToB*lottery
+
+
+**** Table 3 ***
+
+
+drop if nonmonr==1
+
+reg x2hat RiskLineSwitchToB if alpha==0.25 , robust
+outreg2 using Table3.doc, replace  addtext(Subject RE, NO) 
+reg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.25 , robust
+outreg2 using Table3.doc, append  addtext(Subject RE, NO) 
+xtreg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.25,  i(subjectid) robust
+outreg2 using Table3.doc, append  addtext(Subject RE, YES) 
+
+reg x2hat RiskLineSwitchToB if alpha==0.75 , robust
+outreg2 using Table3.doc, append  addtext(Subject RE, NO) 
+reg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.75 , robust
+outreg2 using Table3.doc, append  addtext(Subject RE, NO) 
+xtreg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.75,  i(subjectid) robust
+outreg2 using Table3.doc, append  addtext(Subject RE, YES) 
+
+log cl

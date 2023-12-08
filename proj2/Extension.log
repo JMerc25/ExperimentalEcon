@@ -1,0 +1,1426 @@
+-------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Extension.log
+  log type:  text
+ opened on:   8 Dec 2023, 07:38:25
+
+. ****************************************
+. *****************EXTENSION**************
+. ****************************************
+. *Adding detailed Risk Prefrences 
+. do mergeriskpref.do
+
+. clear
+
+. *session 1
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session1_Lottery_75_25_Friday_04_08
+> _11_30.dta"
+
+. 
+. drop if RiskLine1==. 
+(672 observations deleted)
+
+. drop if LossLine1==. 
+(16 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session1.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session1.dta saved
+
+. 
+. *session2
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session2_AllPay_75_25_Friday_04_08_
+> 4_30.dta" 
+
+. 
+. drop if RiskLine1==. 
+(1,008 observations deleted)
+
+. drop if LossLine1==. 
+(24 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session2.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session2.dta saved
+
+. 
+. *session3
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session3_AllPay_75_25_Saturday_04_0
+> 9_11_00.dta" 
+
+. 
+. drop if RiskLine1==. 
+(336 observations deleted)
+
+. drop if LossLine1==. 
+(8 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session3.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session3.dta saved
+
+. 
+. *session4
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session4_Lottery_25_75_Saturday_04_
+> 09_1_15.dta" 
+
+. 
+. drop if RiskLine1==. 
+(672 observations deleted)
+
+. drop if LossLine1==. 
+(16 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session4.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session4.dta saved
+
+. 
+. *session5
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session5_Lottery_25_75_Saturday_04_
+> 09_3_30.dta" 
+
+. 
+. 
+. drop if RiskLine1==. 
+(672 observations deleted)
+
+. drop if LossLine1==. 
+(16 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session5.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session5.dta saved
+
+. 
+. *session6
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session6_Lottery_75_25_Sunday_04_10
+> _11_30.dta"  
+
+. 
+. drop if RiskLine1==. 
+(672 observations deleted)
+
+. drop if LossLine1==. 
+(16 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session6.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session6.dta saved
+
+. 
+. *session7
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session7_AllPay_25_75_Sunday_04_10_
+> 1_45.dta" 
+
+. 
+. drop if RiskLine1==. 
+(672 observations deleted)
+
+. drop if LossLine1==. 
+(16 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session7.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session7.dta saved
+
+. 
+. *session8
+. use "Contests with Revisions Replication files\Semi Cleaned Up Datasets\Session8_AllPay_25_75_Sunday_04_10_
+> 4_00.dta"  
+
+. 
+. drop if RiskLine1==. 
+(672 observations deleted)
+
+. drop if LossLine1==. 
+(16 observations deleted)
+
+. drop treatment Group Profit TotalProfit Participate Period
+
+. 
+. save "Contests with Revisions Replication files\RiskPrefdtas\Session8.dta", replace
+file Contests with Revisions Replication files\RiskPrefdtas\Session8.dta saved
+
+. 
+. **Merging with main Ds
+. 
+. *.do file that came with dataset
+. do "Contests with Revisions Replication files\Stata do files\var_definitions.do"
+
+. clear
+
+. 
+. *load dataset
+. use "Contests with Revisions Replication files\Stata dataset to use for analysis\revisionscontestdata.dta"
+
+. 
+. gen typea=1 if Type==1
+(2,936 missing values generated)
+
+. replace typea=0 if Type==2
+(2,680 real changes made)
+
+. 
+. drop if alpha==.
+(384 observations deleted)
+
+. 
+. 
+. *format payoff1 payoff2 x x1hat x2hat x12hat %9.2f
+. 
+. *Create contest treatment variables
+. gen lottery=1
+
+. replace lottery=0 if sessionid>8
+(2,560 real changes made)
+
+. gen contest="Lottery" if lottery==1
+(2,560 missing values generated)
+
+. replace contest="All Pay Auction" if lottery==0
+variable contest was str7 now str15
+(2,560 real changes made)
+
+. 
+. *Periods 1-20 and 21-40
+. gen contestperiod=0
+
+. replace contestperiod=1 if part==3
+(2,560 real changes made)
+
+. replace contestperiod=1 if part==4
+(2,560 real changes made)
+
+. 
+. *Sessionid 1-4 = Lottery 25-75
+. *Sessionid 5-8 = Lottery 75-25
+. *Sessionid 9-12 =  All pay 25-75 
+. *Sessionid 13-16 =  All pay 75-25
+. 
+. label var x1hat "Type A - Round 1"
+
+. label var x2hat "Type B - Round 1"
+
+. label var x12hat "Type A - Round 2"
+
+. label var xjow "Investment for reward of $0"
+
+. 
+. *Code "guesses" as missing for Type A players?
+. replace x12guess=. if x12guess==-1
+(3,421 real changes made, 3,421 to missing)
+
+. 
+. 
+. *****Variables related to best responses
+. gen br1=10*sqrt(x2hat)-x2hat if lottery==1 & x2hat>0
+(2,826 missing values generated)
+
+. replace br1=0.01 if lottery==1 & x2hat==0
+(266 real changes made)
+
+. gen br2=10*sqrt(x1hat)-x1hat if lottery==1 & x1hat>0
+(2,754 missing values generated)
+
+. replace br2=0.01 if lottery==1 & x1hat==0
+(194 real changes made)
+
+. gen notunique=runiform()
+
+. replace br1=x2hat+0.01 if lottery==0 & x2hat<=99.98 
+(2,246 real changes made)
+
+. replace br1=x2hat+0.01 if lottery==0 & x2hat>99.98 & x2hat<100 & notunique<=0.5
+(5 real changes made)
+
+. replace br1=0 if lottery==0 & x2hat>99.98 & x2hat<100 & notunique>0.5 
+(5 real changes made)
+
+. replace br1=0 if lottery==0 & x2hat==100
+(304 real changes made)
+
+. gen diff_br_1=abs(x1hat-br1)
+
+. gen diff_br_2=abs(x12hat-br1)
+
+. 
+. gen match2=1 if x12hat==x2hat
+(4,906 missing values generated)
+
+. replace match2=0 if x12hat~=x2hat
+(4,906 real changes made)
+
+. 
+. gen x12guesshat=.
+(5,120 missing values generated)
+
+. replace x12guesshat=x12guess if x12guess~=.
+(1,699 real changes made)
+
+. replace x12guesshat=x1hat if Type==2 & x12guess==.
+(861 real changes made)
+
+. 
+. gen absdev=abs(x12guesshat-x12hat)
+(2,560 missing values generated)
+
+. 
+. *Generate equilibrium predictions
+. gen x1eq=Prize/4 if lottery==1
+(2,560 missing values generated)
+
+. replace x1eq=(1-alpha)*(Prize/2) if lottery==0
+(2,560 real changes made)
+
+. gen x2eq=Prize/4 if lottery==1
+(2,560 missing values generated)
+
+. replace x2eq=((1-alpha)^2)*(Prize/2) if lottery==0
+(2,560 real changes made)
+
+. gen x12eq=Prize/4 if lottery==1
+(2,560 missing values generated)
+
+. replace x12eq=((1-alpha)^2)*(Prize/2) if lottery==0
+(2,560 real changes made)
+
+. 
+. gen x12eq_expost=br1
+
+. 
+. *Generate order dummies (f75=1 if the session was a 75-25 and 0 if a 25-75
+. gen f25=1
+
+. *replace f25=0 if sessionid>=5
+. *replace f25=1 if sessionid>=9
+. *replace f25=0 if sessionid>=13
+. replace f25=0 if Period>20 & alpha==0.25
+(1,280 real changes made)
+
+. 
+. gen f75=1 if f25==0
+(3,840 missing values generated)
+
+. replace f75=0 if f25==1
+(3,840 real changes made)
+
+. 
+. gen order="75-25" if f75==1
+(3,840 missing values generated)
+
+. replace order="25-75" if f75==0
+(3,840 real changes made)
+
+. 
+. *Rescale period number
+. gen periodt=Period
+
+. replace periodt=Period-20 if Period>20
+(2,560 real changes made)
+
+. 
+. gen inv=1/periodt
+
+. 
+. *Define trand variable
+. 
+. *Generate A's winning probability in round 1
+. gen probwin1=0
+
+. replace probwin1=1 if lottery==0 & x1hat>x2hat
+(1,364 real changes made)
+
+. replace probwin1=0.5 if lottery==0 & x1hat==x2hat
+(110 real changes made)
+
+. replace probwin1=x1hat/(x1hat+x2hat) if x1hat+x2hat>0 & lottery==1
+(2,366 real changes made)
+
+. replace probwin1=0.5 if x1hat+x2hat==0 & lottery==1
+(22 real changes made)
+
+. 
+. 
+. *Dummy for alpha
+. gen d75=0
+
+. replace d75=1 if alpha==0.75
+(2,560 real changes made)
+
+. 
+. *****Creates a dummy variable for subjects who switched only once on both RISK and LOSS 
+. gen validriskloss=1
+
+. replace validriskloss=0 if RiskLineSwitchToB==-1
+(480 real changes made)
+
+. replace validriskloss=0 if LossLineSwitchToB==-1
+(240 real changes made)
+
+. sum validriskloss if part==5
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+validriskl~s |          0
+
+. 
+. ***Variable that measures the distance to the best response**
+. *In Round 1
+. gen dist1=x1hat-br1
+
+. gen adist1=abs(x1hat-br1)
+
+. gen adist1_sq=(x1hat-br1)^2
+
+. gen dist2=x2hat-br2
+(2,560 missing values generated)
+
+. *In Round 2
+. gen dist12=x12hat-br1
+
+. *Interaction with treatment
+. gen distinter=dist12*lottery
+
+. 
+. 
+. *Investing the value of the prize
+. gen x1100=0
+
+. replace x1100=1 if x1hat==100
+(296 real changes made)
+
+. gen x2100=0
+
+. replace x2100=1 if x2hat==100
+(570 real changes made)
+
+. gen x12100=0
+
+. replace x12100=1 if x12hat==100
+(366 real changes made)
+
+. 
+. 
+. *Investing zero
+. gen x10=0
+
+. replace x10=1 if x1hat==0
+(484 real changes made)
+
+. gen x20=0
+
+. replace x20=1 if x2hat==0
+(864 real changes made)
+
+. gen x120=0
+
+. replace x120=1 if x12hat==0
+(470 real changes made)
+
+. 
+. *Upper bound
+. gen ub=(1-alpha)*100
+
+. replace ub=25 if contest=="Lottery"
+(1,280 real changes made)
+
+. 
+. 
+. *Dummy for >0 joy of winning
+. gen joyful=1
+
+. replace joyful=0 if xjow==0
+(3,080 real changes made)
+
+. 
+. *Create some alternative risk and loss aversion measures based on choices
+. gen risksafechoices=20-RiskLineSwitchToB
+
+. gen losssafechoices=20-LossLineSwitchToB 
+
+. 
+. gen riskaverse=0 
+
+. replace riskaverse=1 if RiskLineSwitchToB<10 & risksafechoices~=.
+(1,520 real changes made)
+
+. replace riskaverse=. if risksafechoices==-1
+(0 real changes made)
+
+. 
+. gen riskneutral=0 
+
+. replace riskneutral=1 if RiskLineSwitchToB>=10 & RiskLineSwitchToB<=11
+(2,040 real changes made)
+
+. replace riskneutral=. if risksafechoices==-1
+(0 real changes made)
+
+. 
+. gen riskloving=0 
+
+. replace riskloving=1 if RiskLineSwitchToB>11
+(1,560 real changes made)
+
+. replace riskloving=. if risksafechoices==-1
+(0 real changes made)
+
+. 
+. gen risk=. if validriskloss==.
+(5,120 missing values generated)
+
+. replace risk=0.25-2.5 if RiskLineSwitchToB==1
+(0 real changes made)
+
+. replace risk=0.5-2.5 if RiskLineSwitchToB==2
+(0 real changes made)
+
+. replace risk=0.75-2.5 if RiskLineSwitchToB==3
+(0 real changes made)
+
+. replace risk=1-2.5 if RiskLineSwitchToB==4
+(80 real changes made)
+
+. replace risk=1.25-2.5 if RiskLineSwitchToB==5
+(80 real changes made)
+
+. replace risk=1.5-2.5 if RiskLineSwitchToB==6
+(0 real changes made)
+
+. replace risk=1.75-2.5 if RiskLineSwitchToB==7
+(80 real changes made)
+
+. replace risk=2-2.5 if RiskLineSwitchToB==8
+(480 real changes made)
+
+. replace risk=2.25-2.5 if RiskLineSwitchToB==9
+(320 real changes made)
+
+. replace risk=2.5-2.5 if RiskLineSwitchToB==10
+(960 real changes made)
+
+. replace risk=2.75-2.5 if RiskLineSwitchToB==11
+(1,080 real changes made)
+
+. replace risk=3-2.5 if RiskLineSwitchToB==12
+(960 real changes made)
+
+. replace risk=3.25-2.5 if RiskLineSwitchToB==13
+(160 real changes made)
+
+. replace risk=3.5-2.5 if RiskLineSwitchToB==14
+(120 real changes made)
+
+. replace risk=3.75-2.5 if RiskLineSwitchToB==15
+(120 real changes made)
+
+. replace risk=4-2.5 if RiskLineSwitchToB==16
+(200 real changes made)
+
+. replace risk=4.25-2.5 if RiskLineSwitchToB==17
+(0 real changes made)
+
+. replace risk=4.5-2.5 if RiskLineSwitchToB==18
+(0 real changes made)
+
+. replace risk=4.75-2.5 if RiskLineSwitchToB==19
+(0 real changes made)
+
+. replace risk=5-2.5 if RiskLineSwitchToB==20
+(0 real changes made)
+
+. 
+. *lambda =slope in the domain of losses
+. *Use 0.5(5)+0.5*lambda*(y)=0
+. *=> lambda=(2.5/(0.5*-y))
+. *loss=lambda
+. gen loss=.  if validriskloss==.
+(5,120 missing values generated)
+
+. replace loss=5/0.5 if LossLineSwitchToB==1
+(0 real changes made)
+
+. replace loss=5/1 if LossLineSwitchToB==2
+(0 real changes made)
+
+. replace loss=5/1.5 if LossLineSwitchToB==3
+(80 real changes made)
+
+. replace loss=5/2 if LossLineSwitchToB==4
+(120 real changes made)
+
+. replace loss=5/2.5 if LossLineSwitchToB==5
+(560 real changes made)
+
+. replace loss=5/3 if LossLineSwitchToB==6
+(600 real changes made)
+
+. replace loss=5/3.5 if LossLineSwitchToB==7
+(560 real changes made)
+
+. replace loss=5/4 if LossLineSwitchToB==8
+(200 real changes made)
+
+. replace loss=5/4.5 if LossLineSwitchToB==9
+(480 real changes made)
+
+. replace loss=5/5 if LossLineSwitchToB==10
+(480 real changes made)
+
+. replace loss=5/5.5 if LossLineSwitchToB==11
+(760 real changes made)
+
+. replace loss=5/6 if LossLineSwitchToB==12
+(160 real changes made)
+
+. replace loss=5/6.5 if LossLineSwitchToB==13
+(360 real changes made)
+
+. replace loss=5/7 if LossLineSwitchToB==14
+(0 real changes made)
+
+. replace loss=5/7.5 if LossLineSwitchToB==15
+(80 real changes made)
+
+. replace loss=5/8 if LossLineSwitchToB==16
+(120 real changes made)
+
+. replace loss=5/8.5 if LossLineSwitchToB==17
+(40 real changes made)
+
+. replace loss=5/9 if LossLineSwitchToB==18
+(0 real changes made)
+
+. replace loss=5/9.5 if LossLineSwitchToB==19
+(0 real changes made)
+
+. replace loss=5/10 if LossLineSwitchToB==20
+(0 real changes made)
+
+. 
+. *Loss aversion
+. gen lossaverse=.
+(5,120 missing values generated)
+
+. replace lossaverse=1 if LossLineSwitchToB<10
+(3,120 real changes made)
+
+. replace lossaverse=0 if LossLineSwitchToB>=10
+(2,000 real changes made)
+
+. replace lossaverse=. if LossLineSwitchToB==.
+(0 real changes made)
+
+. 
+. 
+. *gender dummy
+. gen female=1 if gender==2
+(2,960 missing values generated)
+
+. replace female=0 if gender==1
+(2,960 real changes made)
+
+. 
+. *1 = "Business Administration"; 2 = "Economics"; 3 = "Social Sciences"; 
+. *4 = "Humanities"; 5 = "Natural Sciences"; *6 = "Math / Statistics"; 
+. *7 = "Engineering / Computer Science"; 8 = "Other";
+. gen engineer=1 if major==7
+(3,200 missing values generated)
+
+. replace engineer=0 if major~=7
+(3,200 real changes made)
+
+. gen economics=0
+
+. replace economics=1 if major==2
+(320 real changes made)
+
+. *1 = "White"; 2 = "African-American"; 3 = "Hispanic"; 4 = "Asian";
+. *5 = "American Indian"; 6 = "Pacific Islander";
+. gen asian=1 if race==4
+(2,560 missing values generated)
+
+. replace asian=0 if race~=4
+(2,560 real changes made)
+
+. *1  = "Freshman"; 2 = "Sophomore"; 3 = "Junior"; 
+. *4 = "Senior"; 5 = "Graduate Student";
+. gen graduate=1 if class==5
+(4,920 missing values generated)
+
+. replace graduate=0 if class~=5
+(4,920 real changes made)
+
+. 
+. *REGRET variables*
+. 
+. sort contest
+
+. by contest: egen medreg1=median(regret1)
+
+. by contest: egen medreg2=median(regret2)
+
+. by contest: egen medreg3=median(regret3)
+
+. by contest: egen medreg4=median(regret4)
+
+. 
+. by contest: egen medhapp1=median(happiness1)
+
+. by contest: egen medhapp2=median(happiness2)
+
+. by contest: egen medhapp3=median(happiness3)
+
+. by contest: egen medhapp4=median(happiness4)
+
+. 
+. *Dummies
+. *3.5=mid point of the scale"
+. gen dreg1=0
+
+. replace dreg1=1 if regret1>3
+(960 real changes made)
+
+. gen dreg2=0
+
+. replace dreg2=1 if regret2>3
+(880 real changes made)
+
+. gen dreg3=0
+
+. replace dreg3=1 if regret3>3
+(1,960 real changes made)
+
+. gen dreg4=0
+
+. replace dreg4=1 if regret4>3
+(2,040 real changes made)
+
+. 
+. gen dhapp1=0
+
+. replace dhapp1=1 if happiness1>3
+(4,200 real changes made)
+
+. gen dhapp2=0
+
+. replace dhapp2=1 if happiness2>3
+(3,760 real changes made)
+
+. gen dhapp3=0
+
+. replace dhapp3=1 if happiness3>3
+(840 real changes made)
+
+. gen dhapp4=0
+
+. replace dhapp4=1 if happiness4>3
+(800 real changes made)
+
+. 
+. gen denvy1=0
+
+. replace denvy1=1 if envy1>3
+(680 real changes made)
+
+. gen denvy2=0
+
+. replace denvy2=1 if envy2>3
+(520 real changes made)
+
+. gen denvy3=0
+
+. replace denvy3=1 if envy3>3
+(2,160 real changes made)
+
+. gen denvy4=0
+
+. replace denvy4=1 if envy4>3
+(1,840 real changes made)
+
+. 
+. gen block_x2=5
+
+. replace block_x2=4 if x2hat<80
+(4,042 real changes made)
+
+. replace block_x2=3 if x2hat<60
+(3,344 real changes made)
+
+. replace block_x2=2 if x2hat<40
+(2,656 real changes made)
+
+. replace block_x2=1 if x2hat<20
+(1,924 real changes made)
+
+. 
+. 
+. gen won_contest1=0
+
+. replace won_contest1=1 if payoff1==200-x
+(2,336 real changes made)
+
+. replace won_contest1=1 if payoff1>100 & x>0
+(224 real changes made)
+
+. replace won_contest1=1 if x>otherx & Type==1 & lottery==0
+(0 real changes made)
+
+. replace won_contest1=1 if x<otherx & Type==2 & lottery==0
+(682 real changes made)
+
+. 
+. gen won_contest2=0
+
+. replace won_contest2=1 if payoff2==200-x12hat & Type==1
+(971 real changes made)
+
+. replace won_contest2=1 if payoff2==200-x2hat & Type==2
+(879 real changes made)
+
+. replace won_contest2=1 if payoff2>100 & x12hat>0 & Type==1
+(660 real changes made)
+
+. replace won_contest2=1 if payoff2>100 & x2hat>0 & Type==2
+(50 real changes made)
+
+. replace won_contest2=1 if x12>otherx & Type==1 & lottery==0
+(247 real changes made)
+
+. replace won_contest2=1 if x12<otherx & Type==2 & lottery==0
+(0 real changes made)
+
+. 
+. 
+. gen payoff_round1=0
+
+. replace payoff_round1=200-x1hat if x1hat>x2hat & Type==1 & lottery==0
+(682 real changes made)
+
+. replace payoff_round1=200-x1hat if x1hat==x2hat & win>=0.5 & Type==1 & lottery==0
+(33 real changes made)
+
+. replace payoff_round1=200-x2hat if x1hat<x2hat & Type==2 & lottery==0
+(543 real changes made)
+
+. replace payoff_round1=200-x2hat if x1hat==x2hat & win<0.5 &  Type==2 & lottery==0
+(22 real changes made)
+
+. replace payoff_round1=100-x1hat if x1hat<x2hat & Type==1 & lottery==0
+(543 real changes made)
+
+. replace payoff_round1=100-x1hat if x1hat==x2hat & win<0.5 & Type==1 & lottery==0
+(19 real changes made)
+
+. replace payoff_round1=100-x2hat if x1hat>x2hat & Type==2 & lottery==0
+(682 real changes made)
+
+. replace payoff_round1=100-x2hat if x1hat==x2hat & win>=0.5 &  Type==2 & lottery==0
+(28 real changes made)
+
+. replace payoff_round1=payoff1 if lottery==1
+(2,517 real changes made)
+
+. 
+. 
+. gen payoff_round2=0
+
+. replace payoff_round2=200-x12hat if x1hat>x2hat & Type==1 & lottery==0
+(682 real changes made)
+
+. replace payoff_round2=200-x12hat if x1hat==x2hat & win>=0.5 & Type==1 & lottery==0
+(33 real changes made)
+
+. replace payoff_round2=200-x2hat if x1hat<x2hat & Type==2 & lottery==0
+(543 real changes made)
+
+. replace payoff_round2=200-x2hat if x1hat==x2hat & win<0.5 &  Type==2 & lottery==0
+(22 real changes made)
+
+. replace payoff_round2=100-x12hat if x1hat<x2hat & Type==1 & lottery==0
+(496 real changes made)
+
+. replace payoff_round2=100-x12hat if x1hat==x2hat & win<0.5 & Type==1 & lottery==0
+(21 real changes made)
+
+. replace payoff_round2=100-x2hat if x1hat>x2hat & Type==2 & lottery==0
+(682 real changes made)
+
+. replace payoff_round2=100-x2hat if x1hat==x2hat & win>=0.5 &  Type==2 & lottery==0
+(28 real changes made)
+
+. replace payoff_round2=payoff2 if lottery==1
+(2,502 real changes made)
+
+. 
+. ***Equilibrium flexibility***
+. gen eq_flexibility=0
+
+. replace eq_flexibility=36.72 if alpha==0.25 & lottery==0
+(1,280 real changes made)
+
+. replace eq_flexibility=91.41 if alpha==0.75 & lottery==0
+(1,280 real changes made)
+
+. 
+end of do-file
+
+. 
+. cd "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Contests with Revisions Replication fil
+> es\RiskPrefdtas"
+C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Contests with Revisions Replication files\Ris
+> kPrefdtas
+
+. 
+. merge m:1 session Subject using Session1.dta
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,480
+        from master                     4,480  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               640  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session2.dta
+(variable TimeOKProfitIfTwoStagesOK was byte, now float to accommodate using data's values)
+(variable EarningsPayingPeriod2 was int, now float to accommodate using data's values)
+(variable TotalEarnings34 was int, now float to accommodate using data's values)
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,160
+        from master                     4,160  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               960  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session3.dta
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,800
+        from master                     4,800  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               320  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session4.dta
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,480
+        from master                     4,480  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               640  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session5.dta
+(variable TimeOKRiskAversionScreenOK was byte, now int to accommodate using data's values)
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,480
+        from master                     4,480  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               640  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session6.dta
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,480
+        from master                     4,480  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               640  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session7.dta
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,480
+        from master                     4,480  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               640  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. merge m:1 session Subject using Session8.dta
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                         4,480
+        from master                     4,480  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                               640  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. 
+. 
+. 
+. 
+end of do-file
+
+. 
+. cd "C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2"
+C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2
+
+. 
+. *label changes
+. label var xjow "Joy of winning"
+
+. label var alpha "$\alpha$"
+
+. label var risk "Risk aversion"
+
+. label var loss "Loss aversion"
+
+. *label var LossLineSwitchToB "Loss aversion"
+. label var inv "$1/Period$"
+
+. 
+. *generate sd,median variables
+. gen x_sd=x
+
+. gen x_med=x
+
+. 
+. *alpha .75 dummy variable 
+. gen dalpha=0
+
+. replace dalpha=1 if alpha==0.75
+(2,560 real changes made)
+
+. 
+. gen first20=0
+
+. replace first20=1 if part==3
+(2,560 real changes made)
+
+. 
+. 
+. gen reduce=0
+
+. replace reduce=1 if Type==1 & x12hat<x1hat
+(1,065 real changes made)
+
+. 
+. gen raise=0
+
+. replace raise=1 if Type==1 & x12hat>x1hat
+(965 real changes made)
+
+. 
+. gen rationalrev=0
+
+. replace rationalrev=1 if x1hat~=br1
+(4,998 real changes made)
+
+. *replace rationalrev=1 if x2hat & lottery==1
+. 
+. gen overbid=1
+
+. replace overbid=0 if x1hat<=br1  
+(1,541 real changes made)
+
+. 
+. gen underbid=0
+
+. replace underbid=1 if x1hat<br1 
+(1,419 real changes made)
+
+. 
+. gen ahead=0
+
+. replace ahead=1 if x1hat>x2hat
+(2,544 real changes made)
+
+. 
+. gen onedisttoother=x1hat-x2hat
+
+. gen twodisttoother=x12hat-x2hat
+
+. 
+. gen irr_nochange=0 
+
+. replace irr_nochange=1 if changehat==0 & rationalrev==1
+(956 real changes made)
+
+. 
+. gen irr_rev_dec=0
+
+. replace irr_rev_dec=1 if irr_nochange==1
+(956 real changes made)
+
+. replace irr_rev_dec=1 if changehat==1 & x1hat==br1
+(18 real changes made)
+
+. 
+. label var rationalrev "Revising is rational"
+
+. label var changehat "Subject revised"
+
+. label var irr_nochange "No change even though was rational"
+
+. 
+. ** Non-monotonic risk preferences
+. 
+. gen nonmonr= 0
+
+. replace nonmonr = 1 if RiskLine1>RiskLine2 | RiskLine2>RiskLine3 | RiskLine3>RiskLine4 | RiskLine4>RiskLine
+> 5 | RiskLine5>RiskLine6
+(0 real changes made)
+
+. replace nonmonr = 1 if RiskLine6>RiskLine7 | RiskLine7>RiskLine8 | RiskLine8>RiskLine9 | RiskLine9>RiskLine
+> 10 | RiskLine10>RiskLine11
+(40 real changes made)
+
+. replace nonmonr = 1 if RiskLine11>RiskLine12 | RiskLine12>RiskLine13 | RiskLine13>RiskLine14 | RiskLine14>R
+> iskLine15 | RiskLine15>RiskLine16
+(40 real changes made)
+
+. replace nonmonr = 1 if RiskLine16>RiskLine17 | RiskLine17>RiskLine18 | RiskLine18>RiskLine19 | RiskLine19>R
+> iskLine20
+(0 real changes made)
+
+. 
+. **Table 2     EXCLUDED
+. keep if Type ==2
+(2,560 observations deleted)
+
+. 
+. reg x1hat nonmonr if lottery == 0
+note: nonmonr omitted because of collinearity.
+
+      Source |       SS           df       MS      Number of obs   =     1,280
+-------------+----------------------------------   F(0, 1279)      =      0.00
+       Model |           0         0           .   Prob > F        =         .
+    Residual |  1307062.15     1,279  1021.94069   R-squared       =    0.0000
+-------------+----------------------------------   Adj R-squared   =    0.0000
+       Total |  1307062.15     1,279  1021.94069   Root MSE        =    31.968
+
+------------------------------------------------------------------------------
+       x1hat | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     nonmonr |          0  (omitted)
+       _cons |   36.71491   .8935274    41.09   0.000     34.96197    38.46785
+------------------------------------------------------------------------------
+
+. outreg2 using Table2.doc, replace ctitle(x1hat)
+Table2.doc
+dir : seeout
+
+. reg x2hat nonmonr if lottery == 0
+note: nonmonr omitted because of collinearity.
+
+      Source |       SS           df       MS      Number of obs   =     1,280
+-------------+----------------------------------   F(0, 1279)      =      0.00
+       Model |           0         0           .   Prob > F        =         .
+    Residual |  1776929.64     1,279  1389.31168   R-squared       =    0.0000
+-------------+----------------------------------   Adj R-squared   =    0.0000
+       Total |  1776929.64     1,279  1389.31168   Root MSE        =    37.273
+
+------------------------------------------------------------------------------
+       x2hat | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     nonmonr |          0  (omitted)
+       _cons |   36.21762   1.041825    34.76   0.000     34.17375     38.2615
+------------------------------------------------------------------------------
+
+. outreg2 using Table2.doc, append ctitle(x2hat)
+Table2.doc
+dir : seeout
+
+. reg x12hat nonmonr if lottery == 0
+note: nonmonr omitted because of collinearity.
+
+      Source |       SS           df       MS      Number of obs   =     1,280
+-------------+----------------------------------   F(0, 1279)      =      0.00
+       Model |           0         0           .   Prob > F        =         .
+    Residual |  1500173.37     1,279  1172.92679   R-squared       =    0.0000
+-------------+----------------------------------   Adj R-squared   =    0.0000
+       Total |  1500173.37     1,279  1172.92679   Root MSE        =    34.248
+
+------------------------------------------------------------------------------
+      x12hat | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     nonmonr |          0  (omitted)
+       _cons |   32.45077   .9572612    33.90   0.000     30.57279    34.32874
+------------------------------------------------------------------------------
+
+. outreg2 using Table2.doc, append ctitle(x12hat)
+Table2.doc
+dir : seeout
+
+. 
+. 
+. 
+. reg x1hat nonmonr if lottery == 1
+
+      Source |       SS           df       MS      Number of obs   =     1,280
+-------------+----------------------------------   F(1, 1278)      =      0.25
+       Model |   261.62115         1   261.62115   Prob > F        =    0.6176
+    Residual |  1340392.52     1,278  1048.82044   R-squared       =    0.0002
+-------------+----------------------------------   Adj R-squared   =   -0.0006
+       Total |  1340654.14     1,279  1048.20496   Root MSE        =    32.385
+
+------------------------------------------------------------------------------
+       x1hat | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     nonmonr |   2.537794    5.08125     0.50   0.618    -7.430714     12.5063
+       _cons |   43.15268   .9204289    46.88   0.000     41.34696     44.9584
+------------------------------------------------------------------------------
+
+. outreg2 using Table2.doc, append ctitle(x1hat)
+Table2.doc
+dir : seeout
+
+. reg x2hat nonmonr if lottery == 1
+
+      Source |       SS           df       MS      Number of obs   =     1,280
+-------------+----------------------------------   F(1, 1278)      =      5.47
+       Model |  6512.79552         1  6512.79552   Prob > F        =    0.0196
+    Residual |  1523017.59     1,278  1191.71955   R-squared       =    0.0043
+-------------+----------------------------------   Adj R-squared   =    0.0035
+       Total |  1529530.38     1,279  1195.87989   Root MSE        =    34.521
+
+------------------------------------------------------------------------------
+       x2hat | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     nonmonr |   12.66204   5.416354     2.34   0.020     2.036119    23.28796
+       _cons |   44.71034   .9811303    45.57   0.000     42.78554    46.63514
+------------------------------------------------------------------------------
+
+. outreg2 using Table2.doc, append ctitle(x2hat)
+Table2.doc
+dir : seeout
+
+. reg x12hat nonmonr if lottery == 1
+
+      Source |       SS           df       MS      Number of obs   =     1,280
+-------------+----------------------------------   F(1, 1278)      =      1.20
+       Model |  1462.87035         1  1462.87035   Prob > F        =    0.2745
+    Residual |  1564018.95     1,278    1223.802   R-squared       =    0.0009
+-------------+----------------------------------   Adj R-squared   =    0.0002
+       Total |  1565481.82     1,279  1223.98891   Root MSE        =    34.983
+
+------------------------------------------------------------------------------
+      x12hat | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     nonmonr |   -6.00099   5.488777    -1.09   0.274    -16.76899    4.767013
+       _cons |   44.19218   .9942492    44.45   0.000     42.24164    46.14272
+------------------------------------------------------------------------------
+
+. outreg2 using Table2.doc, append ctitle(x12hat)
+Table2.doc
+dir : seeout
+
+. 
+. 
+. gen Risklott = RiskLineSwitchToB*lottery
+
+. 
+. 
+. **** Table 3 ***
+. 
+. 
+. drop if nonmonr==1
+(42 observations deleted)
+
+. 
+. reg x2hat RiskLineSwitchToB if alpha==0.25 , robust
+
+Linear regression                               Number of obs     =      1,253
+                                                F(1, 1251)        =       0.60
+                                                Prob > F          =     0.4375
+                                                R-squared         =     0.0005
+                                                Root MSE          =     34.819
+
+-----------------------------------------------------------------------------------
+                  |               Robust
+            x2hat | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+RiskLineSwitchToB |  -.2038202   .2624489    -0.78   0.438    -.7187088    .3110683
+            _cons |   44.45417   2.764911    16.08   0.000      39.0298    49.87855
+-----------------------------------------------------------------------------------
+
+. outreg2 using Table3.doc, replace  addtext(Subject RE, NO) 
+Table3.doc
+dir : seeout
+
+. reg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.25 , robust
+
+Linear regression                               Number of obs     =      1,253
+                                                F(3, 1249)        =       2.25
+                                                Prob > F          =     0.0809
+                                                R-squared         =     0.0055
+                                                Root MSE          =      34.76
+
+-----------------------------------------------------------------------------------
+                  |               Robust
+            x2hat | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+RiskLineSwitchToB |   .3219279   .3729486     0.86   0.388    -.4097469    1.053603
+          lottery |    12.1291   5.463755     2.22   0.027     1.409948    22.84825
+         Risklott |  -.8562261   .5189698    -1.65   0.099    -1.874375    .1619227
+            _cons |   37.25637   4.069314     9.16   0.000     29.27293    45.23982
+-----------------------------------------------------------------------------------
+
+. outreg2 using Table3.doc, append  addtext(Subject RE, NO) 
+Table3.doc
+dir : seeout
+
+. xtreg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.25,  i(subjectid) robust
+
+Random-effects GLS regression                   Number of obs     =      1,253
+Group variable: subjectid                       Number of groups  =        126
+
+R-squared:                                      Obs per group:
+     Within  = 0.0000                                         min =          4
+     Between = 0.0090                                         avg =        9.9
+     Overall = 0.0052                                         max =         15
+
+                                                Wald chi2(3)      =       0.97
+corr(u_i, X) = 0 (assumed)                      Prob > chi2       =     0.8079
+
+                                 (Std. err. adjusted for 126 clusters in subjectid)
+-----------------------------------------------------------------------------------
+                  |               Robust
+            x2hat | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+RiskLineSwitchToB |   .5034049   .8555426     0.59   0.556    -1.173428    2.180238
+          lottery |   12.52335   13.68955     0.91   0.360    -14.30767    39.35437
+         Risklott |  -.9656557   1.292503    -0.75   0.455    -3.498915    1.567604
+            _cons |   35.40094   9.403585     3.76   0.000     16.97025    53.83163
+------------------+----------------------------------------------------------------
+          sigma_u |  23.749987
+          sigma_e |  25.766571
+              rho |  .45934198   (fraction of variance due to u_i)
+-----------------------------------------------------------------------------------
+
+. outreg2 using Table3.doc, append  addtext(Subject RE, YES) 
+Table3.doc
+dir : seeout
+
+. 
+. reg x2hat RiskLineSwitchToB if alpha==0.75 , robust
+
+Linear regression                               Number of obs     =      1,265
+                                                F(1, 1263)        =       0.02
+                                                Prob > F          =     0.8750
+                                                R-squared         =     0.0000
+                                                Root MSE          =     37.107
+
+-----------------------------------------------------------------------------------
+                  |               Robust
+            x2hat | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+RiskLineSwitchToB |   -.044896   .2854522    -0.16   0.875    -.6049087    .5151166
+            _cons |   38.79294    3.00001    12.93   0.000     32.90739    44.67849
+-----------------------------------------------------------------------------------
+
+. outreg2 using Table3.doc, append  addtext(Subject RE, NO) 
+Table3.doc
+dir : seeout
+
+. reg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.75 , robust
+
+Linear regression                               Number of obs     =      1,265
+                                                F(3, 1261)        =      16.14
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.0349
+                                                Root MSE          =     36.483
+
+-----------------------------------------------------------------------------------
+                  |               Robust
+            x2hat | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+RiskLineSwitchToB |   .8120705   .4087387     1.99   0.047     .0101876    1.613953
+          lottery |    25.5196   5.756568     4.43   0.000     14.22609     36.8131
+         Risklott |   -1.22823   .5481163    -2.24   0.025    -2.303551   -.1529098
+            _cons |   23.46183   4.345201     5.40   0.000     14.93721    31.98645
+-----------------------------------------------------------------------------------
+
+. outreg2 using Table3.doc, append  addtext(Subject RE, NO) 
+Table3.doc
+dir : seeout
+
+. xtreg x2hat RiskLineSwitchToB lottery Risklott if alpha==0.75,  i(subjectid) robust
+
+Random-effects GLS regression                   Number of obs     =      1,265
+Group variable: subjectid                       Number of groups  =        126
+
+R-squared:                                      Obs per group:
+     Within  = 0.0000                                         min =          3
+     Between = 0.0740                                         avg =       10.0
+     Overall = 0.0347                                         max =         17
+
+                                                Wald chi2(3)      =      11.49
+corr(u_i, X) = 0 (assumed)                      Prob > chi2       =     0.0093
+
+                                 (Std. err. adjusted for 126 clusters in subjectid)
+-----------------------------------------------------------------------------------
+                  |               Robust
+            x2hat | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+RiskLineSwitchToB |   .6027904   .8023525     0.75   0.452    -.9697917    2.175372
+          lottery |   23.41448   11.54361     2.03   0.043      .789428    46.03953
+         Risklott |  -.9635101   1.159676    -0.83   0.406    -3.236433    1.309413
+            _cons |   25.53502    7.95289     3.21   0.001     9.947646     41.1224
+------------------+----------------------------------------------------------------
+          sigma_u |  24.070737
+          sigma_e |  27.378464
+              rho |  .43597352   (fraction of variance due to u_i)
+-----------------------------------------------------------------------------------
+
+. outreg2 using Table3.doc, append  addtext(Subject RE, YES) 
+Table3.doc
+dir : seeout
+
+. 
+. log cl
+      name:  <unnamed>
+       log:  C:\Users\joshu\OneDrive\Documents\GitHub\ExperimentalEcon\proj2\Extension.log
+  log type:  text
+ closed on:   8 Dec 2023, 07:38:26
+-------------------------------------------------------------------------------------------------------------

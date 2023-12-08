@@ -1,0 +1,22 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx4464\clbrdrt\brdrs\cellx5760\clbrdrt\brdrs\cellx7056\clbrdrt\brdrs\cellx8352\clbrdrt\brdrs\cellx9648
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx5760\cellx7056\cellx8352\cellx9648
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx8352\clbrdrb\brdrs\cellx9648
+\ql VARIABLES\cell\qc x1hat\cell\qc x2hat\cell\qc x12hat\cell\qc x1hat\cell\qc x2hat\cell\qc x12hat\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx5760\cellx7056\cellx8352\cellx9648
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql o.nonmonr\cell\qc -\cell\qc -\cell\qc -\cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql nonmonr\cell\qc \cell\qc \cell\qc \cell\qc 2.538\cell\qc 12.66**\cell\qc -6.001\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (5.081)\cell\qc (5.416)\cell\qc (5.489)\cell\row
+\ql Constant\cell\qc 36.71***\cell\qc 36.22***\cell\qc 32.45***\cell\qc 43.15***\cell\qc 44.71***\cell\qc 44.19***\cell\row
+\ql \cell\qc (0.894)\cell\qc (1.042)\cell\qc (0.957)\cell\qc (0.920)\cell\qc (0.981)\cell\qc (0.994)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 1,280\cell\qc 1,280\cell\qc 1,280\cell\qc 1,280\cell\qc 1,280\cell\qc 1,280\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx8352\clbrdrb\brdrs\cellx9648
+\ql R-squared\cell\qc 0.000\cell\qc 0.000\cell\qc 0.000\cell\qc 0.000\cell\qc 0.004\cell\qc 0.001\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
